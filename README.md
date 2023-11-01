@@ -6,7 +6,7 @@
 - version 当前版本
 
 
-仅包含有台词的音频文件
+仅包含有台词的音频文件，可以查看tags下载不同版本
 
 
 [valorant-audio](https://github.com/Virace/valorant-audio)
