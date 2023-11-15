@@ -6936,6 +6936,10 @@
             "size": 19065,
             "sha256": "bebbb723eb3b54f0ba9a640ee46d4e6deb7130a65bc32346b36150452b24be35"
         },
+        "248284565": {
+            "size": 186251,
+            "sha256": "215ff3e15ced1585efcde1d8aad4d4ddc5acfc9a590e5589c0bb679a4f88eb32"
+        },
         "248338033": {
             "size": 50358,
             "sha256": "939d3456e3b10f58cb2976c31e72e0dce14b4fa152d857fdc089f6e73e8eff4c"
@@ -19047,10 +19051,6 @@
         "670735593": {
             "size": 13127,
             "sha256": "13a58eb9f2baf73273b11d4e80dde3560cf2a53dd94a7376cb74f836d6af2dc5"
-        },
-        "670916156": {
-            "size": 271007,
-            "sha256": "fc5c51ec2a67cc3e8ca8fed250107bee1433fdb89e9a4c2d25ab7ebd52a3fc18"
         },
         "670969760": {
             "size": 18001,
@@ -37997,6 +37997,6 @@
             "sha256": "2614d989f1fb2fa868de0cb07bc0e2f68a9bfa2cdbebc21c5c504d75a75f9bf7"
         }
     },
-    "version": "07.09.00.1022235",
+    "version": "07.10.00.2100005",
     "type": "audio_hash"
 }
