@@ -1,0 +1,20 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_Permafrost_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1010076445"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Alien/Play_Wp_Knife_Alien_MedWhoosh",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "846603195"
+            ]
+        }
+    }
+]

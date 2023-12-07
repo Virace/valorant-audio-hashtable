@@ -1,0 +1,547 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Phoenix_SFX/Q/Play_Phoenix_AbilQ_WallDecay",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "246324533",
+                "684020280"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Phoenix_SFX/Q/Play_Phoenix_Wall_Equip_Jacket_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "106714908"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Store/UI_Store_Purchase_Complete",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "223597185",
+                "328946171"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Premier/UI_T_MapBanned",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "572531216"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Ascent/Emitters/Play_BG_Ascent_Wind_Howl",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "194674914"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/WinterMode/WinterMode/Play_WinterMode_Present_Spawn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "47291271"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Breach_SFX/Play_Breach_Fusion_Explode",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1027768985"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/King_RE/King_Luger_RE/Play_Wp_Luger_King_Inspect_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "545438213"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Loops/Emitter_Aggregates/Play_Emitter_Foxtrot_Foliage_Palm_Gusty",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "983364751"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Loops/Emitter_Aggregates/Play_Emitter_Foxtrot_Foliage_Palm_Active",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "592973296"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Circle_RE/Circle_AutoP_RE/Play_Wp_AutoPistol_Circle_Inspect_Element_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "820035635"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Range/Play_BG_Range_Basement_Cell",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "540839059"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_King/Play_UI_KillBanner_King",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "622809278"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Shared_Elements/UI_General_Hover_Tick",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "402665719"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/URF/URF_AutoPistol/Play_Wp_AutoPistol_URF_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "100690719",
+                "1008910489",
+                "1014573130",
+                "1018471327",
+                "142656338",
+                "147906470",
+                "151923624",
+                "169516728",
+                "196528455",
+                "201701867",
+                "21348701",
+                "240498021",
+                "245965466",
+                "253315888",
+                "265039248",
+                "326169430",
+                "340267069",
+                "345092362",
+                "351731584",
+                "36038674",
+                "3695999",
+                "379379561",
+                "390777995",
+                "403199519",
+                "415727889",
+                "43550678",
+                "449746170",
+                "458800246",
+                "482036093",
+                "504345541",
+                "525206633",
+                "531174252",
+                "548243371",
+                "559889013",
+                "560915447",
+                "561065888",
+                "596530026",
+                "601441171",
+                "62763767",
+                "634788706",
+                "63879861",
+                "652431613",
+                "674045949",
+                "714616261",
+                "715226170",
+                "758207355",
+                "774897732",
+                "777077042",
+                "810326110",
+                "832690640",
+                "875286472",
+                "888917458",
+                "892939906",
+                "902380789",
+                "905606528",
+                "950647311",
+                "96528031",
+                "979826558",
+                "994059107"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Hunter_SFX/Abilities/Play_Hunter_AbilX_Equip_BowMvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "246303013"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Abilities/X_Duel/Play_Sequoia_AbilX_Wall_Near_Break",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "709136446"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Abilities/X_Duel/Play_Sequoia_AbilX_Foley_02",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "583859168"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Clay_SFX/Satchel/Play_Abil_Clay_Jump_Satchel_Throw",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "930793133"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Rift_VO/Play_VO_Rift_WonDoingGreat",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "293396462",
+                "324874118",
+                "685403391",
+                "881337374"
+            ],
+            "de-DE": [
+                "392036500",
+                "396902396",
+                "584269067",
+                "929913362"
+            ],
+            "en-US": [
+                "1046295117",
+                "292068452",
+                "409549279",
+                "666733013"
+            ],
+            "es-ES": [
+                "629849009",
+                "69929361",
+                "934355679",
+                "982983738"
+            ],
+            "es-MX": [
+                "1000010537",
+                "331750346",
+                "40405108",
+                "768802733"
+            ],
+            "fr-FR": [
+                "373286384",
+                "439383416",
+                "919890728",
+                "944146051"
+            ],
+            "it-IT": [
+                "175112785",
+                "231355508",
+                "591201669",
+                "603860633"
+            ],
+            "ja-JP": [
+                "204776360",
+                "393761999",
+                "461898899",
+                "653461101"
+            ],
+            "ko-KR": [
+                "1051267186",
+                "1417235",
+                "265712202",
+                "550523878"
+            ],
+            "pl-PL": [
+                "1066857575",
+                "121257226",
+                "347075413",
+                "922293848"
+            ],
+            "pt-BR": [
+                "198188805",
+                "378572759",
+                "825220988",
+                "983334294"
+            ],
+            "ru-RU": [
+                "125464416",
+                "471303219",
+                "811370131",
+                "919447816"
+            ],
+            "tr-TR": [
+                "1004393474",
+                "143503401",
+                "165426693",
+                "417015291"
+            ],
+            "Zh-CN": [
+                "484774097",
+                "648276023",
+                "792900009",
+                "799304408"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_CantUse",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1032453824",
+                "145710914"
+            ],
+            "de-DE": [
+                "250543810",
+                "798049371"
+            ],
+            "en-US": [
+                "854384379",
+                "942048965"
+            ],
+            "es-ES": [
+                "216549995",
+                "741932271"
+            ],
+            "es-MX": [
+                "422289510",
+                "731185769"
+            ],
+            "fr-FR": [
+                "180919768",
+                "223429751"
+            ],
+            "it-IT": [
+                "251271897",
+                "994475032"
+            ],
+            "ja-JP": [
+                "1031023586",
+                "672942489"
+            ],
+            "ko-KR": [
+                "1037839003",
+                "1046958623"
+            ],
+            "pl-PL": [
+                "475068311",
+                "959354823"
+            ],
+            "pt-BR": [
+                "513618420",
+                "560824280"
+            ],
+            "ru-RU": [
+                "133614585",
+                "284641763"
+            ],
+            "tr-TR": [
+                "227238361",
+                "77908895"
+            ],
+            "Zh-CN": [
+                "775774547",
+                "911914177"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/NoShip/Characters/Events_Char_Joules_SFX/Play_Wp_Grenade_Shock_Explo",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "214966180",
+                "909956926"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops/Play_BG_Port_Emitter_BSite_Catwalk",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "429400386",
+                "699675742"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_DMR_RE/T1/Play_Wp_DMR_Sovereign_Tier1_Equip_2_Chg_Handle_Back",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "152347492"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Loops/Individual/Play_BG_Foxtrot_Foliage_Palm_Calm",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "643483329"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/GunGame/Play_GunGame_Spawn_Enemy",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "481598890"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_CharacterSelect/CharacterSelect/Play_UI_CharacterSelect_BG",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "57550954"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_CharacterSelect/CharacterSelect/Play_UI_Hover_High_Tick_3_Sleek",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "339019555"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Circle/Play_UI_KillBanner_Circle",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "911500454"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Volumes/Individual/Play_BG_Foxtrot_Tone_ChopShop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "236872379"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Volumes/Volume_Aggregates/Play_AmbVol_Foxtrot_Ruins",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "665280443"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Volumes/Volume_Aggregates/Play_AmbVol_Foxtrot_Ruins",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "286572568"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/King/Carbine_King/Play_Wp_Carbine_King_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1000257217",
+                "1013606431",
+                "1021065446",
+                "1030957653",
+                "1056517887",
+                "1059937587",
+                "1064609377",
+                "132840485",
+                "15608121",
+                "171809131",
+                "19817588",
+                "23735593",
+                "247440487",
+                "253231749",
+                "278181300",
+                "287420995",
+                "288919808",
+                "346789659",
+                "36526880",
+                "370105150",
+                "373034337",
+                "379668496",
+                "408107537",
+                "4257123",
+                "446172999",
+                "450084262",
+                "453867813",
+                "483662764",
+                "501430427",
+                "556087702",
+                "557940199",
+                "565272245",
+                "574908951",
+                "601001861",
+                "626760592",
+                "629270200",
+                "651938489",
+                "661184588",
+                "666867631",
+                "727572187",
+                "739364273",
+                "740800366",
+                "758504569",
+                "790412770",
+                "813184754",
+                "896551422",
+                "898045759",
+                "912923756",
+                "91828322",
+                "921335286",
+                "937276135",
+                "97524677",
+                "987320214"
+            ]
+        }
+    }
+]

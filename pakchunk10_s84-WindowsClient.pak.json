@@ -1,0 +1,125 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_BoltSniper_RE/Play_Wp_BoltSniper_MonkeyKing_Chg_Hnd_Fwd",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1021307661",
+                "381753483",
+                "576618389"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_BoltSniper_RE/Play_Wp_BoltSniper_Dynasty_Chg_Hnd_Back_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "150194449",
+                "492081617",
+                "548769287"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_DMR_RE/Play_Wp_DMR_Aquarium_MagIn_End_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "755989787",
+                "89734256",
+                "971891415"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Vector_RE/Play_Wp_Vector_Motor_Inspect_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "675773197",
+                "847555320",
+                "8626483"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Revolver_RE/Play_Wp_Revolver_Motor_Reload_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "223020059",
+                "508381763",
+                "836546269"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/SAV/Play_BG_Hurm4_Exterior_Birds",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "164226447",
+                "500369388",
+                "676111186",
+                "69667285"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Ashen/Play_Wp_AK47_Ashen_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "101145424",
+                "1020396756",
+                "1020579393",
+                "1031155163",
+                "1040461877",
+                "1060130451",
+                "1067141511",
+                "115668874",
+                "217798618",
+                "253569811",
+                "31291311",
+                "345148982",
+                "355106021",
+                "396251375",
+                "409961594",
+                "416977151",
+                "436971189",
+                "47266145",
+                "472939748",
+                "505735273",
+                "528226445",
+                "562884538",
+                "567714942",
+                "584020184",
+                "598810260",
+                "611288526",
+                "620013597",
+                "620138329",
+                "632916505",
+                "632972378",
+                "664650975",
+                "673765037",
+                "700149447",
+                "727196755",
+                "736949655",
+                "739633805",
+                "743279966",
+                "792220208",
+                "839057616",
+                "884887133",
+                "893543092",
+                "904872551",
+                "93482293",
+                "939165295",
+                "942041572",
+                "953397436",
+                "968970412",
+                "97278063"
+            ]
+        }
+    }
+]

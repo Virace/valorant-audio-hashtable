@@ -1,0 +1,89 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Revolver_RE/Play_Wp_Revolver_Motor_Inspect_Ele_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "115306353"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AK_RE/Play_Wp_AK_Dynasty_Reload_Mvt_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "240487247",
+                "30293115",
+                "692458991"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Ashen_Inspect_Forestock_Fwd_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "983953973"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Ashen_Reload_Grab_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "610479173"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_AK_RE/Play_Wp_AK47_PermaFrost_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "206205888",
+                "346500590",
+                "923826834"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Volumes/Def_Side/Play_BG_Yard_DefSpawn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "898296983"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/Emitters/Play_BG_Hurm4_Birds_Medium",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "164226447"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Inspect_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "148725583",
+                "498612021",
+                "782674568"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Luger_RE/Play_Wp_Luger_Ashen_Reload_Mag_In_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "307072166"
+            ]
+        }
+    }
+]

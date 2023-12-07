@@ -1,0 +1,29 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Store/UI_Store_Purchase_Complete_Mograph",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "197972774"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_DMR_RE/T3/Play_Wp_DMR_Sovereign_Inspect_Mvt_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "926015338"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/URF_RE/URF_HMG_RE/Play_Wp_HMG_URF_Inspect_Open_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "425479532"
+            ]
+        }
+    }
+]

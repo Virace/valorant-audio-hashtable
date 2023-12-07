@@ -1,0 +1,129 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Loops/Play_BG_Yard_Wind_Howl",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "201752376"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_Permafrost_Reload_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "523081346"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_Permafrost_Reload_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "768219171"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_SawedOff_RE/Play_Wp_SawedOff_Ashen_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "591814431"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Sawed_Off_RE/Play_Wp_Sawed_Off_Antares_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "282569987"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Luger_RE/Play_Wp_Luger_Ashen_Inspect_Elem_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "344203574"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LMG_RE/Play_Wp_LMG_Ashen_Inspect_Belt_in_Mag_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "646413159"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LMG_RE/Play_Wp_LMG_Ashen_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "451909776"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Inspect_Elem_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "948227684"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_BoltSniper_RE/Play_Wp_BoltSniper_Antares_Inspect_Mvt_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "247377735"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Rift_CharacterSelect/Play_Rift_CharacterSelect_Idle_Loop_Orb_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "391791142"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LeverSniper_RE/Play_Wp_LeverSniper_Ashen_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "745377358"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_DefSpwn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "707098924"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_Center_Battle_Site",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "361969188",
+                "764470595"
+            ]
+        }
+    }
+]

@@ -1,0 +1,5836 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Core/MVT_Ascender/Play_MVT_Ascender_Loop_Down",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "110501592"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SniperLever_RE/Play_Wp_LeverSniper_Inspect_Lever_In_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "427846113"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SniperLever_RE/Play_Wp_LeverSniper_Reload_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1064760447",
+                "256351332",
+                "87061232"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Killjoy_SFX/Movement/Play_FS_Mvt_Killjoy_Run",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "130720959",
+                "169360628",
+                "265096849",
+                "625698377",
+                "807445028",
+                "878762126",
+                "976267845",
+                "996050608"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Killjoy_SFX/Movement/Play_Mvt_Killjoy_S0_Arm_Fast_Short_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1065641655",
+                "370780499",
+                "537310035"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Killjoy_SFX/Movement/Play_Mvt_Killjoy_S0_Arm_Inspect_Med_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "167310296",
+                "309212920",
+                "843769090"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_AbilE_Destroyed",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "45182840"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_AbilE_Cast",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "169277610",
+                "244950587",
+                "409654260",
+                "766838424"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Giraffe_SFX/Movement/Play_Mvt_Giraffe_S0_Arm_Inspect_Med_Fast_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "137053595",
+                "605149985",
+                "813815797"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/MainMenu/Play_UI_MainLobby_NewLobbyClick",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "281343769"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Revolver_RE/Play_Wp_Revolver_Reload_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1050588606",
+                "650245569",
+                "691033886"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/Music/Music_Arc1_Events/Events_Play/Play_Music_OutOfGame",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1010657425",
+                "1023713548",
+                "1034133792",
+                "1056946218",
+                "145563003",
+                "150411191",
+                "23155951",
+                "232155926",
+                "255400604",
+                "289811789",
+                "292303663",
+                "309437689",
+                "311730132",
+                "34992252",
+                "366738042",
+                "397084249",
+                "465486908",
+                "468014303",
+                "472159617",
+                "50722359",
+                "517760263",
+                "531464584",
+                "535762357",
+                "545968479",
+                "579912849",
+                "583189371",
+                "61937950",
+                "622799338",
+                "630681045",
+                "646808406",
+                "676954561",
+                "710108849",
+                "715167967",
+                "749237928",
+                "757966940",
+                "771171532",
+                "772487440",
+                "802475707",
+                "814578534",
+                "826170576",
+                "845475111",
+                "859311608",
+                "869554070",
+                "877300487",
+                "890708748",
+                "89887787",
+                "917327636",
+                "966339627",
+                "989169253",
+                "997142392",
+                "99723732"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HMG_RE/Play_Wp_HMG_Inspect_Shell_Mvt_H_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "725855356"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HMG_RE/Play_Wp_HMG_Equip_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "102752696",
+                "19522635",
+                "22296692",
+                "256990329",
+                "547187048",
+                "588019580"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Phoenix_SFX/E/Play_Phoenix_AbilE_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "323180524",
+                "381342608",
+                "629351773",
+                "698337475",
+                "767334141"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Aggrobot_VO/Core/Play_VO_Aggrobot_E06_Emote_PingCaution",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "855244192",
+                "932797936"
+            ],
+            "de-DE": [
+                "206211409",
+                "259132163"
+            ],
+            "en-US": [
+                "558929079",
+                "573920520"
+            ],
+            "es-ES": [
+                "377860386",
+                "584925985"
+            ],
+            "es-MX": [
+                "32204507",
+                "693046499"
+            ],
+            "fr-FR": [
+                "318284232",
+                "571302919"
+            ],
+            "it-IT": [
+                "365155744",
+                "983456827"
+            ],
+            "ja-JP": [
+                "277619330",
+                "352821412"
+            ],
+            "ko-KR": [
+                "417125649",
+                "469770085"
+            ],
+            "pl-PL": [
+                "1037427428",
+                "914122594"
+            ],
+            "pt-BR": [
+                "599815312",
+                "808246251"
+            ],
+            "ru-RU": [
+                "490991897",
+                "598136995"
+            ],
+            "tr-TR": [
+                "376999090",
+                "763055533"
+            ],
+            "Zh-CN": [
+                "309059985",
+                "316139435"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Aamir_VO/Play_VO_Aamir_LastDefuseResumption",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1085348790",
+                "344535599"
+            ],
+            "de-DE": [
+                "1894017953",
+                "2071014580"
+            ],
+            "en-US": [
+                "357586919",
+                "626589975"
+            ],
+            "es-ES": [
+                "584749511",
+                "94656386"
+            ],
+            "es-MX": [
+                "1729679695",
+                "2139771717"
+            ],
+            "fr-FR": [
+                "258712752",
+                "817659902"
+            ],
+            "it-IT": [
+                "1089840360",
+                "640525050"
+            ],
+            "ja-JP": [
+                "1273544960",
+                "424813129"
+            ],
+            "ko-KR": [
+                "1105675152",
+                "1776988391"
+            ],
+            "pl-PL": [
+                "1851249357",
+                "916027127"
+            ],
+            "pt-BR": [
+                "1250147188",
+                "1809721254"
+            ],
+            "ru-RU": [
+                "780724654",
+                "922700962"
+            ],
+            "tr-TR": [
+                "1621055364",
+                "1655105189"
+            ],
+            "Zh-CN": [
+                "650600344",
+                "940758312"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Aamir_VO/Play_VO_Aamir_BubbleDown",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1008950875",
+                "1201259394",
+                "14122287",
+                "144972398",
+                "1781716533",
+                "1805753858",
+                "1912272571",
+                "1954372686",
+                "741547925",
+                "828111838",
+                "918405029",
+                "936831026"
+            ],
+            "de-DE": [
+                "1322797947",
+                "1363227660",
+                "1490134785",
+                "1519235617",
+                "1522973000",
+                "1576911616",
+                "1657516422",
+                "1899919614",
+                "1958994407",
+                "414913123",
+                "685082992",
+                "720258492"
+            ],
+            "en-US": [
+                "1035161085",
+                "1047677330",
+                "124529242",
+                "279078130",
+                "324056262",
+                "380912214",
+                "487959528",
+                "756697075",
+                "75770036",
+                "820411683",
+                "880273027",
+                "996111638"
+            ],
+            "es-ES": [
+                "10302511",
+                "1168032455",
+                "1852830776",
+                "1860665282",
+                "266644661",
+                "415184639",
+                "501584973",
+                "547648942",
+                "698742407",
+                "830653001",
+                "914652823",
+                "92347886"
+            ],
+            "es-MX": [
+                "1110799809",
+                "1258875005",
+                "1582243646",
+                "1596818018",
+                "1856978265",
+                "1882906928",
+                "2054384810",
+                "2137649833",
+                "6164367",
+                "746143435",
+                "805118314",
+                "897914614"
+            ],
+            "fr-FR": [
+                "1346433792",
+                "138499997",
+                "1843509027",
+                "230125225",
+                "283829172",
+                "477871243",
+                "515599444",
+                "596030748",
+                "626218223",
+                "718564942",
+                "889630133",
+                "943145879"
+            ],
+            "it-IT": [
+                "1094546683",
+                "139211089",
+                "1402190169",
+                "1470995700",
+                "1709859026",
+                "1948155947",
+                "2024928392",
+                "2130827878",
+                "268421256",
+                "417955970",
+                "615512188",
+                "941054925"
+            ],
+            "ja-JP": [
+                "1004491398",
+                "1074233694",
+                "1229457600",
+                "1408700967",
+                "1483969634",
+                "1825486200",
+                "2094998773",
+                "2128966850",
+                "259535297",
+                "415045294",
+                "448010769",
+                "47482527"
+            ],
+            "ko-KR": [
+                "1243764591",
+                "125545128",
+                "1433922818",
+                "1522203790",
+                "1845203134",
+                "2144230998",
+                "226491818",
+                "381394197",
+                "508307363",
+                "767158151",
+                "951141106",
+                "977162868"
+            ],
+            "pl-PL": [
+                "1019087780",
+                "1040072839",
+                "1071728447",
+                "1253698250",
+                "1759957905",
+                "1852269496",
+                "52533744",
+                "754944561",
+                "81317757",
+                "934377303",
+                "947550559",
+                "997141320"
+            ],
+            "pt-BR": [
+                "115402248",
+                "1378810249",
+                "1421272126",
+                "1460381676",
+                "1551060255",
+                "1562824388",
+                "1720284445",
+                "1851524297",
+                "1906288130",
+                "257725821",
+                "534782826",
+                "604230261"
+            ],
+            "ru-RU": [
+                "1145099914",
+                "1428067661",
+                "1467881366",
+                "1490336925",
+                "1555083846",
+                "1679597456",
+                "1791401146",
+                "1869531683",
+                "2038693324",
+                "2127200815",
+                "513293212",
+                "642274821"
+            ],
+            "tr-TR": [
+                "1136300293",
+                "1309270437",
+                "1338129811",
+                "1520946736",
+                "1591714178",
+                "1624507881",
+                "166018750",
+                "1911604890",
+                "2010012901",
+                "2058154610",
+                "718329056",
+                "776126149"
+            ],
+            "Zh-CN": [
+                "1092716389",
+                "1182992871",
+                "1526047417",
+                "1566942987",
+                "1603414908",
+                "164617816",
+                "1666795100",
+                "1983953250",
+                "1997736522",
+                "506667006",
+                "609221061",
+                "670579951"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sarge_SFX/Molotov/Play_Sarge_Molotov_Equip_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "103007205",
+                "303755065",
+                "349187678"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sarge_SFX/Molotov/Play_Sarge_Molotov_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "120768463",
+                "328186917",
+                "461072743",
+                "495752772",
+                "807644970",
+                "834384239"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sarge_SFX/Molotov/Play_Sarge_AbilQ_Projectile_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1059629361",
+                "451105888",
+                "821325208",
+                "963136639"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Spawn_Barrier/Play_Rad_Barrier_Amb_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1005067658"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/BombMode/Events_Spike/Play_Bomb_Beep_Long",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "437828768",
+                "699703246"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Knife_Base/Play_Wp_Melee_Knife_Hit",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1047317866",
+                "370266010",
+                "623684939",
+                "635130886",
+                "75938098",
+                "779790628",
+                "837414794",
+                "879568375"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/BombMode/Events_Spike/Radianite/Play_Rad_Trans_Stage",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "265052247",
+                "377530536",
+                "746671779"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/BasePistol_RE/Play_Wp_BasePistol_Equip_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1058474557",
+                "326928972",
+                "509860025"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/BasePistol_RE/Play_Wp_BasePistol_Equip_Slide_Pull_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "44511724",
+                "515847568",
+                "894852925"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/BasePistol_RE/Play_Wp_BasePistol_Mvt_Reload_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "167629879",
+                "293352229",
+                "299735506"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Aggrobot_SFX/Aggrobot_C/C/Play_Aggrobot_AbilC_BubbleGrenade_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "158948035",
+                "25398546",
+                "54480672",
+                "56614009",
+                "653685992",
+                "884449050"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Aggrobot_SFX/Aggrobot_C/C/Play_Aggrobot_AbilC_BubbleGrenade_InMosh_Burn_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "139549520",
+                "168851569",
+                "179273273",
+                "463758421",
+                "602777763"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sarge_SFX/MVT/Play_Mvt_Sarge_S0_Arm_Short_Slow2_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1004937274",
+                "446117709",
+                "758840985"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sarge_SFX/MVT/Play_FS_Mvt_Sarge_Run",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1021476282",
+                "145540067",
+                "238221208",
+                "275528303",
+                "321205058",
+                "439861524",
+                "488153612",
+                "945903952"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sarge_SFX/MVT/Play_Mvt_Sarge_S0_Arm_Short_Fast2_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1028287769",
+                "399481512",
+                "849681168"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sarge_SFX/MVT/Play_Mvt_Sarge_S0_Arm_Inspect_Rifle_Lower_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "32553283",
+                "619777985",
+                "78145409"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sarge_SFX/MVT/Play_Mvt_Sarge_S0_Arm_Inspect_Med_Fast_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "203972786",
+                "308908440",
+                "834670918"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sarge_SFX/MVT/Play_Mvt_Sarge_S0_Arm_Short_Fast_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1056739765",
+                "1073036365",
+                "190897582"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Luger_RE/Play_Wp_Luger_Equip_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "304832819",
+                "835803548",
+                "933018865"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Killjoy_VO/Play_VO_Killjoy_NeedHealing",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "247002959",
+                "47358081"
+            ],
+            "de-DE": [
+                "1687904165",
+                "417756264"
+            ],
+            "en-US": [
+                "524284784",
+                "7976926"
+            ],
+            "es-ES": [
+                "433464819",
+                "858364755"
+            ],
+            "es-MX": [
+                "715414168",
+                "906802956"
+            ],
+            "fr-FR": [
+                "26330465",
+                "414509318"
+            ],
+            "it-IT": [
+                "1220999111",
+                "20939389"
+            ],
+            "ja-JP": [
+                "1228698133",
+                "136409039"
+            ],
+            "ko-KR": [
+                "279833764",
+                "80543431"
+            ],
+            "pl-PL": [
+                "1076676810",
+                "528171315"
+            ],
+            "pt-BR": [
+                "1192624247",
+                "927219581"
+            ],
+            "ru-RU": [
+                "1741799417",
+                "550034147"
+            ],
+            "tr-TR": [
+                "1120486006",
+                "469394755"
+            ],
+            "Zh-CN": [
+                "1809775194",
+                "286800357"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Killjoy_VO/Play_VO_Killjoy_EmotePingMarkSpike",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1517471221",
+                "401046561"
+            ],
+            "de-DE": [
+                "214826054",
+                "958330033"
+            ],
+            "en-US": [
+                "90458338",
+                "914572980"
+            ],
+            "es-ES": [
+                "2005244886",
+                "767563150"
+            ],
+            "es-MX": [
+                "1321996477",
+                "251737812"
+            ],
+            "fr-FR": [
+                "1047359604",
+                "2028685291"
+            ],
+            "it-IT": [
+                "395741526",
+                "783244523"
+            ],
+            "ja-JP": [
+                "1311121802",
+                "1797353204"
+            ],
+            "ko-KR": [
+                "1714347082",
+                "2081985266"
+            ],
+            "pl-PL": [
+                "1489295447",
+                "1863057268"
+            ],
+            "pt-BR": [
+                "179363600",
+                "65646719"
+            ],
+            "ru-RU": [
+                "1275374923",
+                "1568999523"
+            ],
+            "tr-TR": [
+                "1114232430",
+                "986723393"
+            ],
+            "Zh-CN": [
+                "1768874881",
+                "586562450"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Killjoy_VO/E02/Play_VO_Killjoy_E02_Kill_Vampire",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "583591153"
+            ],
+            "de-DE": [
+                "543498384"
+            ],
+            "en-US": [
+                "314815641"
+            ],
+            "es-ES": [
+                "91105427"
+            ],
+            "es-MX": [
+                "259388115"
+            ],
+            "fr-FR": [
+                "128288808"
+            ],
+            "it-IT": [
+                "469248176"
+            ],
+            "ja-JP": [
+                "804558885"
+            ],
+            "ko-KR": [
+                "716542634"
+            ],
+            "pl-PL": [
+                "315101264"
+            ],
+            "pt-BR": [
+                "889369028"
+            ],
+            "ru-RU": [
+                "771909035"
+            ],
+            "tr-TR": [
+                "130663175"
+            ],
+            "Zh-CN": [
+                "146547696"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Killjoy_VO/E02/Play_VO_Killjoy_E02_MatchSrt_Chat_ClayKJ",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "377916133"
+            ],
+            "de-DE": [
+                "404292292"
+            ],
+            "en-US": [
+                "989501363"
+            ],
+            "es-ES": [
+                "66085820"
+            ],
+            "es-MX": [
+                "293431055"
+            ],
+            "fr-FR": [
+                "849822502"
+            ],
+            "it-IT": [
+                "187440161"
+            ],
+            "ja-JP": [
+                "228803056"
+            ],
+            "ko-KR": [
+                "487058557"
+            ],
+            "pl-PL": [
+                "112033259"
+            ],
+            "pt-BR": [
+                "946115347"
+            ],
+            "ru-RU": [
+                "1045845574"
+            ],
+            "tr-TR": [
+                "76732879"
+            ],
+            "Zh-CN": [
+                "322564116"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Killjoy_VO/E02/Play_VO_Killjoy_E02_Emote_Affirmation",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "415569895",
+                "895335825"
+            ],
+            "de-DE": [
+                "278866740",
+                "877055213"
+            ],
+            "en-US": [
+                "295381634",
+                "766983109"
+            ],
+            "es-ES": [
+                "779522380",
+                "932074450"
+            ],
+            "es-MX": [
+                "1029306248",
+                "68225729"
+            ],
+            "fr-FR": [
+                "115703280",
+                "954110676"
+            ],
+            "it-IT": [
+                "187275902",
+                "216976888"
+            ],
+            "ja-JP": [
+                "232652348",
+                "742340926"
+            ],
+            "ko-KR": [
+                "441983888",
+                "710176671"
+            ],
+            "pl-PL": [
+                "684823748",
+                "896425537"
+            ],
+            "pt-BR": [
+                "304014663",
+                "938846746"
+            ],
+            "ru-RU": [
+                "497067847",
+                "580866735"
+            ],
+            "tr-TR": [
+                "1066075050",
+                "591244633"
+            ],
+            "Zh-CN": [
+                "352251535",
+                "551484440"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Aamir_VO/E02/Play_VO_Gumshoe_E02_Emote_EnemySpotted_DefSpawn",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "138755932",
+                "832561669"
+            ],
+            "de-DE": [
+                "214745320",
+                "370645710"
+            ],
+            "en-US": [
+                "584550719",
+                "882799176"
+            ],
+            "es-ES": [
+                "1015772168",
+                "354828090"
+            ],
+            "es-MX": [
+                "117259148",
+                "707584701"
+            ],
+            "fr-FR": [
+                "638215144",
+                "999303164"
+            ],
+            "it-IT": [
+                "418070554",
+                "548694888"
+            ],
+            "ja-JP": [
+                "268287545",
+                "796399343"
+            ],
+            "ko-KR": [
+                "121692018",
+                "638759776"
+            ],
+            "pl-PL": [
+                "970493979",
+                "983176256"
+            ],
+            "pt-BR": [
+                "28944638",
+                "956408227"
+            ],
+            "ru-RU": [
+                "221157809",
+                "274818891"
+            ],
+            "tr-TR": [
+                "679974330",
+                "915696654"
+            ],
+            "Zh-CN": [
+                "1030519766",
+                "468702996"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Aamir_VO/E02/Play_VO_Gumshoe_E02_Emote_EnemySpotted_Mid",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "545709443",
+                "565468483"
+            ],
+            "de-DE": [
+                "162268952",
+                "549725597"
+            ],
+            "en-US": [
+                "706455383",
+                "881006667"
+            ],
+            "es-ES": [
+                "127689816",
+                "357640109"
+            ],
+            "es-MX": [
+                "1005660297",
+                "513263644"
+            ],
+            "fr-FR": [
+                "690519903",
+                "697026338"
+            ],
+            "it-IT": [
+                "1027843615",
+                "599153143"
+            ],
+            "ja-JP": [
+                "489365240",
+                "740495800"
+            ],
+            "ko-KR": [
+                "795025669",
+                "966323009"
+            ],
+            "pl-PL": [
+                "379267764",
+                "907741689"
+            ],
+            "pt-BR": [
+                "784130821",
+                "971547771"
+            ],
+            "ru-RU": [
+                "170565442",
+                "738843757"
+            ],
+            "tr-TR": [
+                "267251173",
+                "325652081"
+            ],
+            "Zh-CN": [
+                "607730145",
+                "851935811"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_GunDrop_HMG/Play_Wp_GunDrop_HMG_Bnc",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1029426558",
+                "1046114732",
+                "1052821130",
+                "161205967",
+                "171992602",
+                "177796325",
+                "190409654",
+                "199097039",
+                "219648442",
+                "237201986",
+                "253354181",
+                "282905057",
+                "290943027",
+                "296535546",
+                "316039927",
+                "368945639",
+                "375984268",
+                "401593430",
+                "40255771",
+                "426910850",
+                "449320618",
+                "45421366",
+                "468936201",
+                "469779407",
+                "522723253",
+                "580333072",
+                "610394627",
+                "617691304",
+                "620453423",
+                "623430681",
+                "632411004",
+                "674396226",
+                "680167432",
+                "689039688",
+                "69494118",
+                "697728064",
+                "702523718",
+                "714086820",
+                "741464836",
+                "743737160",
+                "747857237",
+                "758648193",
+                "774493066",
+                "774648223",
+                "780788475",
+                "824056433",
+                "836220013",
+                "845035414",
+                "871697084",
+                "87838513",
+                "941791322",
+                "950017513",
+                "965457296",
+                "968563523",
+                "977739365",
+                "980752977",
+                "981226861",
+                "999760011"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Thorne_VO/E02/Play_VO_Thorne_E02_RoundStartAllyCommend_Wushu",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "707424339"
+            ],
+            "de-DE": [
+                "354132020"
+            ],
+            "en-US": [
+                "260085496"
+            ],
+            "es-ES": [
+                "5900833"
+            ],
+            "es-MX": [
+                "641406785"
+            ],
+            "fr-FR": [
+                "730998346"
+            ],
+            "it-IT": [
+                "621733081"
+            ],
+            "ja-JP": [
+                "187852424"
+            ],
+            "ko-KR": [
+                "13438398"
+            ],
+            "pl-PL": [
+                "703417854"
+            ],
+            "pt-BR": [
+                "768504211"
+            ],
+            "ru-RU": [
+                "916988004"
+            ],
+            "tr-TR": [
+                "486367183"
+            ],
+            "Zh-CN": [
+                "129117552"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Thorne_VO/E02/Play_VO_Thorne_E02_MatchStartEnemy_Wraith",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "482638641"
+            ],
+            "de-DE": [
+                "539540502"
+            ],
+            "en-US": [
+                "816937940"
+            ],
+            "es-ES": [
+                "429826638"
+            ],
+            "es-MX": [
+                "991706486"
+            ],
+            "fr-FR": [
+                "626282448"
+            ],
+            "it-IT": [
+                "250888731"
+            ],
+            "ja-JP": [
+                "800715841"
+            ],
+            "ko-KR": [
+                "978660443"
+            ],
+            "pl-PL": [
+                "525792728"
+            ],
+            "pt-BR": [
+                "605207529"
+            ],
+            "ru-RU": [
+                "174181148"
+            ],
+            "tr-TR": [
+                "247944721"
+            ],
+            "Zh-CN": [
+                "618310678"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Killjoy_SFX/Abilities/Turret/Play_Killjoy_Abil_Turret_EnemyDetected",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "185565764",
+                "748425170"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Killjoy_SFX/Abilities/Turret/Play_Killjoy_Abil_Turret_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1018663498",
+                "1021772438",
+                "1022558607",
+                "1042073133",
+                "156967457",
+                "18093794",
+                "196645588",
+                "204320801",
+                "29755247",
+                "298386376",
+                "305292393",
+                "305806186",
+                "352630307",
+                "36914995",
+                "391291800",
+                "408379680",
+                "420678447",
+                "42172186",
+                "451646703",
+                "524024951",
+                "52506043",
+                "528264131",
+                "577356705",
+                "598001249",
+                "605945264",
+                "615876696",
+                "647249234",
+                "682301255",
+                "692448722",
+                "696820454",
+                "779397413",
+                "824659541",
+                "855656192",
+                "888148598",
+                "930492230",
+                "971827564"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Aggrobot_SFX/Aggrobot_Q/Q/Play_Aggrobot_AbilQ_SpikeBot_Roar",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1037140361",
+                "423782482",
+                "562335394"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Thorne_SFX/Movement/Play_Mvt_Thorne_S0_ArmR_Med_GunUp1_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "367407532",
+                "704504098",
+                "721291973"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Thorne_SFX/Movement/Play_Mvt_Thorne_S0_Impact_Light_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "502642145",
+                "531021582",
+                "71807128"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/BurstRifile_RE/Play_Wp_BurstRifle_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "320326676",
+                "580276434",
+                "665687099",
+                "94864587"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/BurstRifile_RE/Play_Wp_BurstRifle_Reload_Mag_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "16224196",
+                "487204608",
+                "870070234"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/DMR_RE/Play_Wp_DMR_MagOut_End_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1014570530",
+                "757531596",
+                "795597143"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/DMR_RE/Play_Wp_DMR_Reload_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "138609067",
+                "506406670",
+                "556038934"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/LMG_RE/Play_Wp_LMG_Reload_Mag_In_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "249206971",
+                "713762115",
+                "795759853"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Killjoy_SFX/Abilities/LockDown/Play_Killjoy_AbilX_Lockdown_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "512273482",
+                "601568779",
+                "881249059"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Thorne_SFX/4/Play_Thorne_Abil4_Projectile",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1064027693",
+                "478395057",
+                "791634888",
+                "883431155"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Thorne_SFX/4/Play_Thorne_Abil4_SlowFieldForm",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "145831728",
+                "240201757",
+                "374837155"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Hunter_SFX/Abilities/E_ReconDrone/Play_Hunter_AbilE_Drone_Destroyed",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "644227778",
+                "914752972"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Grenadier_VO/Play_VO_Grenadier_E02_Emote_GoingC",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "567300308",
+                "899016530"
+            ],
+            "de-DE": [
+                "510012342",
+                "853328568"
+            ],
+            "en-US": [
+                "167398116",
+                "96061645"
+            ],
+            "es-ES": [
+                "530984095",
+                "611521395"
+            ],
+            "es-MX": [
+                "435850820",
+                "813030848"
+            ],
+            "fr-FR": [
+                "123116753",
+                "790695237"
+            ],
+            "it-IT": [
+                "546868218",
+                "815069192"
+            ],
+            "ja-JP": [
+                "402546614",
+                "524405358"
+            ],
+            "ko-KR": [
+                "24941851",
+                "397753904"
+            ],
+            "pl-PL": [
+                "515543717",
+                "904686183"
+            ],
+            "pt-BR": [
+                "589421952",
+                "596578393"
+            ],
+            "ru-RU": [
+                "269846975",
+                "355233331"
+            ],
+            "tr-TR": [
+                "1002902406",
+                "368230205"
+            ],
+            "Zh-CN": [
+                "214770440",
+                "555679401"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Grenadier_VO/Play_VO_Grenadier_E02_LastKill_Killjoy",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "488286008"
+            ],
+            "de-DE": [
+                "720997753"
+            ],
+            "en-US": [
+                "1005836511"
+            ],
+            "es-ES": [
+                "666998330"
+            ],
+            "es-MX": [
+                "217071465"
+            ],
+            "fr-FR": [
+                "347820994"
+            ],
+            "it-IT": [
+                "57428545"
+            ],
+            "ja-JP": [
+                "1054634955"
+            ],
+            "ko-KR": [
+                "5342099"
+            ],
+            "pl-PL": [
+                "661760721"
+            ],
+            "pt-BR": [
+                "693959585"
+            ],
+            "ru-RU": [
+                "729535382"
+            ],
+            "tr-TR": [
+                "981433223"
+            ],
+            "Zh-CN": [
+                "759771214"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Grenadier_VO/Play_VO_Grenadier_E02_RoundStartAlly_Phoenix",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "848487093"
+            ],
+            "de-DE": [
+                "754642377"
+            ],
+            "en-US": [
+                "820028301"
+            ],
+            "es-ES": [
+                "862317386"
+            ],
+            "es-MX": [
+                "558833763"
+            ],
+            "fr-FR": [
+                "752584469"
+            ],
+            "it-IT": [
+                "435254361"
+            ],
+            "ja-JP": [
+                "248807152"
+            ],
+            "ko-KR": [
+                "693171920"
+            ],
+            "pl-PL": [
+                "517682418"
+            ],
+            "pt-BR": [
+                "899034531"
+            ],
+            "ru-RU": [
+                "181495490"
+            ],
+            "tr-TR": [
+                "403546649"
+            ],
+            "Zh-CN": [
+                "967467637"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Grenadier_VO/Play_VO_Grenadier_E02_Emote_PlantSpike",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "44972988",
+                "866296530"
+            ],
+            "de-DE": [
+                "374216841",
+                "699159633"
+            ],
+            "en-US": [
+                "675052287",
+                "878558007"
+            ],
+            "es-ES": [
+                "69411448",
+                "761073991"
+            ],
+            "es-MX": [
+                "392591366",
+                "614333865"
+            ],
+            "fr-FR": [
+                "160585834",
+                "748848321"
+            ],
+            "it-IT": [
+                "136377903",
+                "882364340"
+            ],
+            "ja-JP": [
+                "479740331",
+                "71296541"
+            ],
+            "ko-KR": [
+                "656512708",
+                "66095148"
+            ],
+            "pl-PL": [
+                "334741610",
+                "638713083"
+            ],
+            "pt-BR": [
+                "865122572",
+                "98600779"
+            ],
+            "ru-RU": [
+                "1017886663",
+                "155347015"
+            ],
+            "tr-TR": [
+                "1044012151",
+                "688820955"
+            ],
+            "Zh-CN": [
+                "356783879",
+                "677013059"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Grenadier_VO/Play_VO_Grenadier_E02_AbilityECast",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "27380514",
+                "436314187",
+                "445446929",
+                "848178831",
+                "918385239",
+                "935445069"
+            ],
+            "de-DE": [
+                "1049593657",
+                "138493713",
+                "332771239",
+                "55080015",
+                "669652391",
+                "85702381"
+            ],
+            "en-US": [
+                "194468187",
+                "262226855",
+                "330714310",
+                "474367783",
+                "763154042",
+                "905460903"
+            ],
+            "es-ES": [
+                "554486518",
+                "680658265",
+                "689207308",
+                "69103223",
+                "920674724",
+                "974413388"
+            ],
+            "es-MX": [
+                "1058394525",
+                "121014762",
+                "410285211",
+                "632873651",
+                "663678048",
+                "89646350"
+            ],
+            "fr-FR": [
+                "142772562",
+                "162011496",
+                "22655893",
+                "488129457",
+                "879942916",
+                "917126745"
+            ],
+            "it-IT": [
+                "1018330396",
+                "283877612",
+                "284702455",
+                "326140475",
+                "710068799",
+                "983797926"
+            ],
+            "ja-JP": [
+                "1003473305",
+                "616915853",
+                "618811354",
+                "669681008",
+                "809063188",
+                "923562378"
+            ],
+            "ko-KR": [
+                "113348920",
+                "206409861",
+                "579023851",
+                "651828330",
+                "90973898",
+                "929409261"
+            ],
+            "pl-PL": [
+                "1040947912",
+                "1068565752",
+                "224178368",
+                "29264741",
+                "638872573",
+                "760800681"
+            ],
+            "pt-BR": [
+                "213798732",
+                "224874411",
+                "356474487",
+                "401564904",
+                "593966945",
+                "943613087"
+            ],
+            "ru-RU": [
+                "305542194",
+                "474930138",
+                "718969589",
+                "83461901",
+                "894801608",
+                "90109868"
+            ],
+            "tr-TR": [
+                "1001561357",
+                "1070548858",
+                "20077297",
+                "22298666",
+                "320038257",
+                "749543945"
+            ],
+            "Zh-CN": [
+                "1038396269",
+                "112693102",
+                "160786996",
+                "312292939",
+                "405988460",
+                "981397169"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Grenadier_VO/Play_VO_Grenadier_E02_RndStartAllyCmnd_Sarge",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "887101129"
+            ],
+            "de-DE": [
+                "22593874"
+            ],
+            "en-US": [
+                "348046326"
+            ],
+            "es-ES": [
+                "850337495"
+            ],
+            "es-MX": [
+                "925292976"
+            ],
+            "fr-FR": [
+                "535331126"
+            ],
+            "it-IT": [
+                "678604704"
+            ],
+            "ja-JP": [
+                "1061757355"
+            ],
+            "ko-KR": [
+                "648690956"
+            ],
+            "pl-PL": [
+                "1063092938"
+            ],
+            "pt-BR": [
+                "841612661"
+            ],
+            "ru-RU": [
+                "886594955"
+            ],
+            "tr-TR": [
+                "751062245"
+            ],
+            "Zh-CN": [
+                "444989549"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Shotgun_RE/Play_Wp_ShotgunAuto_Mag_In_TP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "452039071",
+                "574938757",
+                "850781600"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Shotgun_RE/Play_Wp_ShotgunAuto_Mag_In_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "452039071",
+                "574938757",
+                "850781600"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sarge_VO/Play_VO_Sarge_CalloutC",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1562081862",
+                "779717751"
+            ],
+            "de-DE": [
+                "468873013",
+                "83888997"
+            ],
+            "en-US": [
+                "133959153",
+                "513070764"
+            ],
+            "es-ES": [
+                "107716964",
+                "2123597249"
+            ],
+            "es-MX": [
+                "1099119139",
+                "1353357446"
+            ],
+            "fr-FR": [
+                "2120431321",
+                "615649539"
+            ],
+            "it-IT": [
+                "1525063449",
+                "614494931"
+            ],
+            "ja-JP": [
+                "1230988279",
+                "1710779703"
+            ],
+            "ko-KR": [
+                "1705026662",
+                "809665103"
+            ],
+            "pl-PL": [
+                "1178779331",
+                "1551622094"
+            ],
+            "pt-BR": [
+                "1794894553",
+                "693926742"
+            ],
+            "ru-RU": [
+                "2010857552",
+                "773055665"
+            ],
+            "tr-TR": [
+                "1071362013",
+                "997642340"
+            ],
+            "Zh-CN": [
+                "1775297955",
+                "828099324"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sarge_VO/Play_VO_Sarge_BubbleDown",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1053520047",
+                "1239498481",
+                "1299409493",
+                "1589133110",
+                "1647787933",
+                "2124190117",
+                "502732429",
+                "513912903",
+                "692792191",
+                "74119601",
+                "758605287",
+                "830950910"
+            ],
+            "de-DE": [
+                "1026074114",
+                "1067083346",
+                "1229277071",
+                "1288712455",
+                "1525877733",
+                "1634181010",
+                "1940496044",
+                "2092567909",
+                "2147066833",
+                "2389583",
+                "457029123",
+                "898210783"
+            ],
+            "en-US": [
+                "202406402",
+                "252790248",
+                "312211989",
+                "504908180",
+                "537650152",
+                "590853433",
+                "720662411",
+                "725737205",
+                "750679383",
+                "884318132",
+                "901209112",
+                "944718986"
+            ],
+            "es-ES": [
+                "1008401194",
+                "1201780350",
+                "1208808671",
+                "1222730069",
+                "1476652767",
+                "1520214486",
+                "1614326882",
+                "1635370663",
+                "1753379987",
+                "385269840",
+                "502772959",
+                "633937308"
+            ],
+            "es-MX": [
+                "106534502",
+                "160782276",
+                "173001874",
+                "1753106447",
+                "188572734",
+                "1989217965",
+                "2024166399",
+                "243234997",
+                "290798551",
+                "659349723",
+                "813915123",
+                "905608251"
+            ],
+            "fr-FR": [
+                "1005699000",
+                "1139719721",
+                "1350702130",
+                "1405328056",
+                "1719530005",
+                "1789728567",
+                "1870610105",
+                "237306234",
+                "25170519",
+                "408222769",
+                "586284211",
+                "712053049"
+            ],
+            "it-IT": [
+                "103832472",
+                "1069940765",
+                "1289138498",
+                "136343343",
+                "1422051316",
+                "1590655832",
+                "1603604820",
+                "1770954968",
+                "2035057850",
+                "292818376",
+                "666023954",
+                "886490506"
+            ],
+            "ja-JP": [
+                "10016608",
+                "1295458097",
+                "1414074184",
+                "1669284129",
+                "1677253496",
+                "1966928887",
+                "414596475",
+                "436868975",
+                "524929769",
+                "640384465",
+                "821039937",
+                "945976551"
+            ],
+            "ko-KR": [
+                "1112401015",
+                "1128055710",
+                "1181030704",
+                "1206350471",
+                "1459853631",
+                "1972397693",
+                "318089157",
+                "419417940",
+                "49779842",
+                "585694212",
+                "591247349",
+                "846807145"
+            ],
+            "pl-PL": [
+                "1013044507",
+                "1027468769",
+                "1062226439",
+                "1114930812",
+                "1198346692",
+                "1280261921",
+                "1375827416",
+                "1584669145",
+                "1645072997",
+                "1960586321",
+                "535941081",
+                "628738863"
+            ],
+            "pt-BR": [
+                "1145723278",
+                "1339068603",
+                "1351294537",
+                "1446237857",
+                "1742258134",
+                "1917307098",
+                "23736775",
+                "478297442",
+                "499382322",
+                "563634281",
+                "610626456",
+                "84015446"
+            ],
+            "ru-RU": [
+                "1002218243",
+                "1262753450",
+                "1551389776",
+                "1638623493",
+                "176579011",
+                "1930795452",
+                "1996370272",
+                "2074960917",
+                "287282304",
+                "593315",
+                "647256902",
+                "664636719"
+            ],
+            "tr-TR": [
+                "1204951998",
+                "1505820584",
+                "1818879330",
+                "1867492167",
+                "2002347340",
+                "2084188243",
+                "255437130",
+                "37993161",
+                "446415961",
+                "514008496",
+                "520011920",
+                "824028516"
+            ],
+            "Zh-CN": [
+                "1279158598",
+                "1334249344",
+                "1566241345",
+                "1658663622",
+                "1662798114",
+                "1687336810",
+                "1816110242",
+                "521820848",
+                "609135452",
+                "744906667",
+                "859118450",
+                "863755079"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Guide_VO/OutOfRound/Play_VO_Guide_MatchStartMap_Haven",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "258186680"
+            ],
+            "de-DE": [
+                "1098887841"
+            ],
+            "en-US": [
+                "985754949"
+            ],
+            "es-ES": [
+                "464602396"
+            ],
+            "es-MX": [
+                "2023031708"
+            ],
+            "fr-FR": [
+                "786993764"
+            ],
+            "it-IT": [
+                "604826181"
+            ],
+            "ja-JP": [
+                "482419783"
+            ],
+            "ko-KR": [
+                "1160418853"
+            ],
+            "pl-PL": [
+                "944819808"
+            ],
+            "pt-BR": [
+                "1421691841"
+            ],
+            "ru-RU": [
+                "999607677"
+            ],
+            "tr-TR": [
+                "1791220113"
+            ],
+            "Zh-CN": [
+                "1611941175"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Reload_CarrierClick_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "27241452",
+                "724305774",
+                "954174969"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Aggrobot_SFX/Aggrobot_Movement/Movement/Play_Mvt_Aggrobot_S0_ArmR_Med_Stress_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "449416242",
+                "739851767",
+                "952564751"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Aggrobot_SFX/Aggrobot_Movement/Movement/Play_Mvt_Aggrobot_S0_ArmR_Short_Slow2_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "207567782",
+                "362623786",
+                "976390165"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Clay_SFX/Boomba/Play_Abil_Boomba_TinTank_Hit_Confirm",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "198659821",
+                "338799345",
+                "525420350",
+                "740426190",
+                "902594611"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Astra",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "471390640",
+                "74961810"
+            ],
+            "de-DE": [
+                "689138858",
+                "851992301"
+            ],
+            "en-US": [
+                "539369250",
+                "873886311"
+            ],
+            "es-ES": [
+                "384471324",
+                "933982287"
+            ],
+            "es-MX": [
+                "191110537",
+                "861811008"
+            ],
+            "fr-FR": [
+                "1062571230",
+                "529131172"
+            ],
+            "it-IT": [
+                "177160820",
+                "970922454"
+            ],
+            "ja-JP": [
+                "112390863",
+                "748839465"
+            ],
+            "ko-KR": [
+                "503791213",
+                "68623300"
+            ],
+            "pl-PL": [
+                "839931229",
+                "89726412"
+            ],
+            "pt-BR": [
+                "253182308",
+                "272277166"
+            ],
+            "ru-RU": [
+                "608735659",
+                "929809212"
+            ],
+            "tr-TR": [
+                "1071212620",
+                "972790551"
+            ],
+            "Zh-CN": [
+                "595123139",
+                "720292928"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Breach",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "114261333",
+                "914606668"
+            ],
+            "de-DE": [
+                "219675520",
+                "872187892"
+            ],
+            "en-US": [
+                "404664955",
+                "499135520"
+            ],
+            "es-ES": [
+                "232494217",
+                "724127920"
+            ],
+            "es-MX": [
+                "203041940",
+                "625061626"
+            ],
+            "fr-FR": [
+                "1054203351",
+                "737482754"
+            ],
+            "it-IT": [
+                "426573743",
+                "913574004"
+            ],
+            "ja-JP": [
+                "286612177",
+                "770914686"
+            ],
+            "ko-KR": [
+                "769775628",
+                "847203466"
+            ],
+            "pl-PL": [
+                "538172255",
+                "997050914"
+            ],
+            "pt-BR": [
+                "84497987",
+                "863409962"
+            ],
+            "ru-RU": [
+                "337588951",
+                "992255375"
+            ],
+            "tr-TR": [
+                "1014303692",
+                "933233759"
+            ],
+            "Zh-CN": [
+                "170888648",
+                "474693547"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Brimstone",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "476955888",
+                "719800215"
+            ],
+            "de-DE": [
+                "189830138",
+                "815196248"
+            ],
+            "en-US": [
+                "525236921",
+                "683624169"
+            ],
+            "es-ES": [
+                "409741019",
+                "751307955"
+            ],
+            "es-MX": [
+                "1046757681",
+                "710638226"
+            ],
+            "fr-FR": [
+                "170090719",
+                "710035855"
+            ],
+            "it-IT": [
+                "1052040343",
+                "68888713"
+            ],
+            "ja-JP": [
+                "283160169",
+                "453085177"
+            ],
+            "ko-KR": [
+                "1061768865",
+                "237706365"
+            ],
+            "pl-PL": [
+                "1005065520",
+                "298831691"
+            ],
+            "pt-BR": [
+                "614552754",
+                "977064475"
+            ],
+            "ru-RU": [
+                "322421799",
+                "890475607"
+            ],
+            "tr-TR": [
+                "24734373",
+                "754103910"
+            ],
+            "Zh-CN": [
+                "65493675",
+                "775355448"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Chamber",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "104508220",
+                "261114127"
+            ],
+            "de-DE": [
+                "395086936",
+                "686133082"
+            ],
+            "en-US": [
+                "1057827282",
+                "892106004"
+            ],
+            "es-ES": [
+                "177086945",
+                "745810303"
+            ],
+            "es-MX": [
+                "247293555",
+                "934856011"
+            ],
+            "fr-FR": [
+                "45616647",
+                "560971489"
+            ],
+            "it-IT": [
+                "3489367",
+                "511629665"
+            ],
+            "ja-JP": [
+                "385717414",
+                "395682355"
+            ],
+            "ko-KR": [
+                "630857091",
+                "818141763"
+            ],
+            "pl-PL": [
+                "397312165",
+                "566194968"
+            ],
+            "pt-BR": [
+                "313913590",
+                "537624205"
+            ],
+            "ru-RU": [
+                "199229345",
+                "557038027"
+            ],
+            "tr-TR": [
+                "547016810",
+                "554043178"
+            ],
+            "Zh-CN": [
+                "830639410",
+                "8804301"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Cypher",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1035176912",
+                "125863891"
+            ],
+            "de-DE": [
+                "12078555",
+                "899163526"
+            ],
+            "en-US": [
+                "1001627316",
+                "582877764"
+            ],
+            "es-ES": [
+                "42307626",
+                "976404529"
+            ],
+            "es-MX": [
+                "537583341",
+                "834217932"
+            ],
+            "fr-FR": [
+                "188252435",
+                "623391408"
+            ],
+            "it-IT": [
+                "982162887",
+                "990691430"
+            ],
+            "ja-JP": [
+                "329194030",
+                "991569837"
+            ],
+            "ko-KR": [
+                "657675240",
+                "895751998"
+            ],
+            "pl-PL": [
+                "193989464",
+                "22100300"
+            ],
+            "pt-BR": [
+                "1068800141",
+                "167388488"
+            ],
+            "ru-RU": [
+                "165860055",
+                "590803127"
+            ],
+            "tr-TR": [
+                "432447183",
+                "55971772"
+            ],
+            "Zh-CN": [
+                "1027637518",
+                "321905013"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Deadlock",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "127033529",
+                "338219761"
+            ],
+            "de-DE": [
+                "1055255211",
+                "499756244"
+            ],
+            "en-US": [
+                "28036976",
+                "776755047"
+            ],
+            "es-ES": [
+                "819976775",
+                "893202665"
+            ],
+            "es-MX": [
+                "283037579",
+                "36145768"
+            ],
+            "fr-FR": [
+                "69795533",
+                "789474504"
+            ],
+            "it-IT": [
+                "883872539",
+                "94653338"
+            ],
+            "ja-JP": [
+                "237098245",
+                "550492020"
+            ],
+            "ko-KR": [
+                "570531864",
+                "791157621"
+            ],
+            "pl-PL": [
+                "61389107",
+                "887204831"
+            ],
+            "pt-BR": [
+                "131295539",
+                "728753638"
+            ],
+            "ru-RU": [
+                "296547934",
+                "310352278"
+            ],
+            "tr-TR": [
+                "206233004",
+                "935796977"
+            ],
+            "Zh-CN": [
+                "1044591560",
+                "749093069"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Fade",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "442393760",
+                "832387061"
+            ],
+            "de-DE": [
+                "537197054",
+                "541153223"
+            ],
+            "en-US": [
+                "122540124",
+                "352371353"
+            ],
+            "es-ES": [
+                "1033524501",
+                "344994089"
+            ],
+            "es-MX": [
+                "833489289",
+                "916059039"
+            ],
+            "fr-FR": [
+                "440202121",
+                "714958202"
+            ],
+            "it-IT": [
+                "291135270",
+                "637380250"
+            ],
+            "ja-JP": [
+                "103058502",
+                "389030677"
+            ],
+            "ko-KR": [
+                "100160178",
+                "324284689"
+            ],
+            "pl-PL": [
+                "30494600",
+                "606375570"
+            ],
+            "pt-BR": [
+                "182958397",
+                "507776696"
+            ],
+            "ru-RU": [
+                "78380560",
+                "792614961"
+            ],
+            "tr-TR": [
+                "953617320",
+                "996082822"
+            ],
+            "Zh-CN": [
+                "459610819",
+                "799975439"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Gekko",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "201295098",
+                "218602677"
+            ],
+            "de-DE": [
+                "430084434",
+                "792458789"
+            ],
+            "en-US": [
+                "911590202",
+                "957193790"
+            ],
+            "es-ES": [
+                "542959880",
+                "972282904"
+            ],
+            "es-MX": [
+                "584707807",
+                "667216068"
+            ],
+            "fr-FR": [
+                "228133742",
+                "4834899"
+            ],
+            "it-IT": [
+                "269200800",
+                "543888100"
+            ],
+            "ja-JP": [
+                "800933716",
+                "898505246"
+            ],
+            "ko-KR": [
+                "222837217",
+                "457095315"
+            ],
+            "pl-PL": [
+                "320084522",
+                "485043346"
+            ],
+            "pt-BR": [
+                "228999431",
+                "690458002"
+            ],
+            "ru-RU": [
+                "191062612",
+                "484484879"
+            ],
+            "tr-TR": [
+                "533194301",
+                "695800172"
+            ],
+            "Zh-CN": [
+                "154937514",
+                "659401552"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Harbor",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "19078182",
+                "52628375"
+            ],
+            "de-DE": [
+                "1019340810",
+                "665193164"
+            ],
+            "en-US": [
+                "336785222",
+                "861097549"
+            ],
+            "es-ES": [
+                "289360818",
+                "637497359"
+            ],
+            "es-MX": [
+                "65963173",
+                "882776523"
+            ],
+            "fr-FR": [
+                "68751360",
+                "837031768"
+            ],
+            "it-IT": [
+                "128581917",
+                "519057848"
+            ],
+            "ja-JP": [
+                "123249102",
+                "88535469"
+            ],
+            "ko-KR": [
+                "308033654",
+                "547783707"
+            ],
+            "pl-PL": [
+                "454907568",
+                "841778527"
+            ],
+            "pt-BR": [
+                "1021360416",
+                "259485049"
+            ],
+            "ru-RU": [
+                "212647918",
+                "878524412"
+            ],
+            "tr-TR": [
+                "163018560",
+                "804990720"
+            ],
+            "Zh-CN": [
+                "531141742",
+                "916585977"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Jett",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "566136335",
+                "929366959"
+            ],
+            "de-DE": [
+                "543993283",
+                "929210807"
+            ],
+            "en-US": [
+                "23575909",
+                "924625053"
+            ],
+            "es-ES": [
+                "541499712",
+                "588401810"
+            ],
+            "es-MX": [
+                "1005358156",
+                "748501555"
+            ],
+            "fr-FR": [
+                "28068982",
+                "490726869"
+            ],
+            "it-IT": [
+                "514950220",
+                "725578782"
+            ],
+            "ja-JP": [
+                "403787981",
+                "799865454"
+            ],
+            "ko-KR": [
+                "1038595680",
+                "79015561"
+            ],
+            "pl-PL": [
+                "1034214622",
+                "811519472"
+            ],
+            "pt-BR": [
+                "30119312",
+                "813585584"
+            ],
+            "ru-RU": [
+                "1021516261",
+                "304541505"
+            ],
+            "tr-TR": [
+                "462855063",
+                "630275681"
+            ],
+            "Zh-CN": [
+                "31337113",
+                "470193020"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Killjoy",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "254590483",
+                "707843923"
+            ],
+            "de-DE": [
+                "592169330",
+                "774736609"
+            ],
+            "en-US": [
+                "709922834",
+                "993383168"
+            ],
+            "es-ES": [
+                "927779744",
+                "932422791"
+            ],
+            "es-MX": [
+                "608948027",
+                "985623003"
+            ],
+            "fr-FR": [
+                "30352632",
+                "42826038"
+            ],
+            "it-IT": [
+                "638181992",
+                "835554668"
+            ],
+            "ja-JP": [
+                "312827640",
+                "373239875"
+            ],
+            "ko-KR": [
+                "658440364",
+                "684955900"
+            ],
+            "pl-PL": [
+                "43052207",
+                "842996163"
+            ],
+            "pt-BR": [
+                "1067583452",
+                "7467294"
+            ],
+            "ru-RU": [
+                "1044807114",
+                "178238074"
+            ],
+            "tr-TR": [
+                "361515051",
+                "663628275"
+            ],
+            "Zh-CN": [
+                "451873868",
+                "81125746"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Neon",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "775256598",
+                "832000174"
+            ],
+            "de-DE": [
+                "124134211",
+                "815644920"
+            ],
+            "en-US": [
+                "50575271",
+                "665414454"
+            ],
+            "es-ES": [
+                "1048123830",
+                "972363536"
+            ],
+            "es-MX": [
+                "560743158",
+                "963211913"
+            ],
+            "fr-FR": [
+                "14504776",
+                "251443047"
+            ],
+            "it-IT": [
+                "578714044",
+                "767532640"
+            ],
+            "ja-JP": [
+                "527889459",
+                "628871155"
+            ],
+            "ko-KR": [
+                "388035912",
+                "97484787"
+            ],
+            "pl-PL": [
+                "194246654",
+                "872858735"
+            ],
+            "pt-BR": [
+                "1072530460",
+                "812048181"
+            ],
+            "ru-RU": [
+                "700585523",
+                "929514223"
+            ],
+            "tr-TR": [
+                "1058406673",
+                "165471434"
+            ],
+            "Zh-CN": [
+                "244543705",
+                "889784224"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Omen",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "503434167",
+                "685751924"
+            ],
+            "de-DE": [
+                "260012812",
+                "328387101"
+            ],
+            "en-US": [
+                "782124247",
+                "900350519"
+            ],
+            "es-ES": [
+                "291387030",
+                "650797306"
+            ],
+            "es-MX": [
+                "184060837",
+                "357731842"
+            ],
+            "fr-FR": [
+                "280578710",
+                "395790566"
+            ],
+            "it-IT": [
+                "258907263",
+                "39427739"
+            ],
+            "ja-JP": [
+                "695377438",
+                "903443980"
+            ],
+            "ko-KR": [
+                "289533566",
+                "354950781"
+            ],
+            "pl-PL": [
+                "326356322",
+                "692783152"
+            ],
+            "pt-BR": [
+                "1050720478",
+                "504123359"
+            ],
+            "ru-RU": [
+                "169444038",
+                "765807572"
+            ],
+            "tr-TR": [
+                "500992246",
+                "55013183"
+            ],
+            "Zh-CN": [
+                "1064004458",
+                "229806253"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Raze",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "414208230",
+                "7965183"
+            ],
+            "de-DE": [
+                "761162695",
+                "77506907"
+            ],
+            "en-US": [
+                "21317946",
+                "497414337"
+            ],
+            "es-ES": [
+                "667109823",
+                "786732250"
+            ],
+            "es-MX": [
+                "713511799",
+                "791004283"
+            ],
+            "fr-FR": [
+                "585676848",
+                "981959930"
+            ],
+            "it-IT": [
+                "108792414",
+                "319546025"
+            ],
+            "ja-JP": [
+                "629614870",
+                "983858085"
+            ],
+            "ko-KR": [
+                "189671680",
+                "866782242"
+            ],
+            "pl-PL": [
+                "1024129613",
+                "225793259"
+            ],
+            "pt-BR": [
+                "616271926",
+                "97474211"
+            ],
+            "ru-RU": [
+                "39326302",
+                "824576695"
+            ],
+            "tr-TR": [
+                "63431594",
+                "813236315"
+            ],
+            "Zh-CN": [
+                "416421825",
+                "781718933"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Reyna",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1065034721",
+                "110186906"
+            ],
+            "de-DE": [
+                "320604260",
+                "855908544"
+            ],
+            "en-US": [
+                "224848287",
+                "238853814"
+            ],
+            "es-ES": [
+                "37377989",
+                "855284910"
+            ],
+            "es-MX": [
+                "164762582",
+                "753978348"
+            ],
+            "fr-FR": [
+                "190364333",
+                "341655553"
+            ],
+            "it-IT": [
+                "286564853",
+                "777900475"
+            ],
+            "ja-JP": [
+                "100248455",
+                "656039138"
+            ],
+            "ko-KR": [
+                "1045286089",
+                "274498335"
+            ],
+            "pl-PL": [
+                "207582690",
+                "934008370"
+            ],
+            "pt-BR": [
+                "20443681",
+                "535635563"
+            ],
+            "ru-RU": [
+                "322263311",
+                "467978164"
+            ],
+            "tr-TR": [
+                "248332939",
+                "834580478"
+            ],
+            "Zh-CN": [
+                "120520054",
+                "753338050"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Skye",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "39212980",
+                "737700926"
+            ],
+            "de-DE": [
+                "236930129",
+                "970998103"
+            ],
+            "en-US": [
+                "364147144",
+                "68722305"
+            ],
+            "es-ES": [
+                "910970522",
+                "925446858"
+            ],
+            "es-MX": [
+                "435404585",
+                "471144958"
+            ],
+            "fr-FR": [
+                "692215316",
+                "767729516"
+            ],
+            "it-IT": [
+                "135050177",
+                "573234803"
+            ],
+            "ja-JP": [
+                "130350996",
+                "644728140"
+            ],
+            "ko-KR": [
+                "12493465",
+                "834020555"
+            ],
+            "pl-PL": [
+                "141651053",
+                "536928636"
+            ],
+            "pt-BR": [
+                "517225040",
+                "811349859"
+            ],
+            "ru-RU": [
+                "249035804",
+                "697796057"
+            ],
+            "tr-TR": [
+                "186088586",
+                "878938282"
+            ],
+            "Zh-CN": [
+                "389565184",
+                "529965954"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Sova",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "419912963",
+                "709847134"
+            ],
+            "de-DE": [
+                "68867283",
+                "931042105"
+            ],
+            "en-US": [
+                "299906864",
+                "881804672"
+            ],
+            "es-ES": [
+                "1046424695",
+                "784567651"
+            ],
+            "es-MX": [
+                "161923287",
+                "953076027"
+            ],
+            "fr-FR": [
+                "434051226",
+                "672780761"
+            ],
+            "it-IT": [
+                "1059419842",
+                "711097971"
+            ],
+            "ja-JP": [
+                "656591245",
+                "986608318"
+            ],
+            "ko-KR": [
+                "608761092",
+                "989574888"
+            ],
+            "pl-PL": [
+                "37456222",
+                "696196013"
+            ],
+            "pt-BR": [
+                "235742213",
+                "588347702"
+            ],
+            "ru-RU": [
+                "1052873216",
+                "247351032"
+            ],
+            "tr-TR": [
+                "20300052",
+                "484483080"
+            ],
+            "Zh-CN": [
+                "183122159",
+                "95559312"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Viper",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "323762523",
+                "534123251"
+            ],
+            "de-DE": [
+                "178654526",
+                "956110387"
+            ],
+            "en-US": [
+                "773421187",
+                "942924008"
+            ],
+            "es-ES": [
+                "132074998",
+                "896021562"
+            ],
+            "es-MX": [
+                "318807127",
+                "838701931"
+            ],
+            "fr-FR": [
+                "526330691",
+                "905036617"
+            ],
+            "it-IT": [
+                "945491836",
+                "971078153"
+            ],
+            "ja-JP": [
+                "187416875",
+                "912214138"
+            ],
+            "ko-KR": [
+                "175056722",
+                "879689740"
+            ],
+            "pl-PL": [
+                "510577855",
+                "789798569"
+            ],
+            "pt-BR": [
+                "872125615",
+                "872530589"
+            ],
+            "ru-RU": [
+                "225036654",
+                "453783379"
+            ],
+            "tr-TR": [
+                "333149634",
+                "526333399"
+            ],
+            "Zh-CN": [
+                "918547774",
+                "928827052"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_HURM_Multikill_Yoru",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "819235397",
+                "861338265"
+            ],
+            "de-DE": [
+                "831820855",
+                "91188641"
+            ],
+            "en-US": [
+                "171231882",
+                "647342323"
+            ],
+            "es-ES": [
+                "411916541",
+                "505308252"
+            ],
+            "es-MX": [
+                "334492713",
+                "390017017"
+            ],
+            "fr-FR": [
+                "294068001",
+                "80690566"
+            ],
+            "it-IT": [
+                "135746626",
+                "612413829"
+            ],
+            "ja-JP": [
+                "344261520",
+                "949587108"
+            ],
+            "ko-KR": [
+                "236862048",
+                "548039243"
+            ],
+            "pl-PL": [
+                "297003184",
+                "594562657"
+            ],
+            "pt-BR": [
+                "599961912",
+                "792511591"
+            ],
+            "ru-RU": [
+                "267251051",
+                "520233222"
+            ],
+            "tr-TR": [
+                "364414173",
+                "782718592"
+            ],
+            "Zh-CN": [
+                "479959949",
+                "655781430"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_VO_HURM_KillingSpree",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1072778519",
+                "215815910",
+                "588342380"
+            ],
+            "de-DE": [
+                "294822924",
+                "641020727",
+                "791588753"
+            ],
+            "en-US": [
+                "399670051",
+                "591424078",
+                "841712042"
+            ],
+            "es-ES": [
+                "530912624",
+                "905514969",
+                "952514287"
+            ],
+            "es-MX": [
+                "1061670725",
+                "128876858",
+                "935529190"
+            ],
+            "fr-FR": [
+                "116535835",
+                "353033630",
+                "497845144"
+            ],
+            "it-IT": [
+                "29163773",
+                "308741381",
+                "890776362"
+            ],
+            "ja-JP": [
+                "557291904",
+                "604813452",
+                "670029345"
+            ],
+            "ko-KR": [
+                "304611194",
+                "561598306",
+                "906141147"
+            ],
+            "pl-PL": [
+                "139301780",
+                "657782553",
+                "98980084"
+            ],
+            "pt-BR": [
+                "226899868",
+                "439727724",
+                "467557740"
+            ],
+            "ru-RU": [
+                "399058481",
+                "659125109",
+                "734700919"
+            ],
+            "tr-TR": [
+                "1032723348",
+                "368967161",
+                "582408604"
+            ],
+            "Zh-CN": [
+                "419085382",
+                "749348295",
+                "993909680"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_VO_HURM_Multikill",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "256619451",
+                "355923610",
+                "954592973"
+            ],
+            "de-DE": [
+                "216248157",
+                "566604587",
+                "894013180"
+            ],
+            "en-US": [
+                "255150993",
+                "390598493",
+                "610194390"
+            ],
+            "es-ES": [
+                "407970451",
+                "634406239",
+                "889919728"
+            ],
+            "es-MX": [
+                "41283136",
+                "605506879",
+                "700261218"
+            ],
+            "fr-FR": [
+                "108702390",
+                "201761892",
+                "989423344"
+            ],
+            "it-IT": [
+                "347932382",
+                "829922704",
+                "953252069"
+            ],
+            "ja-JP": [
+                "26857435",
+                "640619936",
+                "894627291"
+            ],
+            "ko-KR": [
+                "1045275396",
+                "1064092724",
+                "688707085"
+            ],
+            "pl-PL": [
+                "166642706",
+                "257269379",
+                "289284428"
+            ],
+            "pt-BR": [
+                "458669010",
+                "773518159",
+                "863911940"
+            ],
+            "ru-RU": [
+                "563198384",
+                "684467446",
+                "696267123"
+            ],
+            "tr-TR": [
+                "177707558",
+                "727807235",
+                "900261183"
+            ],
+            "Zh-CN": [
+                "1027574413",
+                "140602932",
+                "964177216"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_VO_HURM_Multikill_Grenadier",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "111109897",
+                "400325369"
+            ],
+            "de-DE": [
+                "250297938",
+                "898898472"
+            ],
+            "en-US": [
+                "460091797",
+                "675827412"
+            ],
+            "es-ES": [
+                "644998157",
+                "669747361"
+            ],
+            "es-MX": [
+                "760547740",
+                "81310060"
+            ],
+            "fr-FR": [
+                "1069854226",
+                "626475690"
+            ],
+            "it-IT": [
+                "641742629",
+                "851210029"
+            ],
+            "ja-JP": [
+                "307719450",
+                "326093203"
+            ],
+            "ko-KR": [
+                "228691467",
+                "785292502"
+            ],
+            "pl-PL": [
+                "320342132",
+                "571675765"
+            ],
+            "pt-BR": [
+                "411799933",
+                "967393950"
+            ],
+            "ru-RU": [
+                "65100749",
+                "700078484"
+            ],
+            "tr-TR": [
+                "336359839",
+                "844066669"
+            ],
+            "Zh-CN": [
+                "394470679",
+                "765373709"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_VO_HURM_Multikill_Phoenix",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "853749109",
+                "986993887"
+            ],
+            "de-DE": [
+                "548777150",
+                "553350074"
+            ],
+            "en-US": [
+                "342892653",
+                "812905819"
+            ],
+            "es-ES": [
+                "227574326",
+                "892020962"
+            ],
+            "es-MX": [
+                "746870821",
+                "970526322"
+            ],
+            "fr-FR": [
+                "120430348",
+                "626749634"
+            ],
+            "it-IT": [
+                "436175558",
+                "935697095"
+            ],
+            "ja-JP": [
+                "1039735616",
+                "781631877"
+            ],
+            "ko-KR": [
+                "105161314",
+                "626068984"
+            ],
+            "pl-PL": [
+                "238624331",
+                "831686650"
+            ],
+            "pt-BR": [
+                "916213132",
+                "923271915"
+            ],
+            "ru-RU": [
+                "1061144651",
+                "830591222"
+            ],
+            "tr-TR": [
+                "139750398",
+                "549983095"
+            ],
+            "Zh-CN": [
+                "310556986",
+                "421491170"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_VO_HURM_Multikill_Thorne",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1035814426",
+                "761905273"
+            ],
+            "de-DE": [
+                "753825682",
+                "974571903"
+            ],
+            "en-US": [
+                "666441028",
+                "806508429"
+            ],
+            "es-ES": [
+                "834118489",
+                "978206936"
+            ],
+            "es-MX": [
+                "58308309",
+                "811084532"
+            ],
+            "fr-FR": [
+                "260980348",
+                "516592207"
+            ],
+            "it-IT": [
+                "24608398",
+                "702022837"
+            ],
+            "ja-JP": [
+                "192738150",
+                "515992472"
+            ],
+            "ko-KR": [
+                "904203187",
+                "960039351"
+            ],
+            "pl-PL": [
+                "199537502",
+                "717719263"
+            ],
+            "pt-BR": [
+                "1049596214",
+                "430421411"
+            ],
+            "ru-RU": [
+                "1039843462",
+                "183152812"
+            ],
+            "tr-TR": [
+                "296837792",
+                "704972826"
+            ],
+            "Zh-CN": [
+                "725974779",
+                "88020183"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_VO_HURM_Phase02",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "5863738",
+                "643388202"
+            ],
+            "de-DE": [
+                "413063710",
+                "805769385"
+            ],
+            "en-US": [
+                "139097538",
+                "618435931"
+            ],
+            "es-ES": [
+                "181249663",
+                "189565918"
+            ],
+            "es-MX": [
+                "1059635448",
+                "16765328"
+            ],
+            "fr-FR": [
+                "838728667",
+                "983163061"
+            ],
+            "it-IT": [
+                "272788394",
+                "274388792"
+            ],
+            "ja-JP": [
+                "293100506",
+                "555846005"
+            ],
+            "ko-KR": [
+                "293200291",
+                "351420868"
+            ],
+            "pl-PL": [
+                "546933255",
+                "880396099"
+            ],
+            "pt-BR": [
+                "110500212",
+                "414774578"
+            ],
+            "ru-RU": [
+                "755013416",
+                "981759930"
+            ],
+            "tr-TR": [
+                "252631136",
+                "367855644"
+            ],
+            "Zh-CN": [
+                "347752020",
+                "365254324"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_VO_HURM_Phase03",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1050436489",
+                "548925701"
+            ],
+            "de-DE": [
+                "158031657",
+                "624485100"
+            ],
+            "en-US": [
+                "577780712",
+                "852827296"
+            ],
+            "es-ES": [
+                "470249480",
+                "74092967"
+            ],
+            "es-MX": [
+                "566150406",
+                "798663925"
+            ],
+            "fr-FR": [
+                "1028668093",
+                "621692031"
+            ],
+            "it-IT": [
+                "240529816",
+                "755241336"
+            ],
+            "ja-JP": [
+                "438828372",
+                "927415136"
+            ],
+            "ko-KR": [
+                "136765184",
+                "191329733"
+            ],
+            "pl-PL": [
+                "421960418",
+                "747146393"
+            ],
+            "pt-BR": [
+                "371208913",
+                "955057143"
+            ],
+            "ru-RU": [
+                "207275455",
+                "209337992"
+            ],
+            "tr-TR": [
+                "690121450",
+                "929687028"
+            ],
+            "Zh-CN": [
+                "512381342",
+                "522961509"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_VO_HURM_Phase04",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "723047777",
+                "913122620"
+            ],
+            "de-DE": [
+                "120941644",
+                "331073453"
+            ],
+            "en-US": [
+                "142169116",
+                "679236036"
+            ],
+            "es-ES": [
+                "1042176837",
+                "695181103"
+            ],
+            "es-MX": [
+                "332632057",
+                "754477185"
+            ],
+            "fr-FR": [
+                "312793865",
+                "961249744"
+            ],
+            "it-IT": [
+                "589162816",
+                "596670739"
+            ],
+            "ja-JP": [
+                "105807385",
+                "897407410"
+            ],
+            "ko-KR": [
+                "1053408788",
+                "317977958"
+            ],
+            "pl-PL": [
+                "737957761",
+                "833440738"
+            ],
+            "pt-BR": [
+                "278579241",
+                "775615612"
+            ],
+            "ru-RU": [
+                "298633671",
+                "728701518"
+            ],
+            "tr-TR": [
+                "340604661",
+                "921759250"
+            ],
+            "Zh-CN": [
+                "488594608",
+                "709355033"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/HURM_Announcer/Play_VO_HURM_Spawnroom",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1065515660",
+                "419712505",
+                "689596665"
+            ],
+            "de-DE": [
+                "1064646258",
+                "625409351",
+                "78968843"
+            ],
+            "en-US": [
+                "108552117",
+                "169168573",
+                "660302968"
+            ],
+            "es-ES": [
+                "118899563",
+                "174805190",
+                "969345416"
+            ],
+            "es-MX": [
+                "211535255",
+                "514607933",
+                "796630629"
+            ],
+            "fr-FR": [
+                "486168908",
+                "725630578",
+                "88440825"
+            ],
+            "it-IT": [
+                "142980138",
+                "256074351",
+                "566027881"
+            ],
+            "ja-JP": [
+                "1044788556",
+                "592744556",
+                "891647394"
+            ],
+            "ko-KR": [
+                "1009312316",
+                "520245883",
+                "653599389"
+            ],
+            "pl-PL": [
+                "280088185",
+                "534613380",
+                "761186531"
+            ],
+            "pt-BR": [
+                "1003196849",
+                "315562480",
+                "673182256"
+            ],
+            "ru-RU": [
+                "102817131",
+                "272593730",
+                "966570128"
+            ],
+            "tr-TR": [
+                "228580089",
+                "235076734",
+                "589682294"
+            ],
+            "Zh-CN": [
+                "1041160904",
+                "57930442",
+                "691113234"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sarge_SFX/TEMP/Play_sarge_temp_Orbital_Laser_Target_Warning",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "143920235",
+                "800651828"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_Ace",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "522164513",
+                "892672208"
+            ],
+            "de-DE": [
+                "1388742541",
+                "571686724"
+            ],
+            "en-US": [
+                "1073477411",
+                "434835638"
+            ],
+            "es-ES": [
+                "1455484770",
+                "874829103"
+            ],
+            "es-MX": [
+                "1260150282",
+                "299955452"
+            ],
+            "fr-FR": [
+                "1259343042",
+                "1917874752"
+            ],
+            "it-IT": [
+                "2102912295",
+                "533264818"
+            ],
+            "ja-JP": [
+                "1134321971",
+                "1612713226"
+            ],
+            "ko-KR": [
+                "2102364526",
+                "661814021"
+            ],
+            "pl-PL": [
+                "1116673700",
+                "417412901"
+            ],
+            "pt-BR": [
+                "1695467975",
+                "1781010749"
+            ],
+            "ru-RU": [
+                "1326976969",
+                "1877286890"
+            ],
+            "tr-TR": [
+                "795656096",
+                "888701495"
+            ],
+            "Zh-CN": [
+                "2016761588",
+                "334082552"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_AttackersWinMatch",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1222669538",
+                "5414057"
+            ],
+            "de-DE": [
+                "1056204465",
+                "1222659267"
+            ],
+            "en-US": [
+                "222613477",
+                "793239165"
+            ],
+            "es-ES": [
+                "177357991",
+                "461396339"
+            ],
+            "es-MX": [
+                "1316409555",
+                "1897435494"
+            ],
+            "fr-FR": [
+                "1915562732",
+                "2118259631"
+            ],
+            "it-IT": [
+                "1019142759",
+                "709185752"
+            ],
+            "ja-JP": [
+                "318312945",
+                "810366341"
+            ],
+            "ko-KR": [
+                "1337990508",
+                "385410919"
+            ],
+            "pl-PL": [
+                "1739902752",
+                "456914432"
+            ],
+            "pt-BR": [
+                "2060260950",
+                "552613336"
+            ],
+            "ru-RU": [
+                "1741531379",
+                "224242549"
+            ],
+            "tr-TR": [
+                "1604131099",
+                "673434839"
+            ],
+            "Zh-CN": [
+                "202152365",
+                "677066061"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_Clutch",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "377279723",
+                "83455167"
+            ],
+            "de-DE": [
+                "1805688972",
+                "816753458"
+            ],
+            "en-US": [
+                "224269817",
+                "685322631"
+            ],
+            "es-ES": [
+                "1010010571",
+                "1359295974"
+            ],
+            "es-MX": [
+                "492665909",
+                "988121292"
+            ],
+            "fr-FR": [
+                "352818506",
+                "685153755"
+            ],
+            "it-IT": [
+                "1182997642",
+                "533895362"
+            ],
+            "ja-JP": [
+                "1618476509",
+                "670994917"
+            ],
+            "ko-KR": [
+                "1027292084",
+                "1046054574"
+            ],
+            "pl-PL": [
+                "1131837532",
+                "1187906025"
+            ],
+            "pt-BR": [
+                "1870808404",
+                "2005514164"
+            ],
+            "ru-RU": [
+                "287475915",
+                "937992114"
+            ],
+            "tr-TR": [
+                "79591162",
+                "819163379"
+            ],
+            "Zh-CN": [
+                "1062604456",
+                "1863434317"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_DefendersWinMatch",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1029209631",
+                "28389189"
+            ],
+            "de-DE": [
+                "1242508883",
+                "828047365"
+            ],
+            "en-US": [
+                "143916942",
+                "338860820"
+            ],
+            "es-ES": [
+                "1938941107",
+                "788130437"
+            ],
+            "es-MX": [
+                "161285872",
+                "2124428857"
+            ],
+            "fr-FR": [
+                "1935528288",
+                "675156228"
+            ],
+            "it-IT": [
+                "1183103708",
+                "711344534"
+            ],
+            "ja-JP": [
+                "135683024",
+                "352031840"
+            ],
+            "ko-KR": [
+                "111204974",
+                "529208042"
+            ],
+            "pl-PL": [
+                "2001092757",
+                "592000808"
+            ],
+            "pt-BR": [
+                "1918748161",
+                "513596259"
+            ],
+            "ru-RU": [
+                "1489988304",
+                "1855312754"
+            ],
+            "tr-TR": [
+                "532962557",
+                "881089108"
+            ],
+            "Zh-CN": [
+                "1327427631",
+                "1710455605"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_Flawless",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1670468099",
+                "2099205176"
+            ],
+            "de-DE": [
+                "2114623007",
+                "230807173"
+            ],
+            "en-US": [
+                "181910800",
+                "88447108"
+            ],
+            "es-ES": [
+                "1706684029",
+                "507633175"
+            ],
+            "es-MX": [
+                "1576823004",
+                "2037425239"
+            ],
+            "fr-FR": [
+                "1113903560",
+                "448640266"
+            ],
+            "it-IT": [
+                "1700877158",
+                "434702329"
+            ],
+            "ja-JP": [
+                "1902116984",
+                "2086198840"
+            ],
+            "ko-KR": [
+                "1107241461",
+                "570954891"
+            ],
+            "pl-PL": [
+                "1522448845",
+                "979563402"
+            ],
+            "pt-BR": [
+                "176050006",
+                "256998736"
+            ],
+            "ru-RU": [
+                "255636554",
+                "378389902"
+            ],
+            "tr-TR": [
+                "2011319405",
+                "2129410412"
+            ],
+            "Zh-CN": [
+                "1190629317",
+                "319079036"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_FlawlessTeamAce",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1136522761"
+            ],
+            "de-DE": [
+                "1723488701"
+            ],
+            "en-US": [
+                "389828984"
+            ],
+            "es-ES": [
+                "1043211614"
+            ],
+            "es-MX": [
+                "2081719073"
+            ],
+            "fr-FR": [
+                "1559035720"
+            ],
+            "it-IT": [
+                "1977846828"
+            ],
+            "ja-JP": [
+                "1723691669"
+            ],
+            "ko-KR": [
+                "1523814555"
+            ],
+            "pl-PL": [
+                "1663022250"
+            ],
+            "pt-BR": [
+                "1594570822"
+            ],
+            "ru-RU": [
+                "2085420838"
+            ],
+            "tr-TR": [
+                "176048644"
+            ],
+            "Zh-CN": [
+                "184094121"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_LastCycle",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1375410623",
+                "2081041663"
+            ],
+            "de-DE": [
+                "1785646460",
+                "1809358154"
+            ],
+            "en-US": [
+                "110023675",
+                "818935668"
+            ],
+            "es-ES": [
+                "1826630990",
+                "910626930"
+            ],
+            "es-MX": [
+                "120276769",
+                "589575737"
+            ],
+            "fr-FR": [
+                "1017521567",
+                "1678671180"
+            ],
+            "it-IT": [
+                "1259929434",
+                "395519434"
+            ],
+            "ja-JP": [
+                "1199033133",
+                "816617225"
+            ],
+            "ko-KR": [
+                "1363720490",
+                "971675204"
+            ],
+            "pl-PL": [
+                "1654287216",
+                "2056897995"
+            ],
+            "pt-BR": [
+                "2060128426",
+                "901551121"
+            ],
+            "ru-RU": [
+                "1365711611",
+                "805794116"
+            ],
+            "tr-TR": [
+                "1310711880",
+                "547877693"
+            ],
+            "Zh-CN": [
+                "1188976990",
+                "1801485036"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_LastStanding",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1255760400"
+            ],
+            "de-DE": [
+                "1239737042"
+            ],
+            "en-US": [
+                "711104689"
+            ],
+            "es-ES": [
+                "976364903"
+            ],
+            "es-MX": [
+                "822300253"
+            ],
+            "fr-FR": [
+                "1644518009"
+            ],
+            "it-IT": [
+                "876045268"
+            ],
+            "ja-JP": [
+                "983706735"
+            ],
+            "ko-KR": [
+                "908142808"
+            ],
+            "pl-PL": [
+                "1365659275"
+            ],
+            "pt-BR": [
+                "1012336041"
+            ],
+            "ru-RU": [
+                "160819176"
+            ],
+            "tr-TR": [
+                "1621626178"
+            ],
+            "Zh-CN": [
+                "1057085167"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_MatchPoint",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1776099271"
+            ],
+            "de-DE": [
+                "1008923932"
+            ],
+            "en-US": [
+                "599473487"
+            ],
+            "es-ES": [
+                "2086898285"
+            ],
+            "es-MX": [
+                "613699202"
+            ],
+            "fr-FR": [
+                "28130445"
+            ],
+            "it-IT": [
+                "939495282"
+            ],
+            "ja-JP": [
+                "184869081"
+            ],
+            "ko-KR": [
+                "465314535"
+            ],
+            "pl-PL": [
+                "330345565"
+            ],
+            "pt-BR": [
+                "1012061725"
+            ],
+            "ru-RU": [
+                "167675421"
+            ],
+            "tr-TR": [
+                "570742977"
+            ],
+            "Zh-CN": [
+                "1195033722"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_ObjectivePlanted",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1656759438",
+                "1939453733"
+            ],
+            "de-DE": [
+                "135666626",
+                "178540712"
+            ],
+            "en-US": [
+                "239082853",
+                "696275316"
+            ],
+            "es-ES": [
+                "773099994",
+                "853556254"
+            ],
+            "es-MX": [
+                "1871949063",
+                "700608792"
+            ],
+            "fr-FR": [
+                "373887913",
+                "723720075"
+            ],
+            "it-IT": [
+                "1131021230",
+                "1454830578"
+            ],
+            "ja-JP": [
+                "2124622690",
+                "597834201"
+            ],
+            "ko-KR": [
+                "1805371321",
+                "955739968"
+            ],
+            "pl-PL": [
+                "1493325749",
+                "982863217"
+            ],
+            "pt-BR": [
+                "1605474388",
+                "1870377243"
+            ],
+            "ru-RU": [
+                "1588686418",
+                "165636449"
+            ],
+            "tr-TR": [
+                "1887344948",
+                "982005026"
+            ],
+            "Zh-CN": [
+                "1217720794",
+                "530050565"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_OneEnemyRemaining",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "296112559"
+            ],
+            "de-DE": [
+                "951907663"
+            ],
+            "en-US": [
+                "339847282"
+            ],
+            "es-ES": [
+                "1937885846"
+            ],
+            "es-MX": [
+                "767059830"
+            ],
+            "fr-FR": [
+                "2004993221"
+            ],
+            "it-IT": [
+                "2137522419"
+            ],
+            "ja-JP": [
+                "53073112"
+            ],
+            "ko-KR": [
+                "2017225359"
+            ],
+            "pl-PL": [
+                "1806908747"
+            ],
+            "pt-BR": [
+                "1231933214"
+            ],
+            "ru-RU": [
+                "1286241239"
+            ],
+            "tr-TR": [
+                "807859713"
+            ],
+            "Zh-CN": [
+                "1354610964"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_Overtime",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1954856740"
+            ],
+            "de-DE": [
+                "1692942377"
+            ],
+            "en-US": [
+                "201618756"
+            ],
+            "es-ES": [
+                "1488470494"
+            ],
+            "es-MX": [
+                "1664024504"
+            ],
+            "fr-FR": [
+                "652697408"
+            ],
+            "it-IT": [
+                "772078568"
+            ],
+            "ja-JP": [
+                "1973179794"
+            ],
+            "ko-KR": [
+                "937789115"
+            ],
+            "pl-PL": [
+                "353508792"
+            ],
+            "pt-BR": [
+                "1738888653"
+            ],
+            "ru-RU": [
+                "1554232861"
+            ],
+            "tr-TR": [
+                "705278107"
+            ],
+            "Zh-CN": [
+                "2057183448"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_Pentakill",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1856169762",
+                "760799356"
+            ],
+            "de-DE": [
+                "1612221887",
+                "2078888719"
+            ],
+            "en-US": [
+                "180564165",
+                "717713324"
+            ],
+            "es-ES": [
+                "716778632",
+                "856483375"
+            ],
+            "es-MX": [
+                "1895652728",
+                "71353952"
+            ],
+            "fr-FR": [
+                "1589410512",
+                "246808050"
+            ],
+            "it-IT": [
+                "1521058129",
+                "1815665784"
+            ],
+            "ja-JP": [
+                "234912445",
+                "683464738"
+            ],
+            "ko-KR": [
+                "164082739",
+                "1856600981"
+            ],
+            "pl-PL": [
+                "1079346457",
+                "1267533406"
+            ],
+            "pt-BR": [
+                "30236962",
+                "96112249"
+            ],
+            "ru-RU": [
+                "1648860903",
+                "1723356442"
+            ],
+            "tr-TR": [
+                "1286634245",
+                "515850037"
+            ],
+            "Zh-CN": [
+                "419576405",
+                "821148798"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_QuadraKill",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1155447174",
+                "533254634"
+            ],
+            "de-DE": [
+                "1587092936",
+                "24538994"
+            ],
+            "en-US": [
+                "524817775",
+                "874730122"
+            ],
+            "es-ES": [
+                "1464970978",
+                "1845445865"
+            ],
+            "es-MX": [
+                "1358058917",
+                "877079065"
+            ],
+            "fr-FR": [
+                "260658817",
+                "615769320"
+            ],
+            "it-IT": [
+                "1089748123",
+                "2116469210"
+            ],
+            "ja-JP": [
+                "177066694",
+                "1882831137"
+            ],
+            "ko-KR": [
+                "1166175701",
+                "283163473"
+            ],
+            "pl-PL": [
+                "1256641527",
+                "326838280"
+            ],
+            "pt-BR": [
+                "1259465203",
+                "1982534380"
+            ],
+            "ru-RU": [
+                "1471036936",
+                "1830539186"
+            ],
+            "tr-TR": [
+                "1422951978",
+                "154407008"
+            ],
+            "Zh-CN": [
+                "1888982569",
+                "2069811174"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_SpikePlanterKilled",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1233639338",
+                "488636725"
+            ],
+            "de-DE": [
+                "315133493",
+                "627950980"
+            ],
+            "en-US": [
+                "587306032",
+                "9486459"
+            ],
+            "es-ES": [
+                "1190204137",
+                "49008790"
+            ],
+            "es-MX": [
+                "1929385279",
+                "1991735686"
+            ],
+            "fr-FR": [
+                "895046065",
+                "90002270"
+            ],
+            "it-IT": [
+                "2078323094",
+                "951221967"
+            ],
+            "ja-JP": [
+                "1565337398",
+                "1732338278"
+            ],
+            "ko-KR": [
+                "1579779642",
+                "762529117"
+            ],
+            "pl-PL": [
+                "1432319323",
+                "848168285"
+            ],
+            "pt-BR": [
+                "1446917684",
+                "2122867544"
+            ],
+            "ru-RU": [
+                "1010812977",
+                "1180496738"
+            ],
+            "tr-TR": [
+                "352781365",
+                "921519908"
+            ],
+            "Zh-CN": [
+                "1656189630",
+                "683400113"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_SuddenDeath",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1748348303"
+            ],
+            "de-DE": [
+                "1741016752"
+            ],
+            "en-US": [
+                "21163303"
+            ],
+            "es-ES": [
+                "793870347"
+            ],
+            "es-MX": [
+                "289350112"
+            ],
+            "fr-FR": [
+                "2020243473"
+            ],
+            "it-IT": [
+                "1776201424"
+            ],
+            "ja-JP": [
+                "1256095532"
+            ],
+            "ko-KR": [
+                "711071762"
+            ],
+            "pl-PL": [
+                "1118667192"
+            ],
+            "pt-BR": [
+                "1688077374"
+            ],
+            "ru-RU": [
+                "1774602952"
+            ],
+            "tr-TR": [
+                "196556197"
+            ],
+            "Zh-CN": [
+                "1719884899"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_SwitchSides",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1205963075"
+            ],
+            "de-DE": [
+                "1010056541"
+            ],
+            "en-US": [
+                "928679894"
+            ],
+            "es-ES": [
+                "187609756"
+            ],
+            "es-MX": [
+                "1432343749"
+            ],
+            "fr-FR": [
+                "421374901"
+            ],
+            "it-IT": [
+                "1382359022"
+            ],
+            "ja-JP": [
+                "1586075640"
+            ],
+            "ko-KR": [
+                "1982263246"
+            ],
+            "pl-PL": [
+                "811899880"
+            ],
+            "pt-BR": [
+                "1867204006"
+            ],
+            "ru-RU": [
+                "392320867"
+            ],
+            "tr-TR": [
+                "2138288038"
+            ],
+            "Zh-CN": [
+                "577584572"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_TeamAce",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "2079167739"
+            ],
+            "de-DE": [
+                "796833247"
+            ],
+            "en-US": [
+                "879131899"
+            ],
+            "es-ES": [
+                "853974045"
+            ],
+            "es-MX": [
+                "2078786002"
+            ],
+            "fr-FR": [
+                "1649275547"
+            ],
+            "it-IT": [
+                "778559062"
+            ],
+            "ja-JP": [
+                "1934386737"
+            ],
+            "ko-KR": [
+                "1257588089"
+            ],
+            "pl-PL": [
+                "1979587103"
+            ],
+            "pt-BR": [
+                "348223728"
+            ],
+            "ru-RU": [
+                "1738535439"
+            ],
+            "tr-TR": [
+                "2026654172"
+            ],
+            "Zh-CN": [
+                "62927928"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_TenSecLeft",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "889909329"
+            ],
+            "de-DE": [
+                "903641163"
+            ],
+            "en-US": [
+                "904754848"
+            ],
+            "es-ES": [
+                "1598624927"
+            ],
+            "es-MX": [
+                "1446877715"
+            ],
+            "fr-FR": [
+                "449178973"
+            ],
+            "it-IT": [
+                "1858360330"
+            ],
+            "ja-JP": [
+                "436255313"
+            ],
+            "ko-KR": [
+                "1739989553"
+            ],
+            "pl-PL": [
+                "472048202"
+            ],
+            "pt-BR": [
+                "865852187"
+            ],
+            "ru-RU": [
+                "555475147"
+            ],
+            "tr-TR": [
+                "2035104871"
+            ],
+            "Zh-CN": [
+                "878737337"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_ThirtySecLeft",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "593109130"
+            ],
+            "de-DE": [
+                "1868029857"
+            ],
+            "en-US": [
+                "804806617"
+            ],
+            "es-ES": [
+                "2133048033"
+            ],
+            "es-MX": [
+                "2051095025"
+            ],
+            "fr-FR": [
+                "1010154209"
+            ],
+            "it-IT": [
+                "1744251460"
+            ],
+            "ja-JP": [
+                "1525589208"
+            ],
+            "ko-KR": [
+                "876276829"
+            ],
+            "pl-PL": [
+                "394699928"
+            ],
+            "pt-BR": [
+                "1389226363"
+            ],
+            "ru-RU": [
+                "834379050"
+            ],
+            "tr-TR": [
+                "1794880466"
+            ],
+            "Zh-CN": [
+                "66474181"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_Thrifty",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1434225992",
+                "353780666"
+            ],
+            "de-DE": [
+                "2122150573",
+                "997279597"
+            ],
+            "en-US": [
+                "310789027",
+                "567995"
+            ],
+            "es-ES": [
+                "221551367",
+                "385469901"
+            ],
+            "es-MX": [
+                "144143964",
+                "159556822"
+            ],
+            "fr-FR": [
+                "226411105",
+                "884329169"
+            ],
+            "it-IT": [
+                "1178092762",
+                "1253793697"
+            ],
+            "ja-JP": [
+                "1938446821",
+                "994433951"
+            ],
+            "ko-KR": [
+                "1883606606",
+                "442492299"
+            ],
+            "pl-PL": [
+                "1952234652",
+                "217224416"
+            ],
+            "pt-BR": [
+                "1164856768",
+                "488678324"
+            ],
+            "ru-RU": [
+                "573690351",
+                "946947211"
+            ],
+            "tr-TR": [
+                "1584029403",
+                "324255508"
+            ],
+            "Zh-CN": [
+                "1138499859",
+                "1538117376"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/Play_VO_Announcer_TripleKill",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "290339950",
+                "461840031"
+            ],
+            "de-DE": [
+                "1947326583",
+                "2046813294"
+            ],
+            "en-US": [
+                "665730933",
+                "923224800"
+            ],
+            "es-ES": [
+                "1867166506",
+                "1908483153"
+            ],
+            "es-MX": [
+                "1324794760",
+                "44542158"
+            ],
+            "fr-FR": [
+                "1256032732",
+                "801723398"
+            ],
+            "it-IT": [
+                "152709040",
+                "270754109"
+            ],
+            "ja-JP": [
+                "1122390322",
+                "265944578"
+            ],
+            "ko-KR": [
+                "32287048",
+                "918582773"
+            ],
+            "pl-PL": [
+                "605684585",
+                "889325460"
+            ],
+            "pt-BR": [
+                "253412848",
+                "589694554"
+            ],
+            "ru-RU": [
+                "146072935",
+                "3027716"
+            ],
+            "tr-TR": [
+                "1297100293",
+                "938454778"
+            ],
+            "Zh-CN": [
+                "1910197736",
+                "299728785"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer/New_Events/Play_VO_Announcer_SpikeCarrierKilled",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "714515980"
+            ],
+            "de-DE": [
+                "784779112"
+            ],
+            "en-US": [
+                "212277623"
+            ],
+            "es-ES": [
+                "447724618"
+            ],
+            "es-MX": [
+                "713109271"
+            ],
+            "fr-FR": [
+                "2038241793"
+            ],
+            "it-IT": [
+                "2027727234"
+            ],
+            "ja-JP": [
+                "852784780"
+            ],
+            "ko-KR": [
+                "950517847"
+            ],
+            "pl-PL": [
+                "663433239"
+            ],
+            "pt-BR": [
+                "1439584361"
+            ],
+            "ru-RU": [
+                "462348335"
+            ],
+            "tr-TR": [
+                "1866654662"
+            ],
+            "Zh-CN": [
+                "1979542711"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer_General/Play_VO_Announcer_SpikeCarrierKilledA",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "62159217"
+            ],
+            "de-DE": [
+                "463148435"
+            ],
+            "en-US": [
+                "379524936"
+            ],
+            "es-ES": [
+                "1014657898"
+            ],
+            "es-MX": [
+                "537215003"
+            ],
+            "fr-FR": [
+                "364610200"
+            ],
+            "it-IT": [
+                "933169886"
+            ],
+            "ja-JP": [
+                "28460092"
+            ],
+            "ko-KR": [
+                "135446827"
+            ],
+            "pl-PL": [
+                "122886055"
+            ],
+            "pt-BR": [
+                "342653431"
+            ],
+            "ru-RU": [
+                "67854150"
+            ],
+            "tr-TR": [
+                "628681759"
+            ],
+            "Zh-CN": [
+                "272675512"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer_General/Play_VO_Announcer_SpikeCarrierKilledAtkSpawn",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "638877339"
+            ],
+            "de-DE": [
+                "254104426"
+            ],
+            "en-US": [
+                "196378596"
+            ],
+            "es-ES": [
+                "786240507"
+            ],
+            "es-MX": [
+                "127518274"
+            ],
+            "fr-FR": [
+                "238511321"
+            ],
+            "it-IT": [
+                "65608481"
+            ],
+            "ja-JP": [
+                "265112260"
+            ],
+            "ko-KR": [
+                "1015518231"
+            ],
+            "pl-PL": [
+                "1041572635"
+            ],
+            "pt-BR": [
+                "121961316"
+            ],
+            "ru-RU": [
+                "681471989"
+            ],
+            "tr-TR": [
+                "361291850"
+            ],
+            "Zh-CN": [
+                "45478200"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer_General/Play_VO_Announcer_SpikeCarrierKilledB",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "176477679"
+            ],
+            "de-DE": [
+                "522923633"
+            ],
+            "en-US": [
+                "1044258571"
+            ],
+            "es-ES": [
+                "768530494"
+            ],
+            "es-MX": [
+                "930178340"
+            ],
+            "fr-FR": [
+                "71704245"
+            ],
+            "it-IT": [
+                "413941799"
+            ],
+            "ja-JP": [
+                "558067277"
+            ],
+            "ko-KR": [
+                "466209451"
+            ],
+            "pl-PL": [
+                "133507837"
+            ],
+            "pt-BR": [
+                "567830858"
+            ],
+            "ru-RU": [
+                "678879341"
+            ],
+            "tr-TR": [
+                "460528149"
+            ],
+            "Zh-CN": [
+                "244633409"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer_General/Play_VO_Announcer_SpikeCarrierKilledC",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1067280806"
+            ],
+            "de-DE": [
+                "78008338"
+            ],
+            "en-US": [
+                "487520511"
+            ],
+            "es-ES": [
+                "349109177"
+            ],
+            "es-MX": [
+                "95742204"
+            ],
+            "fr-FR": [
+                "768799973"
+            ],
+            "it-IT": [
+                "62335354"
+            ],
+            "ja-JP": [
+                "1059939215"
+            ],
+            "ko-KR": [
+                "185428768"
+            ],
+            "pl-PL": [
+                "436554305"
+            ],
+            "pt-BR": [
+                "288728863"
+            ],
+            "ru-RU": [
+                "762810053"
+            ],
+            "tr-TR": [
+                "392852906"
+            ],
+            "Zh-CN": [
+                "831065663"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer_General/Play_VO_Announcer_SpikeCarrierKilledDefSpawn",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "425083845"
+            ],
+            "de-DE": [
+                "630526501"
+            ],
+            "en-US": [
+                "31567061"
+            ],
+            "es-ES": [
+                "1069555229"
+            ],
+            "es-MX": [
+                "1040502798"
+            ],
+            "fr-FR": [
+                "819449576"
+            ],
+            "it-IT": [
+                "336737478"
+            ],
+            "ja-JP": [
+                "89739395"
+            ],
+            "ko-KR": [
+                "427955096"
+            ],
+            "pl-PL": [
+                "717731702"
+            ],
+            "pt-BR": [
+                "591559022"
+            ],
+            "ru-RU": [
+                "478542809"
+            ],
+            "tr-TR": [
+                "120289696"
+            ],
+            "Zh-CN": [
+                "627565099"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Announcer/VO_Announcer_General/Play_VO_Announcer_SpikeCarrierKilledMid",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "596230614"
+            ],
+            "de-DE": [
+                "745920514"
+            ],
+            "en-US": [
+                "689687202"
+            ],
+            "es-ES": [
+                "892376245"
+            ],
+            "es-MX": [
+                "311787400"
+            ],
+            "fr-FR": [
+                "398461320"
+            ],
+            "it-IT": [
+                "36839683"
+            ],
+            "ja-JP": [
+                "495152556"
+            ],
+            "ko-KR": [
+                "898261410"
+            ],
+            "pl-PL": [
+                "712183730"
+            ],
+            "pt-BR": [
+                "770707055"
+            ],
+            "ru-RU": [
+                "656198391"
+            ],
+            "tr-TR": [
+                "163623123"
+            ],
+            "Zh-CN": [
+                "662737880"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sarge_VO/E02/Play_VO_Sarge_E02_Emote_EnemiesSpotted_A",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "254298577",
+                "460470564"
+            ],
+            "de-DE": [
+                "508245215",
+                "892789988"
+            ],
+            "en-US": [
+                "195770933",
+                "265202902"
+            ],
+            "es-ES": [
+                "302768481",
+                "720068860"
+            ],
+            "es-MX": [
+                "1047648481",
+                "580482249"
+            ],
+            "fr-FR": [
+                "575378573",
+                "838480761"
+            ],
+            "it-IT": [
+                "29533445",
+                "651241127"
+            ],
+            "ja-JP": [
+                "1032779173",
+                "963118064"
+            ],
+            "ko-KR": [
+                "541294930",
+                "858103829"
+            ],
+            "pl-PL": [
+                "303770385",
+                "729596718"
+            ],
+            "pt-BR": [
+                "265964530",
+                "916096424"
+            ],
+            "ru-RU": [
+                "208868770",
+                "226459465"
+            ],
+            "tr-TR": [
+                "512762423",
+                "874182383"
+            ],
+            "Zh-CN": [
+                "468076888",
+                "984943550"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Guide_VO/InRound/Abilities/Play_VO_Guide_AbilityXSuccessfulHit",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1882915976",
+                "2099596788"
+            ],
+            "de-DE": [
+                "1392500042",
+                "2099006398"
+            ],
+            "en-US": [
+                "127696443",
+                "81282020"
+            ],
+            "es-ES": [
+                "1006750086",
+                "1285613929"
+            ],
+            "es-MX": [
+                "1298592960",
+                "979927504"
+            ],
+            "fr-FR": [
+                "1051022756",
+                "138039604"
+            ],
+            "it-IT": [
+                "1212778114",
+                "1769009257"
+            ],
+            "ja-JP": [
+                "1803496937",
+                "2116283639"
+            ],
+            "ko-KR": [
+                "1994020643",
+                "440093368"
+            ],
+            "pl-PL": [
+                "265979658",
+                "529628025"
+            ],
+            "pt-BR": [
+                "2047060036",
+                "24823532"
+            ],
+            "ru-RU": [
+                "1102110199",
+                "1313776685"
+            ],
+            "tr-TR": [
+                "32129558",
+                "942794962"
+            ],
+            "Zh-CN": [
+                "1915786186",
+                "1995116829"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Guide_VO/InRound/Efforts/Play_VO_Guide_Relief",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1254540442",
+                "429867956",
+                "454123162"
+            ],
+            "de-DE": [
+                "1345642568",
+                "495880610",
+                "747743448"
+            ],
+            "en-US": [
+                "305761244",
+                "720330216",
+                "906213940"
+            ],
+            "es-ES": [
+                "1582054529",
+                "1690638538",
+                "876654232"
+            ],
+            "es-MX": [
+                "1166767032",
+                "1700163016",
+                "411957455"
+            ],
+            "fr-FR": [
+                "1337313344",
+                "1571392377",
+                "1915147286"
+            ],
+            "it-IT": [
+                "1044726862",
+                "129338919",
+                "621138535"
+            ],
+            "ja-JP": [
+                "1397444473",
+                "1759563918",
+                "725207160"
+            ],
+            "ko-KR": [
+                "1115592309",
+                "1988147786",
+                "461576934"
+            ],
+            "pl-PL": [
+                "1187674910",
+                "1926563312",
+                "370008624"
+            ],
+            "pt-BR": [
+                "1007304574",
+                "1123962659",
+                "1259845915"
+            ],
+            "ru-RU": [
+                "1423130542",
+                "623975036",
+                "652572650"
+            ],
+            "tr-TR": [
+                "1110496450",
+                "1136482879",
+                "742754058"
+            ],
+            "Zh-CN": [
+                "1363387091",
+                "1403138495",
+                "2056586670"
+            ]
+        }
+    }
+]

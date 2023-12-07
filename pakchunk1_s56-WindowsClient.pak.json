@@ -1,0 +1,26 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Duality/BGFX/Play_BGFX_ACFan_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "540543802"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Hunter_SFX/Abilities/Play_Hunter_AbilX_HitConf_Death",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "13179082",
+                "259218685",
+                "384209520",
+                "503153865",
+                "528190088",
+                "872675780",
+                "981025977"
+            ]
+        }
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/BountyHunter_CharacterSelect/Play_BountyHunter_CharacterSelect_Arrive",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "747150991"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LMG_RE/Play_Wp_LMG_Ashen_Equip_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "378740313"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/Emitters/Play_BG_Hurm4_Fan_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "782644418"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_AK_RE/T3/Play_Wp_AK47_Antares_Inspect_Lv3_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1002506895"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "272573723"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Equip_Grab_End_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "310741530",
+                "863546434",
+                "9729885"
+            ]
+        }
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Carbine_RE/Play_Wp_Carbine_Ashen_Equip_Elem_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "410900279"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Helix/SAV/Play_BG_Hurm_Helix_Mid_pool",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "474459521"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Mvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "153182111"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Mvt_Ele_Ice_E",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "416065595"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Mvt_Ele_Ice_F",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "442666905"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Volumes/Atk_Side/Play_BG_Yard_AtkMid_Canvas",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "670261905"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_MotorBike/Play_UI_KillBanner_MotorBike",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "171438953"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LeverSniper_RE/Play_Wp_LeverSniper_Ashen_Inspect_Lever_Out_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "186937125"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LeverSniper_RE/Play_Wp_LeverSniper_Ashen_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "96792827"
+            ]
+        }
+    }
+]

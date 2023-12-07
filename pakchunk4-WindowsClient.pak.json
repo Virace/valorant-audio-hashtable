@@ -1,0 +1,70 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Stealth_CharacterSelect/Play_Stealth_CharacterSelect_Arrive",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "814699860"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Stealth_CharacterSelect/Play_Stealth_CharacterSelect_Fidget",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1037891781",
+                "4800061",
+                "570518436"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Stealth_VO/E02/Play_VO_Stealth_PickMe",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "95185362"
+            ],
+            "de-DE": [
+                "778763583"
+            ],
+            "en-US": [
+                "107320642"
+            ],
+            "es-ES": [
+                "882516082"
+            ],
+            "es-MX": [
+                "80947822"
+            ],
+            "fr-FR": [
+                "929130577"
+            ],
+            "it-IT": [
+                "57698600"
+            ],
+            "ja-JP": [
+                "583697386"
+            ],
+            "ko-KR": [
+                "29914729"
+            ],
+            "pl-PL": [
+                "668056997"
+            ],
+            "pt-BR": [
+                "218255885"
+            ],
+            "ru-RU": [
+                "44464720"
+            ],
+            "tr-TR": [
+                "1037670759"
+            ],
+            "Zh-CN": [
+                "756289641"
+            ]
+        }
+    }
+]

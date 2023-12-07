@@ -1,0 +1,48 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Champions3/Play_UI_KillBanner_Champions3",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "931346598"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Finisher/Events_Guns_Sol_Finisher/Play_Wp_Finisher_Sol",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1023920156",
+                "696570382"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_MotorBike/Play_Wp_Melee_MotorBike_Equip_Ele_Gear",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "112890531"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Loops/Play_BG_Yard_Floating_Island",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "308914007"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Helix/Emitters/Play_Amb_Hurm_Helix_Waves",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "341328545"
+            ]
+        }
+    }
+]

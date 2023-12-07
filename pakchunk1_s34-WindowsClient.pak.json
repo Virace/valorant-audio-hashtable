@@ -1,0 +1,65 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_Vector_RE/Play_Wp_Vector_Sovereign_Inspect_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "643225414"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Triad/Persistant_Objects/Play_BG_Triad_TreeWind_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "324228505"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/E_Haunt/Play_BH_E_Haunt_HitConfirm_Victim",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "251659229"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wraith_SFX/Ability_SmokeDome/Play_Wraith_Abil_SmokeDome_Explode",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1049808220"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/URF_RE/URF_HMG_RE/Play_Wp_HMG_URF_Inspect_Shell_Mvt_G_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "717483783"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/SpikeRush/Events_SpikeRush_Buff_Paranoia/Play_SpikeRush_Buff_Paranoia_Telegraph_Ally",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "781759020"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/King_RE/King_Carbine_RE/Play_Wp_Carbine_King_Inspect_Element_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "592293563"
+            ]
+        }
+    }
+]

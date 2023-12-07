@@ -1,0 +1,47 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Helix/Emitters/Play_Amb_Hurm_Helix_Beach",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "419134163"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Ashen_Reload_Mvt_B_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "944609852"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Arcade/Play_Wp_Melee_Arcade_Inspect_Mvt_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "246467491"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_DMR_RE/Play_Wp_DMR_Ashen_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "52778839"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_SOL2/Play_Wp_Melee_SOL2_Inspect_Lv1_Mvt_A_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "963503955"
+            ]
+        }
+    }
+]

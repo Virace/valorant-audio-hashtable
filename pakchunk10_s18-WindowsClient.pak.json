@@ -1,0 +1,38 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_Center_Lighthouse",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "587897344"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_DMR_RE/Play_Wp_DMR_Ashen_Inspect_Elem_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "100633824"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Revolver_RE/Play_Wp_Revolver_Motor_Inspect_Ele_Spark_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "519811340"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Ashen_Equip_Forestock_Back_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "352932059"
+            ]
+        }
+    }
+]

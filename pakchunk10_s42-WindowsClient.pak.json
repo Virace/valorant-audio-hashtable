@@ -1,0 +1,74 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_AK_RE/Play_Wp_AK_Motor_Inspect_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "649484901"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_PermaFrost_Inspect_Ele_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "42988736"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_Permafrost_Slide_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "646424255"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_SawedOff_RE/Play_Wp_SawedOff_Ashen_Inspect_Elem_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "855902337"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_SawedOff_RE/Play_Wp_SawedOff_Ashen_Mvt_Raise_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "346744117"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LeverSniper_RE/Play_Wp_LeverSniper_Ashen_Reload_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "798233763"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_PermaFrost/Play_UI_KillBanner_PermaFrost",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "427471366"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_SpecOps/Play_Wp_Melee_SpecOps_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "733103120"
+            ]
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_MP5_RE/Play_Wp_SMG_Tier3_Aquarium_Reload_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "823047569"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_DMR_RE/Play_Wp_DMR_Aquarium_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "837513291"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Aquarium/Play_UI_KillBanner_Aquarium",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "906248038"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_BoltSniper_RE/Play_Wp_BoltSniper_Antares_Inspect_Mvt_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "372457728"
+            ]
+        }
+    }
+]

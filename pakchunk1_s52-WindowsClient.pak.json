@@ -1,0 +1,38 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Store/UI_Store_Purchase_In_Progress",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "484882321"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Rift_SFX/Abilities/Play_Rift_AbilC_RampUp_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "574760507"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Ascent/Emitters/Play_BG_Ascent_Radianite_Generator_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "911338373"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Jam/Loops/Play_Emitter_Jam_Fountains_Sml",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "551116030"
+            ]
+        }
+    }
+]

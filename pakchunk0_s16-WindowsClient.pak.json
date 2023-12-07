@@ -1,0 +1,536 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Grenadier_VO/E05/Play_VO_Grenadier_E05_AbilityEHitConfirmAgent_4Hit",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "110216407"
+            ],
+            "de-DE": [
+                "1058524888"
+            ],
+            "en-US": [
+                "76794746"
+            ],
+            "es-ES": [
+                "771266993"
+            ],
+            "es-MX": [
+                "169986193"
+            ],
+            "fr-FR": [
+                "980254931"
+            ],
+            "it-IT": [
+                "183833820"
+            ],
+            "ja-JP": [
+                "1027128903"
+            ],
+            "ko-KR": [
+                "980203280"
+            ],
+            "pl-PL": [
+                "59682804"
+            ],
+            "pt-BR": [
+                "1069190370"
+            ],
+            "ru-RU": [
+                "409620193"
+            ],
+            "tr-TR": [
+                "878209865"
+            ],
+            "Zh-CN": [
+                "462244192"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Aggrobot_VO/Core/Play_VO_Aggrobot_E06_Emote_RushThem",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "241112455",
+                "410006103"
+            ],
+            "de-DE": [
+                "364671977",
+                "737811139"
+            ],
+            "en-US": [
+                "31617839",
+                "561850348"
+            ],
+            "es-ES": [
+                "230071976",
+                "944719633"
+            ],
+            "es-MX": [
+                "204744547",
+                "554538894"
+            ],
+            "fr-FR": [
+                "1061391652",
+                "931824857"
+            ],
+            "it-IT": [
+                "182980812",
+                "469284145"
+            ],
+            "ja-JP": [
+                "536008368",
+                "977062760"
+            ],
+            "ko-KR": [
+                "376813073",
+                "527862939"
+            ],
+            "pl-PL": [
+                "1009363503",
+                "673245237"
+            ],
+            "pt-BR": [
+                "114071127",
+                "449894093"
+            ],
+            "ru-RU": [
+                "487695849",
+                "79262498"
+            ],
+            "tr-TR": [
+                "356775979",
+                "568056128"
+            ],
+            "Zh-CN": [
+                "1027627400",
+                "758974853"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Aggrobot_VO/Core/Play_VO_Aggrobot_E06_Emote_EnemiesSpotted_B",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "409013174",
+                "646996498"
+            ],
+            "de-DE": [
+                "185589572",
+                "411339427"
+            ],
+            "en-US": [
+                "257992357",
+                "320472153"
+            ],
+            "es-ES": [
+                "101988393",
+                "578796967"
+            ],
+            "es-MX": [
+                "301201199",
+                "648772986"
+            ],
+            "fr-FR": [
+                "349839173",
+                "355732606"
+            ],
+            "it-IT": [
+                "846989099",
+                "898289984"
+            ],
+            "ja-JP": [
+                "271336365",
+                "828414493"
+            ],
+            "ko-KR": [
+                "131864819",
+                "391296853"
+            ],
+            "pl-PL": [
+                "630443627",
+                "726837194"
+            ],
+            "pt-BR": [
+                "1055041905",
+                "97042063"
+            ],
+            "ru-RU": [
+                "823673193",
+                "843802106"
+            ],
+            "tr-TR": [
+                "171476220",
+                "75229985"
+            ],
+            "Zh-CN": [
+                "136377439",
+                "79888973"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Aggrobot_VO/Core/Play_VO_Aggrobot_E06_MatchS_Chat_AggrobotVampire",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "988513843"
+            ],
+            "de-DE": [
+                "533054049"
+            ],
+            "en-US": [
+                "1036348249"
+            ],
+            "es-ES": [
+                "26155861"
+            ],
+            "es-MX": [
+                "376006055"
+            ],
+            "fr-FR": [
+                "140509674"
+            ],
+            "it-IT": [
+                "345241694"
+            ],
+            "ja-JP": [
+                "174190980"
+            ],
+            "ko-KR": [
+                "187674379"
+            ],
+            "pl-PL": [
+                "984549611"
+            ],
+            "pt-BR": [
+                "70142532"
+            ],
+            "ru-RU": [
+                "195281399"
+            ],
+            "tr-TR": [
+                "334757548"
+            ],
+            "Zh-CN": [
+                "126892537"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Aamir_VO/Play_VO_Aamir_MatchStartMap_Duality",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "217380760"
+            ],
+            "de-DE": [
+                "1670077715"
+            ],
+            "en-US": [
+                "572249054"
+            ],
+            "es-ES": [
+                "480505889"
+            ],
+            "es-MX": [
+                "1596154164"
+            ],
+            "fr-FR": [
+                "1306416709"
+            ],
+            "it-IT": [
+                "1147653418"
+            ],
+            "ja-JP": [
+                "316504423"
+            ],
+            "ko-KR": [
+                "1569126834"
+            ],
+            "pl-PL": [
+                "283595171"
+            ],
+            "pt-BR": [
+                "288140066"
+            ],
+            "ru-RU": [
+                "2024936644"
+            ],
+            "tr-TR": [
+                "1310531858"
+            ],
+            "Zh-CN": [
+                "1479678756"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Reload_Grab_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "234526718"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Killjoy_VO/Play_VO_Killjoy_Thrifty",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "300249502"
+            ],
+            "de-DE": [
+                "586026418"
+            ],
+            "en-US": [
+                "553766388"
+            ],
+            "es-ES": [
+                "1979840568"
+            ],
+            "es-MX": [
+                "678558983"
+            ],
+            "fr-FR": [
+                "1762328169"
+            ],
+            "it-IT": [
+                "865877741"
+            ],
+            "ja-JP": [
+                "1638902040"
+            ],
+            "ko-KR": [
+                "1315072995"
+            ],
+            "pl-PL": [
+                "158222393"
+            ],
+            "pt-BR": [
+                "1089974323"
+            ],
+            "ru-RU": [
+                "2087980312"
+            ],
+            "tr-TR": [
+                "320335326"
+            ],
+            "Zh-CN": [
+                "643718805"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/BurstRifile_RE/Play_Wp_BurstRifle_Reload_Chg_Hndl_Button",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "498393498",
+                "733617024",
+                "883428978"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SniperBolt_RE/Play_Wp_BoltSniper_Chg_Hnd_Up",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "315352054",
+                "708299193",
+                "802997988"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Aggrobot_SFX/Aggrobot_Q/Q/Play_Aggrobot_AbilQ_SpikeBot_EnemySpotted_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "89968970"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/LMG_RE/Play_Wp_LMG_Reload_Mag_In_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1018400517",
+                "129915903",
+                "878832018"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Guide_VO/InRound/Kills/Play_VO_Guide_Kill_Phoenix",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1358465134"
+            ],
+            "de-DE": [
+                "620107750"
+            ],
+            "en-US": [
+                "403683059"
+            ],
+            "es-ES": [
+                "139316068"
+            ],
+            "es-MX": [
+                "1527481437"
+            ],
+            "fr-FR": [
+                "1511181501"
+            ],
+            "it-IT": [
+                "1410216326"
+            ],
+            "ja-JP": [
+                "793794596"
+            ],
+            "ko-KR": [
+                "403707626"
+            ],
+            "pl-PL": [
+                "678267572"
+            ],
+            "pt-BR": [
+                "141918209"
+            ],
+            "ru-RU": [
+                "1658442497"
+            ],
+            "tr-TR": [
+                "1319052506"
+            ],
+            "Zh-CN": [
+                "661594377"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sarge_VO/E02/Play_VO_Sarge_E02_RoundStartEnemy_Vampire",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "190118972"
+            ],
+            "de-DE": [
+                "612035653"
+            ],
+            "en-US": [
+                "879651671"
+            ],
+            "es-ES": [
+                "662817559"
+            ],
+            "es-MX": [
+                "623696180"
+            ],
+            "fr-FR": [
+                "151174500"
+            ],
+            "it-IT": [
+                "903755335"
+            ],
+            "ja-JP": [
+                "495062385"
+            ],
+            "ko-KR": [
+                "345309538"
+            ],
+            "pl-PL": [
+                "846309841"
+            ],
+            "pt-BR": [
+                "542537897"
+            ],
+            "ru-RU": [
+                "857654736"
+            ],
+            "tr-TR": [
+                "152619054"
+            ],
+            "Zh-CN": [
+                "616090534"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Guide_VO/PlayerActivated/Play_VO_Guide_EmotePingWatching",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1585309744",
+                "728005129"
+            ],
+            "de-DE": [
+                "1306860677",
+                "2062907604"
+            ],
+            "en-US": [
+                "665035627",
+                "98124647"
+            ],
+            "es-ES": [
+                "1402820412",
+                "512505363"
+            ],
+            "es-MX": [
+                "1950510960",
+                "252450305"
+            ],
+            "fr-FR": [
+                "1317214049",
+                "354788680"
+            ],
+            "it-IT": [
+                "48804045",
+                "984729914"
+            ],
+            "ja-JP": [
+                "205422881",
+                "2065224208"
+            ],
+            "ko-KR": [
+                "148660890",
+                "1975851632"
+            ],
+            "pl-PL": [
+                "1471065492",
+                "485663683"
+            ],
+            "pt-BR": [
+                "1916140895",
+                "865368806"
+            ],
+            "ru-RU": [
+                "1983159280",
+                "586547552"
+            ],
+            "tr-TR": [
+                "1480855640",
+                "1997833019"
+            ],
+            "Zh-CN": [
+                "1676698483",
+                "434601937"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SMG_RE/Play_Wp_MP5_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "901402772"
+            ]
+        }
+    }
+]

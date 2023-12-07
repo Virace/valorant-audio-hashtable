@@ -1,0 +1,29 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Equip_Elem_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "611009391"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Carbine_RE/Play_Wp_Carbine_Ashen_Reload_Elem_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "193925705"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BurstRifle_RE/Play_Wp_BurstRifle_Permafrost_Inspect_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "469738853"
+            ]
+        }
+    }
+]

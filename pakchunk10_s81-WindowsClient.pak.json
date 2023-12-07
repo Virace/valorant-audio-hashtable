@@ -1,0 +1,139 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Lv2_Heavy_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "1047783367",
+                "347634037",
+                "358977396",
+                "46245546",
+                "516748539",
+                "620285719",
+                "672386963",
+                "674687922",
+                "744164962",
+                "88578112",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_BoltSniper_RE/Play_Wp_BoltSniper_Dynasty_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1032075356",
+                "254177959",
+                "890898158"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AK_RE/Play_Wp_AK_Dynasty_Inspect_Mvt_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "158326306",
+                "682728047",
+                "789061118"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BoltSniper_RE/Play_Wp_BoltSniper_PermaFrost_Equip_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "60371921",
+                "721508817",
+                "853907443"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_AK_RE/T1/Play_Wp_AK47_Antares_Tier1_Equip_Grab",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1042823420",
+                "572144109",
+                "923176229"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Dynasty/AK47_Dynasty/Play_Wp_AK47_Dynasty_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "101145424",
+                "1019099566",
+                "1020396756",
+                "1020579393",
+                "1031155163",
+                "1037555047",
+                "1040461877",
+                "1067141511",
+                "115668874",
+                "138924462",
+                "159749896",
+                "188767848",
+                "233244113",
+                "242113032",
+                "247804371",
+                "326620380",
+                "339015636",
+                "345148982",
+                "354691330",
+                "355106021",
+                "396251375",
+                "436971189",
+                "47266145",
+                "490400054",
+                "537989045",
+                "562212796",
+                "562884538",
+                "584020184",
+                "598810260",
+                "611288526",
+                "620013597",
+                "620138329",
+                "621731115",
+                "632916505",
+                "663532214",
+                "664650975",
+                "727196755",
+                "736949655",
+                "739633805",
+                "759787814",
+                "767154562",
+                "773310954",
+                "816279353",
+                "81904878",
+                "839057616",
+                "857750757",
+                "884887133",
+                "904872551",
+                "939165295",
+                "94384718",
+                "953397436",
+                "968970412",
+                "987865296",
+                "988200509"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AutoShotgun_RE/Play_Wp_AutoShotgun_Dynasty_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "446242924",
+                "682373966",
+                "82078851"
+            ]
+        }
+    }
+]

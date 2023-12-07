@@ -1,0 +1,29 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen2/Play_Wp_Melee_Ashen2_Inspect_Mvt_C_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "386923133"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Rift_CharacterSelect/Play_Rift_CharacterSelect_Arrive_Orb_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "741569455"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "677454141"
+            ]
+        }
+    }
+]

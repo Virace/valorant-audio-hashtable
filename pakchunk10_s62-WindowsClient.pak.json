@@ -1,0 +1,40 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Carbine_RE/Play_Wp_Carbine_Ashen_Reload_Elem_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "359318724"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_Permafrost_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "394674264"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_AK_RE/Play_Wp_AK47_Ashen_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "48148024"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Haunted_RE/Haunted_Luger_RE/Play_Wp_Luger_Haunted_Reload_Ele_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "25854134",
+                "386958265",
+                "588166697"
+            ]
+        }
+    }
+]

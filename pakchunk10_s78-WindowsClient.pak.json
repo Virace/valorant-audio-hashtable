@@ -1,0 +1,614 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_AK_RE/Play_Wp_AK_Motor_MagIn_Start_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1071907985",
+                "613245135",
+                "623084799"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_SawedOff_RE/Play_Wp_SawedOff_Ashen_Reload_Shells_In_Elem",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "441454724"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Core/Items/Play_SprayCan_Spray_SpeakerBox",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "196471193",
+                "400804919",
+                "422985057"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_SOL2/Play_Wp_Melee_SOL2_Knife1_Slash_Lv1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "347634037",
+                "358977396",
+                "438129019",
+                "461753095",
+                "46245546",
+                "472001940",
+                "565563093",
+                "672386963",
+                "675133939",
+                "913050503",
+                "947271977"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_AtktoDef_Trans_Int",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "491325443"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Aquarium/Play_Wp_Melee_Aquarium_Lv1_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "193992340",
+                "204556453",
+                "26358347",
+                "347634037",
+                "358977396",
+                "46245546",
+                "672386963",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Aquarium/Play_Wp_Melee_Aquarium_Lv1_Heavy_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "347634037",
+                "352992024",
+                "358977396",
+                "46245546",
+                "672386963",
+                "721063514",
+                "863089773",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AK_RE/Play_Wp_AK_Dynasty_Reload_Mvt_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "30224049",
+                "67893602",
+                "692610911"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Sawed_Off_RE/Play_Wp_Sawed_Off_Antares_Reload_Close",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "146830089",
+                "238573937",
+                "850634408"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_MonkeyKing/Play_Wp_Melee_MonkeyKing_Inspect",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "295246557",
+                "359806266",
+                "437467262",
+                "612080802",
+                "758268034",
+                "835267371"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Aggressive_Cyberpunk/Play_Wp_Melee_Aggressive_CP_Lv1_Heavy_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "251317675",
+                "347634037",
+                "358977396",
+                "46245546",
+                "672386963",
+                "727023718",
+                "744492348",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_MotorBike/Play_Wp_Melee_MotorBike_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "122924974",
+                "206716049",
+                "311188362",
+                "347634037",
+                "358977396",
+                "380732754",
+                "46245546",
+                "497278907",
+                "620484744",
+                "651181624",
+                "672386963",
+                "836983096",
+                "864107293",
+                "913050503",
+                "99426554"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/XP1_RE/XP1_Revolver_RE/Play_Wp_Revolver_XP1_Inspect_Elem_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "287164533",
+                "653800804",
+                "83735063"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Revolver_RE/Play_Wp_Revolver_Motor_Equip_Draw_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1014538411",
+                "618329004",
+                "754479704"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_Revolver_RE/Play_Wp_Revolver_Dynasty_Reload_Shell_Out_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "105496891",
+                "212510659",
+                "218415356"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Orient/Play_Wp_Melee_Orient_lv2_Equip_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1031897486",
+                "635604214",
+                "943652980",
+                "956800164"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_MonkeyKing/Play_UI_KillBanner_MonkeyKing",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "867522272"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Aggrobot_VO/Core/Play_VO_Aggrobot_PickMe",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "601991349"
+            ],
+            "de-DE": [
+                "519532104"
+            ],
+            "en-US": [
+                "464327068"
+            ],
+            "es-ES": [
+                "818856552"
+            ],
+            "es-MX": [
+                "42059669"
+            ],
+            "fr-FR": [
+                "49387655"
+            ],
+            "it-IT": [
+                "25581181"
+            ],
+            "ja-JP": [
+                "113216480"
+            ],
+            "ko-KR": [
+                "1067594040"
+            ],
+            "pl-PL": [
+                "793435822"
+            ],
+            "pt-BR": [
+                "183703470"
+            ],
+            "ru-RU": [
+                "230646165"
+            ],
+            "tr-TR": [
+                "150924204"
+            ],
+            "Zh-CN": [
+                "1065139712"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_BountyHunter_VO/ToDoUnreal/Play_VO_BountyHunter_PickMe",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "891788368"
+            ],
+            "de-DE": [
+                "175645820"
+            ],
+            "en-US": [
+                "963067082"
+            ],
+            "es-ES": [
+                "115037037"
+            ],
+            "es-MX": [
+                "208474348"
+            ],
+            "fr-FR": [
+                "340125144"
+            ],
+            "it-IT": [
+                "787756707"
+            ],
+            "ja-JP": [
+                "166980546"
+            ],
+            "ko-KR": [
+                "152046095"
+            ],
+            "pl-PL": [
+                "333049496"
+            ],
+            "pt-BR": [
+                "928048987"
+            ],
+            "ru-RU": [
+                "381000565"
+            ],
+            "tr-TR": [
+                "421209827"
+            ],
+            "Zh-CN": [
+                "522357888"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Deadeye_VO/E03/Play_VO_Deadeye_PickMe",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "756560542"
+            ],
+            "de-DE": [
+                "84988629"
+            ],
+            "en-US": [
+                "765052468"
+            ],
+            "es-ES": [
+                "805670557"
+            ],
+            "es-MX": [
+                "410139801"
+            ],
+            "fr-FR": [
+                "3724671"
+            ],
+            "it-IT": [
+                "946339319"
+            ],
+            "ja-JP": [
+                "573729160"
+            ],
+            "ko-KR": [
+                "332081417"
+            ],
+            "pl-PL": [
+                "725574936"
+            ],
+            "pt-BR": [
+                "507658877"
+            ],
+            "ru-RU": [
+                "615621391"
+            ],
+            "tr-TR": [
+                "621926029"
+            ],
+            "Zh-CN": [
+                "728662574"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Mage_VO/Exploratory/Play_VO_Mage_PickMe",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "913950360"
+            ],
+            "de-DE": [
+                "48855063"
+            ],
+            "en-US": [
+                "409447225"
+            ],
+            "es-ES": [
+                "901794352"
+            ],
+            "es-MX": [
+                "141637490"
+            ],
+            "fr-FR": [
+                "547107887"
+            ],
+            "it-IT": [
+                "212764084"
+            ],
+            "ja-JP": [
+                "738348319"
+            ],
+            "ko-KR": [
+                "770488858"
+            ],
+            "pl-PL": [
+                "276709366"
+            ],
+            "pt-BR": [
+                "826900888"
+            ],
+            "ru-RU": [
+                "775169579"
+            ],
+            "tr-TR": [
+                "850243133"
+            ],
+            "Zh-CN": [
+                "64552420"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Rift_VO/Play_VO_Rift_PickMe",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "696800893"
+            ],
+            "de-DE": [
+                "639168598"
+            ],
+            "en-US": [
+                "594322343"
+            ],
+            "es-ES": [
+                "290798023"
+            ],
+            "es-MX": [
+                "629440372"
+            ],
+            "fr-FR": [
+                "710698273"
+            ],
+            "it-IT": [
+                "197474868"
+            ],
+            "ja-JP": [
+                "806424747"
+            ],
+            "ko-KR": [
+                "689776905"
+            ],
+            "pl-PL": [
+                "713825013"
+            ],
+            "pt-BR": [
+                "112519480"
+            ],
+            "ru-RU": [
+                "1026443757"
+            ],
+            "tr-TR": [
+                "1054959480"
+            ],
+            "Zh-CN": [
+                "974457343"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sprinter_VO/Play_VO_Sprinter_PickMe_01",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "264647788"
+            ],
+            "de-DE": [
+                "833599836"
+            ],
+            "en-US": [
+                "5690468"
+            ],
+            "es-ES": [
+                "463613759"
+            ],
+            "es-MX": [
+                "948517003"
+            ],
+            "fr-FR": [
+                "1049742454"
+            ],
+            "it-IT": [
+                "836106262"
+            ],
+            "ja-JP": [
+                "507986055"
+            ],
+            "ko-KR": [
+                "534959911"
+            ],
+            "pl-PL": [
+                "832817311"
+            ],
+            "pt-BR": [
+                "391600413"
+            ],
+            "ru-RU": [
+                "755623675"
+            ],
+            "tr-TR": [
+                "1020792446"
+            ],
+            "Zh-CN": [
+                "688422829"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Pump_RE/Play_Wp_Shotgun_Pump_Motor_Equip_Ele",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1069347858",
+                "498620967",
+                "835058957"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Reload_Shift_Mvt_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "542444717",
+                "778567131",
+                "925216492"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoSG_RE/Play_Wp_ShotgunAuto_CyberPunk_Inspect_Mvt_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "124296225",
+                "371776913",
+                "654444359"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Reload_Mag_Rels_Button_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "218512329",
+                "493335010",
+                "637982197"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_BoltSniper_RE/Play_Wp_BoltSniper_Dynasty_Equip_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "123218354",
+                "165881532",
+                "841856678"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BurstRifle_RE/Play_Wp_BurstRifle_Permafrost_Reload_Mag_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "16224196",
+                "487204608",
+                "870070234"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Dynasty/Play_Wp_Melee_Dynasty_Lv2_Equip_Mvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "640426438",
+                "743322601",
+                "748676811"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Dynasty/Play_Wp_Melee_Dynasty_Lv2_Equip_Mvt_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "236022094",
+                "786984295",
+                "863225598"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BoltSniper_RE/Play_Wp_BoltSniper_PermaFrost_Fire_Chg_Ele_Ice",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "270254557",
+                "562152884",
+                "770109833"
+            ]
+        }
+    }
+]

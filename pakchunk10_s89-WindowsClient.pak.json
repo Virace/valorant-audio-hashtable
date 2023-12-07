@@ -1,0 +1,68 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_Luger_RE/Play_Wp_Luger_MonkeyKing_Reload_Slide_Lock_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1059384057",
+                "713199245",
+                "833401130"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_Luger_RE/Play_Wp_Luger_MonkeyKing_Inspect_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "19300514",
+                "444831338",
+                "528453408"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Haunted_RE/Haunted_Carbine_RE/Play_Wp_Carbine_Haunted_KillEffect",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1017530814",
+                "116902984",
+                "771572783"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_DMR_RE/Play_Wp_DMR_Aquarium_Inspect_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "414357963",
+                "557704942",
+                "896845596"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AK_RE/Play_Wp_AK_Dynasty_Inspect_Mvt_Ele_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "217171671",
+                "736319540",
+                "76467133"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Dynasty/Play_Wp_Melee_Dynasty_Lv2_Inspect_Mvt_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1041369105",
+                "1065322888",
+                "776656013"
+            ]
+        }
+    }
+]

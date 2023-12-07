@@ -1,0 +1,470 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/UI_EoG_Mission_Completed",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "44557325",
+                "671037897"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/UI_Eog_Ceremony_Immortal",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "667778163"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/UI_Premier_Crest_Playoff",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1021232963"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_King/Play_Wp_Melee_King_Inspect_Element_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "203861125"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/King_RE/King_Carbine_RE/Play_Wp_Carbine_King_Inspect_Element_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "480257641",
+                "77532251",
+                "959320182"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/Q/Play_Cable_AbilQ_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "584167976"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/Q/Play_Cable_AbilQ_SSC_DetectConfirrm",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "579591567"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/AbilX/X/Play_Cable_AbilX_CageDestroyed_1P_Version",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "25700174"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Hunter_SFX/Abilities/Play_Hunter_S0_AB_X_SuperBolt_Cancel_Bow_Mvt_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "537586624"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Collection/Play_UI_CreateFavorite",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "337036319"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Range/Play_BG_Range_Interior_BoatHouse",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "647248780"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Range/Play_BG_Range_Wind_Gusts",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "891711909"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Range/Play_BG_Range_Interior_CyphersOffice",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "907634417"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/NPE/NPE_UI/Play_Ping_Player_Move_On",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "746127837"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops/Play_BG_Port_GlacierTunnel",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "780072305"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Duality/Loops_Volumes/Play_AmbVol_Wind_Sand_Bushes_Gusty",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "293199300"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Duality/Loops_Volumes/Play_AmbVol_ABathHouseTowardTeleporter",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "336381360",
+                "880702324"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Pandemic_SFX/E/Play_Pandemic_Abil_Wall_WallPenn_Exit",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "133955272"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Vampire_SFX/AbilQ/Play_ResetCarry_AbilQ_Cast",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "101303189",
+                "643468755"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/HypeBeast/AK47_HypeBeast/Play_Wp_AK47_HypeBeast_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "101145424",
+                "1013374631",
+                "1020396756",
+                "1020579393",
+                "1031155163",
+                "1040461877",
+                "1067141511",
+                "115668874",
+                "225118732",
+                "248339656",
+                "341165811",
+                "343146334",
+                "345148982",
+                "355106021",
+                "367888420",
+                "377371297",
+                "396251375",
+                "411090964",
+                "436971189",
+                "47266145",
+                "474449513",
+                "562884538",
+                "584020184",
+                "59829694",
+                "598810260",
+                "611288526",
+                "620013597",
+                "620138329",
+                "632916505",
+                "645190951",
+                "664650975",
+                "707961714",
+                "727196755",
+                "736949655",
+                "739633805",
+                "839057616",
+                "884887133",
+                "888367054",
+                "904872551",
+                "934614157",
+                "939165295",
+                "953397436",
+                "968417464",
+                "968970412"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Triad/Interiors/Play_triad_ambiance_csite_garage_loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "910741314"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Triad/Interiors/Play_Amb_Triad_CGarage",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "311510609",
+                "961648286"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_InGame/InGame/Play_UI_VoteRequest_Hide",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "499299429",
+                "567886006"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_InGame/InGame/Play_UI_Shop_Close",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "694452281"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/Q_TetherGrenade/Play_BH_Q_Seize_Explo",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "221508530",
+                "799767696"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/Hurm/Events_Hrum_Orbs/Hurm_Orb_Ult/Play_Hurm_Orb_Ult_RegenEffect_Cutoff",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "248603439",
+                "540393569"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Triad/Persistant_Objects/Play_Triad_BG_CSite_Lava_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "35613242",
+                "784770372"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_DMR_RE/T3/Play_Wp_DMR_Sovereign_Inspect_Mvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "953938372"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/URF_RE/URF_HMG_RE/Play_Wp_HMG_URF_Inspect_Shell_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "469842350"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/URF_RE/URF_HMG_RE/Play_Wp_HMG_URF_Reload_Belt_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "885991554"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Killjoy_CharacterSelect/Play_Killjoy_CharacterSelect_Fidget",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "772029463"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Global_Buff_Base/Buff_Nearsight_Base/Play_Buff_Nearsight_Base_End",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "325810485"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_AbilGrenade_Destroyed_3P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "868479531"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Sovereign/Play_UI_KillBanner_Sovereign_Appear",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "991898391"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Gumshoe_SFX/Abilities/P/Play_Gumshoe_AbilP_Cast_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "802170339"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Duality/BGFX/Play_BGFX_Vent_Indust_Blower",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "245194692"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Triad/OneShots/Play_Traid_Amb_C__Elevator_Stone",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "307950059"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HypeB_RE/HypeB_AK47_RE/Play_Wp_AK47_HypeBeast_Equip_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "463438104"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Store/UI_AnimatedTimerButton",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "875796345"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/TourDeForce/Play_Wp_TourDeForce_Inspect_Mvt_Scope_Down_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "928494177"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/TourDeForce/Play_Wp_TourDeForce_QuickEquip_Cloth_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "795270651"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Abilities/Grenade_Q/Play_Mage_AbilQ_Grenade_ShieldBreaking",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "577055406"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wraith_SFX/Ability_SmokeDome/Play_Wraith_Abil_SmokeDome_GlobalView",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "736859629"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Circle_RE/Play_Wp_AK47_Circle_Equip_Element_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "775477955"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/X/Play_BH_X_Nightfall_Cast",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "118788363",
+                "498719861"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_DMR_RE/T1/Play_Wp_DMR_Sovereign_Tier1_Equip_4_Gun_Down",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "640100789"
+            ]
+        }
+    }
+]

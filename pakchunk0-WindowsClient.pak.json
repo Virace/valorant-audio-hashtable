@@ -1,0 +1,270 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/MainMenu/Play_UI_MainLobby_CreateLobbyClick",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "418183579"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/MainMenu/Play_UI_MainLobby_StartGameHover",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "483611479"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/MainMenu/Play_UI_MainLobby_StartGameClick",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "16675140"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Premier/UI_Tournament_Map_Intro_Out",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1057693892"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Grenadier_SFX/Abilities/E/Play_Grenadier_AbilE_Cast",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "157264871",
+                "166158219",
+                "832244243",
+                "8819917",
+                "963733613",
+                "985210511"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/NoShip/Characters/Events_Char_Killjoy_OLD_SFX/OLD/Play_Abil_Killjoy_Turret_Scan_Beep",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "236911953"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Killjoy_SFX/Abilities/Alarmbot/Play_Killjoy_Abil_Alarmbot_RangeActivated",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "64618124"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SawedOff_RE/Play_Wp_Sawed_Off_Reload_01_Open",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "607287068"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_AbilE_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "634236240"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sarge_SFX/X/Play_Sarge_OrbitalStrike_Equip_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "360426448",
+                "79322425"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HMG_RE/Play_Wp_HMG_Inspect_Grab_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "21494527"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/BurstRifile_RE/Play_Wp_BurstRifle_Reload_MagIn_TP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "351638879",
+                "645698119",
+                "879421204",
+                "904086847"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SMG_RE/Play_Wp_SMG_Tier3_Reload_Grab_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "795124092"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/BombMode/Events_Spike/Radianite/Play_Rad_Bomb_Ring",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "846346525"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/BombMode/Events_Spike/1P/Play_Bomb_Open_Mechanical_Part",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "199054218"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Guide_VO/OutOfRound/Play_VO_Guide_ClutchPlay",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "452994775",
+                "646777046"
+            ],
+            "de-DE": [
+                "86360608",
+                "980163990"
+            ],
+            "en-US": [
+                "1007066325",
+                "281017508"
+            ],
+            "es-ES": [
+                "143794725",
+                "722535913"
+            ],
+            "es-MX": [
+                "577572360",
+                "916506356"
+            ],
+            "fr-FR": [
+                "1892786117",
+                "634402331"
+            ],
+            "it-IT": [
+                "2032955074",
+                "371186444"
+            ],
+            "ja-JP": [
+                "1717984024",
+                "1999552892"
+            ],
+            "ko-KR": [
+                "1981443971",
+                "690537262"
+            ],
+            "pl-PL": [
+                "2118665977",
+                "685293838"
+            ],
+            "pt-BR": [
+                "1495844004",
+                "360266540"
+            ],
+            "ru-RU": [
+                "2065536836",
+                "771045895"
+            ],
+            "tr-TR": [
+                "1535589694",
+                "354582969"
+            ],
+            "Zh-CN": [
+                "1314789769",
+                "340807753"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sarge_VO/Play_VO_Sarge_AbilityXCast",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1552241506",
+                "1575760459"
+            ],
+            "de-DE": [
+                "1726413153",
+                "44085058"
+            ],
+            "en-US": [
+                "1068387663",
+                "416385491"
+            ],
+            "es-ES": [
+                "52150726",
+                "583556451"
+            ],
+            "es-MX": [
+                "148853952",
+                "1615566305"
+            ],
+            "fr-FR": [
+                "1296984037",
+                "765004597"
+            ],
+            "it-IT": [
+                "1301526553",
+                "511682735"
+            ],
+            "ja-JP": [
+                "103265200",
+                "2032721895"
+            ],
+            "ko-KR": [
+                "136406330",
+                "218176739"
+            ],
+            "pl-PL": [
+                "1034140074",
+                "1522565663"
+            ],
+            "pt-BR": [
+                "1401038680",
+                "651436958"
+            ],
+            "ru-RU": [
+                "1377823491",
+                "1453351282"
+            ],
+            "tr-TR": [
+                "1417452264",
+                "1584034522"
+            ],
+            "Zh-CN": [
+                "1424134065",
+                "1506843166"
+            ]
+        }
+    }
+]

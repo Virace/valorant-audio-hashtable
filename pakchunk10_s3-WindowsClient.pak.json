@@ -1,0 +1,263 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BurstRifle_RE/Play_Wp_BurstRifle_Permafrost_Inspect_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "460538134"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_Permafrost_HolsterDraw_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "283615737"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_Permafrost_Reload_Element_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "314622416"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_Permafrost_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "852849688"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Sawed_Off_RE/Play_Wp_Sawed_Off_SOL_Mvt_Raise_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "329950085"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Sawed_Off_RE/Play_Wp_Sawed_Off_SOL_Reload_Open_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "741059217"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Sawed_Off_RE/Play_Wp_Slim_SOL_Equip_Close_Elem",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "713018897"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Carbine_RE/Play_Wp_Carbine_Ashen_Inspect_Mvt_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "837710307"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/XP1_RE/XP1_Revolver_RE/Play_Wp_Revolver_XP1_Equip_Draw_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "797224977"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen/Play_Wp_Melee_Ashen_Inspect_Ele_B_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "523510495"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen2/Play_Wp_Melee_Ashen2_Inspect_Mvt_D_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "172103266"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Lunar/Play_Wp_Melee_Lunar_Lv2_Inspect_End",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "617482312"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Lunar/Play_Wp_Melee_Lunar_Lv2_Inspect_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1022245267"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Orient/Play_Wp_Melee_Orient_Lv1_Attack_Return",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "289927323"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Orient/Play_Wp_Melee_Orient_lv2_Inspect_Ele",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1032694411"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Orient/Play_Wp_Melee_Orient_Lv2_Inspect_Ele_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "263588132"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Orient/Play_Wp_Melee_Orient_Lv2_Inspect_End",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "414674596"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Orient/Play_Wp_Melee_Orient_Lv1_Inspect_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "557706730"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Grab_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "39437754"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Grab_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "418009336"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Mvt_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "47812915"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Mvt_F",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "780428389"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Mvt_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "694750879"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/Emitters/Play_BG_Hurm4_Pipes",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "70549813"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_SOL2/Play_Wp_Melee_SOL2_Inspect_Lv1_Mvt_B_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "695443342"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_SpecOps/Play_Wp_Melee_SpecOps_Inspect_Return",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "275782642"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Aquarium/Play_UI_KillBanner_Aquarium",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "588296214"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_AtkSpawn_Main",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "977049650"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_SawedOff_RE/Play_Wp_SawedOff_Ashen_Equip_Close_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1002708949"
+            ]
+        }
+    }
+]

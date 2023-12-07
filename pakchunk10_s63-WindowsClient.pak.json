@@ -1,0 +1,53 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Carbine_RE/Play_Wp_Carbine_Ashen_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "261093163"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Loops/Play_BG_Yard_Floating_Island",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "630358417"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_DMR_RE/Play_Wp_DMR_Ashen_MagOut_End_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "508974058",
+                "61848397",
+                "811831182"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_AK_RE/Play_Wp_AK47_PermaFrost_Inspect_Ele_Ice_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "435157241",
+                "615243087",
+                "846562534"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Carbine_RE/Play_Wp_Carbine_SOL_Equip_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "212847377",
+                "710512233",
+                "927875385"
+            ]
+        }
+    }
+]

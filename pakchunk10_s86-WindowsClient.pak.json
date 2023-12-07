@@ -1,0 +1,90 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Carbine_RE/Play_Wp_Carbine_SOL_Reload_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "203522324",
+                "511231281",
+                "77102431"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BoltSniper_RE/Play_Wp_BoltSniper_PermaFrost_Equip_Ele_Ice_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "176731142",
+                "371294334",
+                "86969605"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BoltSniper_RE/Play_Wp_BoltSniper_PermaFrost_Equip_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "305391382",
+                "664714307",
+                "701913088"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_BoltSniper_RE/Play_Wp_BoltSniper_Dynasty_Reload_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1059000972",
+                "252437913",
+                "417247074"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_BoltSniper_RE/Play_Wp_BoltSniper_Dynasty_Mvt_EnergyRelease",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "126423729",
+                "470724458",
+                "801061428"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AutoShotgun_RE/Play_Wp_AutoShotgun_Dynasty_Reload_Mvt_EnergyStream",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "934791178",
+                "948854740",
+                "963038251"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_LMG_RE/Play_Wp_LMG_MonkeyKing_Inspect_Belt_in_Mag_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1027736886",
+                "232572105",
+                "739208664"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_AK_RE/Play_Wp_AK_Motor_Equip_Ele_Gear",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1034070275",
+                "209617305",
+                "217711942"
+            ]
+        }
+    }
+]

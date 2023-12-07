@@ -1,0 +1,73 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/Q/Play_Cable_AbilQ_SS_RevealFeedback",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "72779889"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_Emote_PlayForPicks",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "138012475",
+                "379214783"
+            ],
+            "de-DE": [
+                "1018747564",
+                "314754659"
+            ],
+            "en-US": [
+                "448312077",
+                "700112720"
+            ],
+            "es-ES": [
+                "1056947382",
+                "140921120"
+            ],
+            "es-MX": [
+                "378864340",
+                "589416600"
+            ],
+            "fr-FR": [
+                "476111187",
+                "791127562"
+            ],
+            "it-IT": [
+                "1039005303",
+                "251846847"
+            ],
+            "ja-JP": [
+                "120330096",
+                "339169741"
+            ],
+            "ko-KR": [
+                "871390806",
+                "883288388"
+            ],
+            "pl-PL": [
+                "35003444",
+                "859458584"
+            ],
+            "pt-BR": [
+                "504544578",
+                "671315524"
+            ],
+            "ru-RU": [
+                "32110427",
+                "659586061"
+            ],
+            "tr-TR": [
+                "26282956",
+                "415206991"
+            ],
+            "Zh-CN": [
+                "242685296",
+                "401868780"
+            ]
+        }
+    }
+]

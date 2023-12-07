@@ -1,0 +1,34 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Abilities/E/Play_Mage_AbilE_WaterWall_Release_Speedup_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "265931581",
+                "284819592",
+                "376054201"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Vampire_SFX/Mvt/Play_Mvt_Vampire_S0_ArmR_Charge_Rifle_Up_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "292736539",
+                "675905828",
+                "72653719"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/E_Haunt/Play_BH_E_Haunt_Projectile",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "5252056",
+                "723302244"
+            ]
+        }
+    }
+]

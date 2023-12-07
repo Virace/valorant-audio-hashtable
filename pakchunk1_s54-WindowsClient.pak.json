@@ -1,0 +1,53 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/King_RE/King_DMR_RE/Play_Wp_DMR_King_Reload_MagOutEnd",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "150745392",
+                "786876561",
+                "851401549"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wraith_SFX/Movement/Play_Mvt_Wraith_ArmR_Short_Fast_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "573083678",
+                "870565221",
+                "966756679"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Movement/ArmR/Play_Mvt_Deadeye_S0_ArmR_Short_Fast2_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1035021379",
+                "126642991",
+                "128455264"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Sovereign/Play_UI_KillBanner_Sovereign",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "315838728"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/URF_RE/URF_HMG_RE/Play_Wp_HMG_URF_Inspect_Shell_Mvt_J_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "223587060"
+            ]
+        }
+    }
+]

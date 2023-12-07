@@ -1,0 +1,38 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Sawed_Off_RE/Play_Wp_Sawed_Off_Antares_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "335034078"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Sawed_Off_RE/Play_Wp_Sawed_Off_SOL_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "472489783"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_DMR_RE/Play_Wp_DMR_Aquarium_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "475137079"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_DMR_RE/Play_Wp_DMR_Ashen_Inspect_Elem_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "850560213"
+            ]
+        }
+    }
+]

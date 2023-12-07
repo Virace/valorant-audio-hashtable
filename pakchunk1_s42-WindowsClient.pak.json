@@ -1,0 +1,59 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Triad/Interiors/Play_Amb_Triad_ATower",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1062725193"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_AbilGrenade_Missile",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "105843964",
+                "151446488",
+                "501685803"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_CharacterSelect/CharacterSelect/Play_UI_AgentCycling",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "130599685",
+                "270845464"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Wushu_CharacterSelect/Play_Wushu_CharacterSelect_Arrive",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "216172758"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_Vector_RE/Play_Wp_Vector_Sovereign_Inspect_Mvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "936436775"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Clay_SFX/Boomba/Play_Abil_Boomba_TinTank_Die_Time_Out",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "843672614"
+            ]
+        }
+    }
+]

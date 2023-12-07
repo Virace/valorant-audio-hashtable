@@ -1,0 +1,55 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_DMR_RE/Play_Wp_DMR_Aquarium_Reload_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "21542929",
+                "313743781",
+                "425854218"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_LMG_RE/Play_Wp_LMG_MonkeyKing_Reload_Mag_In_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1064848827",
+                "652997268",
+                "734363043"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoSG_RE/Play_Wp_ShotgunAuto_CP_Equip_Mvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1010685047",
+                "29372832",
+                "988125286"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_Permafrost_Reload_Element_Ice_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "26951043"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_Luger_RE/Play_Wp_Luger_MonkeyKing_Reload_Slide_Back_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "182364370",
+                "843276352",
+                "860726174"
+            ]
+        }
+    }
+]

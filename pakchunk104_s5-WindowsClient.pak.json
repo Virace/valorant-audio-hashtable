@@ -1,0 +1,42 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Karambit/Play_Wp_Melee_Karambit_Attack_1_Return",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "291554555",
+                "342734378",
+                "778188440"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Karambit/Play_Wp_Melee_Karambit_Heavy_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "220444574",
+                "347634037",
+                "358977396",
+                "46245546",
+                "672386963",
+                "784945659",
+                "793950633",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Core/Items/Play_SprayCan_Spray_DuckyHorn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "196471193",
+                "422985057",
+                "689225806",
+                "940764223"
+            ]
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Brakes_Traffic_Train_Motorcyles",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "108546913",
+                "194901759",
+                "197407786",
+                "74950927"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Exterior_Birds",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "164226447",
+                "676111186",
+                "69667285",
+                "862010517"
+            ]
+        }
+    }
+]

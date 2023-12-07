@@ -1,0 +1,57 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Revolver_RE/Play_Wp_Revolver_Motor_Reload_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "208683709"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Sawed_Off_RE/Play_Wp_Sawed_Off_SOL_Raise_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "982448516"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/SAV/Play_BG_Hurm4_Exterior",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "862010517"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BurstRifle_RE/Play_Wp_BurstRifle_Permafrost_Inspect_Ele_Ice_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "6354846"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Finisher/Events_Guns_Motorbike_Finisher/Play_Wp_Motorbike_Finisher",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "431368880",
+                "984894378"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Ashen_Inspect_Elem_B_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "86851348"
+            ]
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Phoenix_SFX/4/Play_Phoenix_Abil4_Projectile",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "183101642",
+                "413066981",
+                "467040647",
+                "469410450"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Rift_SFX/Movement/ArmL/Play_Mvt_Rift_S0_ArmL_Inspect_Med_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1054090066",
+                "188830177",
+                "762524814"
+            ]
+        }
+    }
+]

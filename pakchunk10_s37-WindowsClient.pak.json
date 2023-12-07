@@ -1,0 +1,65 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_PermaFrost_Inspect_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "137799152"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/Emitters/Play_BG_Hurm4_Traffic_Close",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "512968143"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Sawed_Off_RE/Play_Wp_Sawed_Off_SOL_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "185739395"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Ashen_Equip_Mvt_A_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "636629893"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LMG_RE/Play_Wp_LMG_Ashen_Inspect_Belt_in_Mag_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "384236487"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Revolver_RE/Play_Wp_Revolver_Motor_Inspect_Ele_Gear_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "131654726"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Dynasty/Play_UI_KillBanner_Dynasty",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "897607305"
+            ]
+        }
+    }
+]

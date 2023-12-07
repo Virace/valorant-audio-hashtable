@@ -1,0 +1,99 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Guide_CharacterSelect/Play_Guide_CS_Idle_V2",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "210630006"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Guide_CharacterSelect/Play_Guide_Cs_Intro_V2",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "888142519"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_BTower_Main",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "702160120",
+                "906963264",
+                "977294233"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Radianite_Gen_Fan",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1054937811",
+                "782644418"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Exterior",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "69667285",
+                "862010517"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Exterior",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "500369388",
+                "69667285"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Neon_Sign",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "487328086"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_TrafficMed_Construction",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "173669860",
+                "983162618"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Birds_Medium",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "164226447"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_MachineRoom",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "753722931",
+                "977294233"
+            ]
+        }
+    }
+]

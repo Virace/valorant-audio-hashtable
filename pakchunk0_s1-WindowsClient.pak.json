@@ -1,0 +1,290 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HMG_RE/Play_Wp_HMG_Reload_Grab_Box_Mag_TP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "806663371"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HMG_RE/Play_Wp_HMG_Reload_Chg_Hndl_Back_TP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "275638273"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Aggrobot_SFX/Aggrobot_C/C/Play_Aggrobot_AbilC_BubbleGrenade_Explosion",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "251663014",
+                "908823015"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Thorne_VO/Play_VO_Thorne_OurCarrierKilled",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "612765240",
+                "721677145"
+            ],
+            "de-DE": [
+                "1287664079",
+                "131004286"
+            ],
+            "en-US": [
+                "115127357",
+                "416510419"
+            ],
+            "es-ES": [
+                "1769744651",
+                "414577557"
+            ],
+            "es-MX": [
+                "1979685726",
+                "458478502"
+            ],
+            "fr-FR": [
+                "1056277275",
+                "1657453491"
+            ],
+            "it-IT": [
+                "106285124",
+                "1815622539"
+            ],
+            "ja-JP": [
+                "1960800201",
+                "657739922"
+            ],
+            "ko-KR": [
+                "313781108",
+                "876798194"
+            ],
+            "pl-PL": [
+                "2059298129",
+                "470593333"
+            ],
+            "pt-BR": [
+                "2120581365",
+                "857731041"
+            ],
+            "ru-RU": [
+                "1330294256",
+                "1586259526"
+            ],
+            "tr-TR": [
+                "2052784573",
+                "461928"
+            ],
+            "Zh-CN": [
+                "1286770198",
+                "319170247"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Base/Play_UI_KillBanner_Base",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "274787234"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Aggrobot_SFX/Aggrobot_Movement/Movement/Play_Mvt_Aggrobot_S0_Arm_Inspect_Rifle_Swing_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "280652035",
+                "285451102",
+                "651654938"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/LMG_RE/Play_Wp_LMG_Inspect_Belt_in_Mag_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "989021035"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/LMG_RE/Play_Wp_LMG_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "672526463"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Killjoy_VO/E02/Play_VO_Killjoy_E02_EnemyUtilitySpotted",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "66568708",
+                "848200936"
+            ],
+            "de-DE": [
+                "3125825",
+                "519441393"
+            ],
+            "en-US": [
+                "399958290",
+                "832390912"
+            ],
+            "es-ES": [
+                "203563772",
+                "408792712"
+            ],
+            "es-MX": [
+                "1038661609",
+                "331178220"
+            ],
+            "fr-FR": [
+                "393348833",
+                "798918329"
+            ],
+            "it-IT": [
+                "425023612",
+                "819738202"
+            ],
+            "ja-JP": [
+                "49049907",
+                "998915330"
+            ],
+            "ko-KR": [
+                "169781837",
+                "8158956"
+            ],
+            "pl-PL": [
+                "336487553",
+                "981659468"
+            ],
+            "pt-BR": [
+                "183986206",
+                "535156694"
+            ],
+            "ru-RU": [
+                "543684137",
+                "548696420"
+            ],
+            "tr-TR": [
+                "174781379",
+                "809307225"
+            ],
+            "Zh-CN": [
+                "1056942980",
+                "60654000"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/BombMode/Events_Spike/Play_Spawn_Barrier_3D_BombMode",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "904809858"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_CharacterSelect/CharacterSelect/Play_UI_CharacterSelect_ChooseHover",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "440333529"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_CharacterSelect/CharacterSelect/Play_UI_CharacterSelect_LockInHover",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "77486987"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Breach_SFX/Play_Breach_Common_Concuss_Sweep",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "673248071"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Grenadier_VO/Play_VO_Grenadier_E02_Emote_EnemySpotted_DefSpn",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "919910132",
+                "92690979"
+            ],
+            "de-DE": [
+                "592900571",
+                "87434918"
+            ],
+            "en-US": [
+                "817344116",
+                "887708501"
+            ],
+            "es-ES": [
+                "122829347",
+                "18241479"
+            ],
+            "es-MX": [
+                "137951143",
+                "689445071"
+            ],
+            "fr-FR": [
+                "168323019",
+                "362754374"
+            ],
+            "it-IT": [
+                "359002174",
+                "536913344"
+            ],
+            "ja-JP": [
+                "470617635",
+                "652928433"
+            ],
+            "ko-KR": [
+                "1070305430",
+                "978914868"
+            ],
+            "pl-PL": [
+                "664502904",
+                "886526920"
+            ],
+            "pt-BR": [
+                "672192474",
+                "836539624"
+            ],
+            "ru-RU": [
+                "1044531873",
+                "195386790"
+            ],
+            "tr-TR": [
+                "389437526",
+                "949998668"
+            ],
+            "Zh-CN": [
+                "343357964",
+                "730291634"
+            ]
+        }
+    }
+]

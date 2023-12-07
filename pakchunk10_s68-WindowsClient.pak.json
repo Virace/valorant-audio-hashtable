@@ -1,0 +1,80 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BoltSniper_RE/Play_Wp_BoltSniper_PermaFrost_Inspect_Ele_Ice_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1054027280",
+                "336523840",
+                "966144503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_AK_RE/T3/Play_Wp_AK47_Antares_Lv3_Equip_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "246323148",
+                "292965933",
+                "801875619"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_DMR_RE/Play_Wp_DMR_Aquarium_Equip_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1020944649",
+                "161890489",
+                "956835956"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Revolver_RE/Play_Wp_Revolver_Motor_Reload_Ele_Gear_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "147617105"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Reload_Chg_Handle_Release_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "920830780"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/Emitters/Play_BG_Hurm4_Water_OctopusFountain",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "361336403"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BurstRifle_RE/Play_Wp_BurstRifle_Permafrost_Inspect_Ele_Ice_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "198468192"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LMG_RE/Play_Wp_LMG_Ashen_Inspect_Belt_in_Mag_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "365064557"
+            ]
+        }
+    }
+]

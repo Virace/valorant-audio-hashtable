@@ -1,0 +1,37 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/C/Play_BountyHunter_C_DetectEnemy",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "197364779"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Stealth_SFX/4/Play_Stealth_Abil4_Decoy_Explo",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "168941160",
+                "169367083",
+                "343793353",
+                "877088294"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Pandemic_SFX/Q/Play_Pandemic_Abil_PoisonLauncher_Explode",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "153787662",
+                "15450628",
+                "362055129",
+                "451583769",
+                "598224495",
+                "74173751"
+            ]
+        }
+    }
+]

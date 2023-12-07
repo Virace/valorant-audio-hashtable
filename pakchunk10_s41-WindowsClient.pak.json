@@ -1,0 +1,60 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/SAV/Play_BG_Hurm4_BTower_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "702160120"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Helix/SAV/Play_BG_Hurm_Helix_Yard",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "286572568"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Orient/Play_Wp_Melee_Orient_Lv1_Inspect_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "936724813"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_MotorBike/Play_Wp_Melee_MotorBike_HeavySlash_Return_Lv1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "355452805",
+                "420131473",
+                "922338456"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Mage_CharacterSelect/Play_Mage_CharacterSelect_Fidget",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "754060415"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Haunted_RE/Haunted_Luger_RE/Play_Wp_Luger_Haunted_KillEffect",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "738428741",
+                "855578603",
+                "861355174"
+            ]
+        }
+    }
+]

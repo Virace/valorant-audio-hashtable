@@ -1,0 +1,20 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/AbilX/X/Play_Cable_AbilX_FlyingAudio",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "978374090"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/URF_RE/URF_HMG_RE/Play_Wp_HMG_URF_Inspect_Shell_Mvt_H_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "101341049"
+            ]
+        }
+    }
+]

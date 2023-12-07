@@ -1,0 +1,107 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Wushu_VO/Play_VO_Wushu_Relief",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1341632045",
+                "1666220373",
+                "1968252806"
+            ],
+            "de-DE": [
+                "1072608582",
+                "1689768200",
+                "94062974"
+            ],
+            "en-US": [
+                "146577806",
+                "147013726",
+                "366394456"
+            ],
+            "es-ES": [
+                "1422962424",
+                "1685619078",
+                "873602158"
+            ],
+            "es-MX": [
+                "1164718730",
+                "1602368404",
+                "389170324"
+            ],
+            "fr-FR": [
+                "1507586342",
+                "1880487413",
+                "429285178"
+            ],
+            "it-IT": [
+                "1004565999",
+                "1345759867",
+                "590645818"
+            ],
+            "ja-JP": [
+                "111884323",
+                "112783790",
+                "602372355"
+            ],
+            "ko-KR": [
+                "563535086",
+                "586538321",
+                "608966264"
+            ],
+            "pl-PL": [
+                "1249151529",
+                "1475370217",
+                "1842698627"
+            ],
+            "pt-BR": [
+                "1912430690",
+                "679657973",
+                "92913289"
+            ],
+            "ru-RU": [
+                "1258117686",
+                "1875879527",
+                "94404503"
+            ],
+            "tr-TR": [
+                "1334596079",
+                "541537485",
+                "550325488"
+            ],
+            "Zh-CN": [
+                "1140506659",
+                "1555964721",
+                "2074637994"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/OneShots/Play_Breeze_Amb_DefSpawn_FishHook",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "132972059",
+                "516662275",
+                "557598271"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/UI_XP_Bars_Tick",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "760433399"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Ascent/Volumes/Play_BG_Ascent_Exterior_Birds",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "850708128"
+            ]
+        }
+    }
+]

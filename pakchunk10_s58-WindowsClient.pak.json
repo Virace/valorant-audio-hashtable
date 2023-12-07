@@ -1,0 +1,52 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Luger_RE/Play_Wp_Luger_Ashen_Inspect_Elem_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "985303012"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LMG_RE/Play_Wp_LMG_Ashen_Inspect_Elem_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "39002428"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Carbine_RE/Play_Wp_Carbine_Ashen_Inspect_Elem_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "292746210"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Antares/Play_Wp_Melee_Antares_Heavy_Slash_Lvl2",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "1035535076",
+                "347634037",
+                "358977396",
+                "407387353",
+                "437639168",
+                "45882838",
+                "46245546",
+                "586526025",
+                "627399930",
+                "672386963",
+                "741309693",
+                "844391953",
+                "866915226",
+                "913050503"
+            ]
+        }
+    }
+]

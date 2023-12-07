@@ -1,0 +1,40 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Deadeye_CharacterSelect/Play_Deadeye_CharacterSelect_Fidget_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "184932327"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_DefSpwn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "214535688"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Volumes/Def_Side/Play_BG_Yard_DefCourtyard",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "650278980"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_AK_RE/Play_Wp_AK47_MonkeyKing_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "354755105",
+                "530640821",
+                "731025294"
+            ]
+        }
+    }
+]

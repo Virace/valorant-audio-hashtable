@@ -1,0 +1,66 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Carbine_RE/Play_Wp_Carbine_Ashen_Inspect_Elem_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "198075390"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_BoltSniper_RE/Play_Wp_BoltSniper_Antares_Reload_Element_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "234500727",
+                "606653161",
+                "687848681"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BurstRifle_RE/Play_Wp_BurstRifle_Permafrost_Equip_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1003832410",
+                "158712207",
+                "796587545"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Inspect_Shell_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "29755847",
+                "825234603",
+                "967105678"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BoltSniper_RE/Play_Wp_BoltSniper_PermaFrost_Inspect_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "210554067",
+                "210808539",
+                "39908936"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_DMR_RE/Play_Wp_DMR_Aquarium_Chg_Handle_Fwd_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1043408435",
+                "44177039",
+                "935473962"
+            ]
+        }
+    }
+]

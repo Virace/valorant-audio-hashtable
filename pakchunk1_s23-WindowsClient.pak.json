@@ -1,0 +1,365 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Jam/Volumes/Play_BG_Jam_ASite_Exterior_3_Pit",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "460648371",
+                "931449618"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Jam/Volumes/Play_BG_Jam_DefSpwn_Exterior_Side",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "161474356"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_HypeBeast/Play_Wp_Melee_HypeBeast_Lv1_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "1051177872",
+                "347634037",
+                "358977396",
+                "46245546",
+                "605431562",
+                "672386963",
+                "770951449",
+                "822191762",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Vampire_CharacterSelect/Play_Vampire_CharacterSelect_Arrive_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "124189940"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Store/UI_StoreAnimateIn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "472249181"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Phoenix_SFX/Q/Play_Phoenix_AbilQ_Projectile",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "652091217"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Canyon/Emitters/Play_BG_Canyon_RAD_Rift_Crack_Emit",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "189731436"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/WinterMode/WinterMode/Play_WinterMode_IceSkate_Land",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "924499731",
+                "952641087",
+                "965564398"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Rift_SFX/Abilities/Play_Rift_AbilC_RampUp",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "688768493"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/X/Play_BH_X_Nightfall_HitConfirm_Caster_Seq",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "584261115"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Jam/Loops/Play_Emitter_Jam_SmallExt_Fountain",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "483539376"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Gumshoe_SFX/Abilities/4/Play_gumshoe_abil4_trap_insidetrap_loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "810148131"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/UI_Premier_Crest_RunnerUp",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "86969419"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/UI_Premier_Faceoff_Results_Right_Wins",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "487700287"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/SpikeRush/Events_SpikeRush_SpGhost/Play_SpGhost_Idle",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "638451597"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/TourDeForce/Play_Wp_TourDeForce_Load_Tube_Spin_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "13288043"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/TourDeForce/Play_Wp_TourDeForce_Load_Tube_Spin_TP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "13288043"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Duality/BGFX/Play_BGFX_AC_Vent_Rattle_Small",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "679597793"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/PlayScreen/Play_UI_MatchFound_Sweetener",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "584212156"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops/Play_BG_Port_LabHallway_Lab",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "774532054"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_DMR_RE/T1/Play_Wp_DMR_Sovereign_Tier1_Reload_5_MagInEnd",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "450183204"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_Luger_RE/Play_Wp_Luger_Sovereign_Inspect_Mvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "75518163"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_Luger_RE/Play_Wp_Luger_Sovereign_Inspect_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "668589307"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/SpikeRush/Events_SpikeRush_Buff_Paranoia/Play_SpikeRush_Buff_Paranoia_Granted_Victim",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "822733632"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Juliett_MUS_Diegetic/Play_Juliett_MUS_Cars1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1060040335",
+                "130050641",
+                "153599627",
+                "16557625",
+                "204516922",
+                "223636117",
+                "234370842",
+                "29266385",
+                "342563502",
+                "491010743",
+                "502743713",
+                "522473005",
+                "580506636",
+                "604070658",
+                "723479388",
+                "78366910",
+                "804467868",
+                "915302582",
+                "982562288"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Gumshoe_CharacterSelect/Play_Gumshoe_CharacterSelect_Fidget",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "322197515"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Clay_VO/E02/Play_VO_Clay_E02_WonGeneric",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1912950901",
+                "909687721",
+                "963126831",
+                "986496099"
+            ],
+            "de-DE": [
+                "1906550066",
+                "50391914",
+                "634000151",
+                "790932481"
+            ],
+            "en-US": [
+                "388687042",
+                "522350977",
+                "540440855",
+                "75741293"
+            ],
+            "es-ES": [
+                "110076013",
+                "550700814",
+                "575613962",
+                "601762767"
+            ],
+            "es-MX": [
+                "31752350",
+                "628833250",
+                "691672013",
+                "958039953"
+            ],
+            "fr-FR": [
+                "1384513793",
+                "1549074409",
+                "514720252",
+                "603259031"
+            ],
+            "it-IT": [
+                "1510453308",
+                "1909435057",
+                "52943535",
+                "974077392"
+            ],
+            "ja-JP": [
+                "1603586992",
+                "1918084014",
+                "296716896",
+                "901230309"
+            ],
+            "ko-KR": [
+                "1446084977",
+                "35928337",
+                "654380496",
+                "706725140"
+            ],
+            "pl-PL": [
+                "1630589704",
+                "21256966",
+                "322608969",
+                "870301560"
+            ],
+            "pt-BR": [
+                "1418417395",
+                "532670119",
+                "630964859",
+                "976915479"
+            ],
+            "ru-RU": [
+                "1037694372",
+                "161385249",
+                "240838255",
+                "412627291"
+            ],
+            "tr-TR": [
+                "1484732103",
+                "294896068",
+                "480447022",
+                "533123270"
+            ],
+            "Zh-CN": [
+                "1601755732",
+                "1663396081",
+                "1817802435",
+                "305507357"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Vampire_SFX/AbilQ/Play_Vampire_AbilQ_ArmourDecay",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "871439535"
+            ]
+        }
+    }
+]

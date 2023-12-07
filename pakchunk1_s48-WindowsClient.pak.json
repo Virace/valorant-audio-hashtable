@@ -1,0 +1,48 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/Hurm/Events_Hrum_Orbs/Hurm_Orb_Ult/Play_Hurm_Orb_Ult_Capture",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "540393569"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops/Play_BG_Port_ASite_Radianite_Combo",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1065648740",
+                "114635364"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/TourDeForce/Play_Wp_TourDeForce_Equip_Form_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1061246225"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Triad/Interiors/Play_triad_ambiance_midwindow_loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "102093320"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/UI_Premier_Faceoff_Results_Left_Wins",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "781263991"
+            ]
+        }
+    }
+]

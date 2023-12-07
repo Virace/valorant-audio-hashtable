@@ -1,0 +1,328 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Ascent/Emitters/Play_BG_Ascent_Vents_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "746757303"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Circle_RE/Play_Wp_AK47_Circle_Reload_Element_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1039500061"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Shared_Elements/UI_CheckBox_Check",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1067492512",
+                "281343769"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Shared_Elements/UI_Carousel_Scroll",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "202346916"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/TourDeForce/Play_Wp_TourDeForce_Load_Tube_Ammo_Hit_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "47375539"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Triad/Persistant_Objects/Play_Triad_BG_Fire_Large_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "381902531"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/Trap/Play_Deadeye_Trap_Formation",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "477845680"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Hunter_SFX/Abilities/Play_Hunter_S0_AB_X_SuperBolt_Cancel_Bow_Mvt_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "204699503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Triad/Exteriors/Play_triad_ambiance_defenderssite_nook_tone",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "755833904"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops/Play_BG_Port_Wind_Gusts_Exposed",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "697587822"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops/Play_BG_Port_Big_Panel_Energy",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "234724842",
+                "705732385"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/King_RE/King_MP5_RE/Play_Wp_King_MP5_Inspect_Element_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "557919500"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/GunGame/Play_GunGame_UI_FinalRound_Enemy",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1019458859"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_King/Play_UI_KillBanner_King",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "868575964"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Volumes/Volume_Aggregates/Play_AmbVol_Foxtrot_BeachWater",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "419134163",
+                "709947371"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Vampire_CharacterSelect/Play_Vampire_CharacterSelect_Idle_Abilities",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "491211431"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Abilities/X_Duel/Play_Sequoia_AbilX_Arena_Ally_Loser",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "938526276"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Phoenix_SFX/Q/Play_Phoenix_AbilQ_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1015282554",
+                "1072323448"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HypeB_RE/HypeB_BaseP_RE/T3/Play_Wp_BasePistol_HypeBeast_Reload_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "928464648"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_Emote_GoingB",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "39412831",
+                "411075570"
+            ],
+            "de-DE": [
+                "448767565",
+                "876834190"
+            ],
+            "en-US": [
+                "238130668",
+                "440916863"
+            ],
+            "es-ES": [
+                "420507631",
+                "475637190"
+            ],
+            "es-MX": [
+                "819238984",
+                "921766942"
+            ],
+            "fr-FR": [
+                "599882701",
+                "975225569"
+            ],
+            "it-IT": [
+                "514236173",
+                "846808742"
+            ],
+            "ja-JP": [
+                "712157410",
+                "879167025"
+            ],
+            "ko-KR": [
+                "46455852",
+                "993635738"
+            ],
+            "pl-PL": [
+                "623145316",
+                "633523336"
+            ],
+            "pt-BR": [
+                "1043025842",
+                "441358830"
+            ],
+            "ru-RU": [
+                "376187448",
+                "581080679"
+            ],
+            "tr-TR": [
+                "439668299",
+                "62961533"
+            ],
+            "Zh-CN": [
+                "401807758",
+                "49048190"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_Emote_GoingC",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1031208855",
+                "502601711"
+            ],
+            "de-DE": [
+                "184205794",
+                "339103742"
+            ],
+            "en-US": [
+                "110928156",
+                "119150352"
+            ],
+            "es-ES": [
+                "724911857",
+                "769327755"
+            ],
+            "es-MX": [
+                "28293247",
+                "890824453"
+            ],
+            "fr-FR": [
+                "340334754",
+                "647640282"
+            ],
+            "it-IT": [
+                "505274511",
+                "587001908"
+            ],
+            "ja-JP": [
+                "165648805",
+                "626047029"
+            ],
+            "ko-KR": [
+                "385789447",
+                "416992581"
+            ],
+            "pl-PL": [
+                "49965491",
+                "832557934"
+            ],
+            "pt-BR": [
+                "1029400832",
+                "973640735"
+            ],
+            "ru-RU": [
+                "22318763",
+                "471616133"
+            ],
+            "tr-TR": [
+                "112856912",
+                "806480202"
+            ],
+            "Zh-CN": [
+                "248940254",
+                "507180264"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wushu_SFX/Movement/Play_Mvt_Wushu_ArmR_Short_Fast2_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "145614036"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Jam/Loops/Play_Emitter_Jam_CSite_Fountains",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "49087403"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_Lever_RE/Play_Wp_Lever_Sovereign_Inspect_Mvt_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "560666761"
+            ]
+        }
+    }
+]

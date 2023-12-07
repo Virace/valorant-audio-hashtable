@@ -1,0 +1,115 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Helix/SAV/Play_BG_Hurm_Helix_Exterior",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "75998832"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_DMR_RE/Play_Wp_DMR_Aquarium_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "55837032"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_MP5_RE/Play_Wp_MP5_Aquarium_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "72253857"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_MP5_RE/Play_Wp_MP5_Aquarium_Equip_Grab_End_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "318538100",
+                "823047569",
+                "862733677"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_MP5_RE/Play_Wp_SMG_Tier3_Aquarium_Reload_Grab_Mag_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "216570705",
+                "513154697",
+                "790161274"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Loops/Play_BG_Yard_Light",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "453756031"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Vector_RE/Play_Wp_Vector_Motor_Equip_StockHinge_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1038478430",
+                "259648957",
+                "414021589"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_BoltSniper_RE/Play_Wp_BoltSniper_MonkeyKing_Magazine_In",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "320325735",
+                "754677991",
+                "771989740"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_MotorBike/Play_Wp_Melee_MotorBike_HeavySlash_Return_Ele_Spark",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1006290283",
+                "811411290",
+                "822764567"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_AfterGlow/Play_Wp_Melee_AfterGlow_Inspect_Mvt_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1051328686",
+                "113706367",
+                "893056989"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_DMR_RE/Play_Wp_DMR_Ashen_Reload_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "381835613",
+                "521077730",
+                "975336651"
+            ]
+        }
+    }
+]

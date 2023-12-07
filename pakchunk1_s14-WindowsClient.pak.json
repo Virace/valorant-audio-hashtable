@@ -1,0 +1,436 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Abilities/E/Play_Mage_AbilE_WaterWall_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "405046992"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_DMR_RE/T1/Play_Wp_DMR_Sovereign_Tier1_Reload_3_MagOutEnd",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "872456538"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_DMR_RE/T1/Play_Wp_DMR_Sovereign_Tier1_Equip_3_Chg_Handle_Fwd",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "457926453"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Clay_SFX/Rocket/Play_Clay_Rocket_Equip_Mech_5_Strap_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "389587049"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/Q/Play_Cable_AbilQ_ConcussExplode",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "661512528"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Jam/Loops/Play_Emitter_Jam_Fountains_Sml",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "551116030"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Abilities/X_Duel/Play_Sequoia_AbilX_Enter_Arena",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "474755781"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_Vector_RE/Play_Wp_Vector_Sovereign_Reload_Mag_Out_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "396147542",
+                "885871640",
+                "966803464"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/MainMenu/UI_Home_ProgressionScreenExpander_Open",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "313492893"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/MainMenu/Play_UI_Mech_Hover_High_Beeps_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "298146513"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Wushu_VO/E02/Play_VO_Wushu_E02_LastKill",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "101716024",
+                "1405776772",
+                "1484239072",
+                "1691274016",
+                "504992255",
+                "740747697"
+            ],
+            "de-DE": [
+                "120169734",
+                "498054299",
+                "711743378",
+                "866598085",
+                "9193665",
+                "961721342"
+            ],
+            "en-US": [
+                "1061067730",
+                "3332382",
+                "352551813",
+                "717864020",
+                "759167859",
+                "977374541"
+            ],
+            "es-ES": [
+                "1049703106",
+                "1118883483",
+                "1804412812",
+                "454715973",
+                "721311177",
+                "730592612"
+            ],
+            "es-MX": [
+                "1134843676",
+                "1454495945",
+                "161355518",
+                "270348896",
+                "295992402",
+                "958935625"
+            ],
+            "fr-FR": [
+                "2008133838",
+                "209686773",
+                "541505268",
+                "555679926",
+                "577414750",
+                "728495213"
+            ],
+            "it-IT": [
+                "1072246523",
+                "1134747401",
+                "1784434068",
+                "650770017",
+                "826876836",
+                "969241196"
+            ],
+            "ja-JP": [
+                "1075028200",
+                "285422861",
+                "320502147",
+                "373974898",
+                "835260350",
+                "873452666"
+            ],
+            "ko-KR": [
+                "2133407407",
+                "240518624",
+                "298088761",
+                "489397440",
+                "657845238",
+                "913289757"
+            ],
+            "pl-PL": [
+                "2038538147",
+                "222704601",
+                "344572435",
+                "398120438",
+                "869368312",
+                "929942639"
+            ],
+            "pt-BR": [
+                "1431700666",
+                "1473649739",
+                "168929141",
+                "2080136120",
+                "456629389",
+                "847747591"
+            ],
+            "ru-RU": [
+                "1341780565",
+                "1745095163",
+                "1940474702",
+                "357671422",
+                "54864253",
+                "843538283"
+            ],
+            "tr-TR": [
+                "1456054918",
+                "1800673226",
+                "249776777",
+                "756960721",
+                "79392445",
+                "828756533"
+            ],
+            "Zh-CN": [
+                "1079791298",
+                "1441584909",
+                "284028929",
+                "31935514",
+                "447721634",
+                "767835792"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/NoShip/Characters/Events_Char_Designer_Test_Sounds/Loops/Play_TestSounds_BeepAlarm_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "123579469"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Circle/Play_UI_KillBanner_Circle",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "875619986"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Circle/Play_UI_KillBanner_Circle",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "922614438"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Triad/Exteriors/Play_triad_ambiance_genericwind",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "218457907"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops_Volumes/Volume_Aggregates/Play_AmbVol_Port_Exterior_2_Spawn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1039344884",
+                "87590247"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/X/Play_BH_X_Nightfall_HitConfirm_Caster_Seq",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "301061103"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/X/Play_BH_X_Nightfall_HitConfirm_Caster_Seq",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "688197751"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Duality/Loops_Volumes/Play_AmbVol_BG_Pulse_Oppressive",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "95484279"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Duality/Loops_Volumes/Play_AmbVol_Duality_Container",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "306475012"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Volumes/Volume_Aggregates/Play_AmbVol_Foxtrot_WoodenStorage",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "243542026",
+                "368150382"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Collection/Play_UI_Collection_Chroma_Set",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "346164533",
+                "962402710"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/TourDeForce/Play_Wp_TourDeForce_Equip_Spark_Buzz_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "604983591"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Progression/UI_Contract_Upgraded",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "629617126"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_BarelySurvived",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "595748514"
+            ],
+            "de-DE": [
+                "759887024"
+            ],
+            "en-US": [
+                "102390908"
+            ],
+            "es-ES": [
+                "49910905"
+            ],
+            "es-MX": [
+                "103142694"
+            ],
+            "fr-FR": [
+                "451734337"
+            ],
+            "it-IT": [
+                "359528441"
+            ],
+            "ja-JP": [
+                "58104186"
+            ],
+            "ko-KR": [
+                "725019544"
+            ],
+            "pl-PL": [
+                "146244199"
+            ],
+            "pt-BR": [
+                "371809019"
+            ],
+            "ru-RU": [
+                "10456606"
+            ],
+            "tr-TR": [
+                "98049917"
+            ],
+            "Zh-CN": [
+                "736896674"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/UI_Premier_WinLossCons",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "629817697"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/GunGame/Play_GunGame_UI_TeamLevelUp",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "275660900"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/King_RE/King_Carbine_RE/Play_Wp_Carbine_King_Mag_In",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "683959310",
+                "706418357",
+                "778179238"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/E_Haunt/Play_BH_E_Haunt_HitConfirm_Caster",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "412201251"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wushu_SFX/Abilities/Grenade/Play_Wushu_Grenade_PreExplode",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "770403244"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wushu_SFX/Abilities/X/Play_Wushu_AbilX_Equip_FromDash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "508460160"
+            ]
+        }
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_MotorBike/Play_Wp_Melee_MotorBike_Equip_Lvl1_Mvt_Whoosh",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "837429889"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Orient/Play_Wp_Melee_Orient_lv2_InspectChromaV2_Ele",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "610140257"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Ashen_Equip_Forestock_Fwd_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "570359801"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Mvt_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "830251023"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_SOL2/Play_Wp_Melee_SOL2_Equip_Lv1_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "292256004",
+                "507149223",
+                "576059327"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_AK_RE/T1/Play_Wp_AK47_Antares_Tier1_Equip_Mvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "496313671",
+                "661535544",
+                "97244245"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_DMR_RE/Play_Wp_DMR_Ashen_Equip_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "305314747",
+                "461303071",
+                "508746021"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_DMR_RE/Play_Wp_DMR_Aquarium_MagOut_End_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "216628368",
+                "602075671",
+                "738640443"
+            ]
+        }
+    }
+]

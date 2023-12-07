@@ -1,0 +1,50 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_LastRoundofHalfasAttackers",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "98076708"
+            ],
+            "de-DE": [
+                "877675236"
+            ],
+            "en-US": [
+                "618210178"
+            ],
+            "es-ES": [
+                "997907199"
+            ],
+            "es-MX": [
+                "427839462"
+            ],
+            "fr-FR": [
+                "209761796"
+            ],
+            "it-IT": [
+                "39548675"
+            ],
+            "ja-JP": [
+                "159161754"
+            ],
+            "ko-KR": [
+                "281998835"
+            ],
+            "pl-PL": [
+                "572755835"
+            ],
+            "pt-BR": [
+                "782226418"
+            ],
+            "ru-RU": [
+                "994709722"
+            ],
+            "tr-TR": [
+                "95884439"
+            ],
+            "Zh-CN": [
+                "374576750"
+            ]
+        }
+    }
+]

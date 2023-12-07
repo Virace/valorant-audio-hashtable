@@ -1,0 +1,156 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Movement/Play_Mvt_Guide_S0_ArmR_Short_Slow2_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "504362197",
+                "711293209",
+                "843119623"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Sequoia_Foley/Movement/Arm_L/Play_Mvt_Sequoia_ArmL_Short_Fast_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "339448470",
+                "385555160",
+                "552234954"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Sequoia_Foley/Movement/Arm_R/Play_Mvt_Sequoia_ArmR_Short_Fast_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "339448470",
+                "385555160",
+                "552234954"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Sequoia_Foley/Movement/Arm_R/Play_Mvt_Sequoia_ArmR_Inspect_Med_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "115329245",
+                "389643567",
+                "668536644"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Sequoia_Foley/Movement/Arm_R/Play_Mvt_Sequoia_ArmR_Med_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "115329245",
+                "389643567",
+                "668536644"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/King_RE/King_Carbine_RE/Play_Wp_Carbine_King_Mag_Out",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "164233120",
+                "50428891",
+                "761599004"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/King_RE/King_MP5_RE/Play_Wp_King_MP5_Equip_Mvt_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "234825264",
+                "680944307",
+                "939589510"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Movement/Play_Mvt_Mage_S0_ArmR_Inspect_Short_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "234404359",
+                "334224862",
+                "854834019"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Movement/Play_Mvt_Mage_S0_ArmR_Med_GunUp1_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1058291048",
+                "350970754",
+                "67411096"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Pandemic_SFX/Mvt/Play_Mvt_Pandemic_S0_Arm_Med_Ramp_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "56556699",
+                "58197912",
+                "946487397"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Clay_SFX/ClusterGrenade/Play_Wp_Cluster_Equip_Shake",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "212537639",
+                "343098184",
+                "393920859"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Breach_SFX/Movement/Play_Mvt_Breach_S0_Arm_Long_Ramp_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "177533091",
+                "723708332",
+                "74832429"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Vampire_SFX/Mvt/Play_Mvt_Vampire_S0_ArmR_Short_Fast_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "134155969",
+                "425601743",
+                "884346088"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Stealth_SFX/X/Play_Stealth_AbilX_TeleportEnter",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "278897064",
+                "364422325",
+                "657215881"
+            ]
+        }
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_AfterGlow/Play_Wp_Melee_AfterGlow_HeavySlash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1015818164",
+                "1016300434",
+                "1041150925",
+                "121229829",
+                "148527312",
+                "247946912",
+                "268501586",
+                "347634037",
+                "358977396",
+                "46245546",
+                "467819703",
+                "494183195",
+                "559612867",
+                "570922084",
+                "672386963",
+                "705696859",
+                "720702174",
+                "749546515",
+                "765697514",
+                "913050503",
+                "972908343",
+                "981589117"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Mythic_RE/Mythic_Revolver_RE/Play_Wp_Revolver_Mythic_Kill_Effect_Fire_Ele",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "131458999",
+                "368784720",
+                "810079974"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_AK_RE/Play_Wp_AK_Motor_MagIn_End_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "216758561",
+                "313273244",
+                "639997821"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_Sawed_Off_RE/Play_Wp_Sawed_Off_Aquarium_Reload_Close",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "122804815",
+                "333740123",
+                "796690253"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AutoShotgun_RE/Play_Wp_AutoShotgun_Dynasty_Equip_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "189434192",
+                "295043704",
+                "367297687"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Orient/Play_Wp_Melee_Orient_Slash_Lv1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "140798171",
+                "146668382",
+                "319210950",
+                "347634037",
+                "358977396",
+                "46245546",
+                "488881382",
+                "499463301",
+                "589135404",
+                "592201483",
+                "672386963",
+                "677672499",
+                "913050503"
+            ]
+        }
+    }
+]

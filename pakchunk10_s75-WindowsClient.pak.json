@@ -1,0 +1,355 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_Revolver_RE/Play_Wp_Revolver_Dynasty_Equip_Hammer_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1035326753",
+                "1054216070",
+                "231571261"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_SoL/Play_UI_KillBanner_SoL",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1046512739"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_SoL/Play_UI_KillBanner_SoL",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "576284839"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_SoL/Play_UI_KillBanner_SoL_Transition",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "435978362"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Reload_Elem_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "141331329"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "195138446"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Revolver_RE/Play_Wp_Revolver_Motor_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1059712390"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Revolver_RE/Play_Wp_Revolver_Motor_Inspect_Ele_Gear_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "176412724"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Mvt_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "265710358"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_AK_RE/T3/Play_Wp_AK47_Antares_Inspect_Lv3_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "845326104"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Sawed_Off_RE/Play_Wp_Sawed_Off_SOL_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "958393973"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Sawed_Off_RE/Play_Wp_Sawed_Off_SOL_Inspect_Elem_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "186072127"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Burst_RE/Play_Wp_BurstRifle_Antares_Inspect_Grab",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1048309965"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_MP5_RE/Play_Wp_MP5_Aquarium_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "774981211"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Deadeye_CharacterSelect/Play_Deadeye_CharacterSelect_Fidget_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1002057975"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_AK_RE/Play_Wp_AK47_Ashen_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "210651560"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_AK_RE/Play_Wp_AK47_Ashen_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "265697080"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_AK_RE/Play_Wp_AK47_Ashen_MagIn_Start_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "898373793"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Sawed_Off_RE/Play_Wp_Sawed_Off_Antares_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "278032041"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Helix/Emitters/Play_Amb_Hurm_Helix_Fan",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "134631766"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Ashen/Play_UI_KillBanner_Ashen",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "472448826"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Ashen/Play_UI_KillBanner_Ashen",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "433178543"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Ashen/Play_UI_KillBanner_Ashen",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "586937753"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Loops/Play_BG_Yard_Tree_Leaves",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "987776826"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Loops/Play_BG_Yard_Water_Babble",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "391300802"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_AK_RE/Play_Wp_AK_Motor_Inspect_Ele_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "609100321"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_AtkSpwn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "361693272"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/Emitters/Play_BG_Hurm4_Traffic_Distant",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "74950927"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_AK47_RE/Play_Wp_AK47_Aquarium_Chg_Hndl_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "382097443"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Loops/Play_Emitter_Bowl_Lab_Vent_Drone_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "469415613"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Loops/Play_Emitter_Bowl_Vent_Tubular_Squeak",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "289800577"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Loops/Play_Emitter_Bowl_AtkSpwn_Computer",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "495736968"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Loops/Play_Emitter_Bowl_Vent_Indust_Mid_Rattle",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "941020572"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LMG_RE/Play_Wp_LMG_Ashen_Reload_Elem_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "349244539"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Ashen_Inspect_Mvt_A_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "617085180"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Finisher/Events_Guns_Ashen_Finisher/Play_Wp_Finisher_Ashen",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "299920957"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Carbine_RE/Play_Wp_Carbine_Ashen_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "228063676"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Dynasty/Play_UI_KillBanner_Dynasty",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "710572815"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_SpecOps/Play_UI_KillBanner_SpecOps",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "784045340"
+            ]
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BoltSniper_RE/Play_Wp_BoltSniper_PermaFrost_Equip_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "306347675",
+                "615940897",
+                "670214676"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_AK_RE/Play_Wp_AK47_MonkeyKing_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "497006466",
+                "52487422",
+                "539534642"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_AK47_RE/Play_Wp_AK47_Aquarium_Equip_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1025265044",
+                "570852016",
+                "966225305"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_Sawed_Off_RE/Play_Wp_Sawed_Off_Aquarium_Reload_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "322342931",
+                "8427555",
+                "846813609"
+            ]
+        }
+    }
+]

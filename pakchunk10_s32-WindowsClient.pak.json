@@ -1,0 +1,69 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Pump_RE/Play_Wp_Shotgun_Pump_Motor_Reload_Mvt_A_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "534606035",
+                "777078121",
+                "993266207"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Burst_RE/Play_Wp_Burst_Antares_Reload_Chg_Hndl_Fwd",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1047887551",
+                "230511103",
+                "767359486",
+                "845388254"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AutoShotgun_RE/Play_Wp_AutoShotgun_Dynasty_Reload_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "294587746",
+                "333313591",
+                "9017331"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Reload_Lift_Mvt_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1006920463",
+                "18845609",
+                "556147335"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_Sawed_Off_RE/Play_Wp_Sawed_Off_Aquarium_Mvt_Raise_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1043830012",
+                "165918412",
+                "941656526"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Sawed_Off_RE/Play_Wp_Sawed_Off_Antares_Reload_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "512225836",
+                "745413798",
+                "772445300"
+            ]
+        }
+    }
+]

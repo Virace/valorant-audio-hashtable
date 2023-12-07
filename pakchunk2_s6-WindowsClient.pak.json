@@ -1,0 +1,31 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Monitors",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "458727669"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Energy_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "156235758"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Brakes_TrainDistant_Alarms",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1015794472",
+                "194901759",
+                "197407786"
+            ]
+        }
+    }
+]

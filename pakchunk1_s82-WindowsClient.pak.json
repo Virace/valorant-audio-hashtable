@@ -1,0 +1,140 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_Kill_Thorne",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "587764467"
+            ],
+            "de-DE": [
+                "1070490039"
+            ],
+            "en-US": [
+                "415729492"
+            ],
+            "es-ES": [
+                "268796617"
+            ],
+            "es-MX": [
+                "928312277"
+            ],
+            "fr-FR": [
+                "753757740"
+            ],
+            "it-IT": [
+                "679027248"
+            ],
+            "ja-JP": [
+                "975311859"
+            ],
+            "ko-KR": [
+                "261227894"
+            ],
+            "pl-PL": [
+                "546964393"
+            ],
+            "pt-BR": [
+                "752679080"
+            ],
+            "ru-RU": [
+                "482884186"
+            ],
+            "tr-TR": [
+                "316026714"
+            ],
+            "Zh-CN": [
+                "1014033144"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/Play_UI_Val_MVP_Sweetener",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "68973197"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wraith_SFX/Abil_Q_DarkVisage/Play_Wraith_Abil_Q_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "800844913"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Jam/Volumes/Play_BG_Jam_AtkSpwn_Exterior_Side_Covered",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "399542891",
+                "967902249"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wushu_SFX/Abilities/E/Play_Wushu_AbilE_End_Warning",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "415358152"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/HeadHunter/Play_Wp_HeadHunter_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1018211349",
+                "1047749079",
+                "1051022336",
+                "1061145019",
+                "1065921444",
+                "13756520",
+                "144274541",
+                "201478562",
+                "207715669",
+                "225204415",
+                "26343745",
+                "328180135",
+                "334439210",
+                "363465221",
+                "40491855",
+                "511508541",
+                "574161679",
+                "575432196",
+                "58682500",
+                "595712800",
+                "625214080",
+                "668722085",
+                "698180752",
+                "750484542",
+                "751531558",
+                "828857596",
+                "841046460",
+                "847580660",
+                "874540473",
+                "891073952",
+                "919953898",
+                "943305551",
+                "96797761",
+                "995384003"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Breach_SFX/Movement/Play_Mvt_Breach_S0_ArmR_Short_Slow2_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "193782884",
+                "796610748",
+                "867638637"
+            ]
+        }
+    }
+]

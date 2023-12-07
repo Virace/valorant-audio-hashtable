@@ -1,0 +1,303 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/TourDeForce/Play_Wp_TourDeForce_Scope_Holo_Pop_Up_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "318602524"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/TourDeForce/Play_Wp_TourDeForce_Equip_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "81668237"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Rift_SFX/Abilities/Play_Rift_AbilX_Tear_Idle_3P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "920499703"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Abilities/E/Play_Mage_AbilE_WaterWall_Equipped_Idle",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "442043655"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Abilities/E/Play_Mage_AbilE_WaterWall_Decay",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1011218791",
+                "626955335"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Volumes/Volume_Aggregates/Play_AmbVol_Foxtrot_Metal_Hall_1_wBirds",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "323237332",
+                "603360916"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Volumes/Volume_Aggregates/Play_AmbVol_Foxtrot_Cave",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "738083750"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Volumes/Volume_Aggregates/Play_AmbVol_Foxtrot_Metal_Hall",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "603360916"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Range/Play_BG_Range_Interior_Asylum",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "717933956"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Range/Play_BG_Range_Office_Laptop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "753667365"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_C_Heal_CastStop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "603996197",
+                "929058790"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_HawkFlash_ChargeComplete_Confirm_Enhanced",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "191050391"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/UI_Eog_Rank_Minor_Increase",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "232255510"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/AbilX/X/Play_Char_Cable_AbilX_FishHook_Break_3P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "719490563"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Gumshoe_SFX/Abilities/P/Play_Gumshoe_Abil_GadgetRecall",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "440208938"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/WinterMode/WinterMode/Play_WinterMode_GiftRift_MainSequence",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "584092890",
+                "829409835"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/GunGame/Play_GunGame_Spawn_Ally",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "705155231"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Pitt/Emitters/Play_BG_Pitt_RAD_Generator",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "600048145",
+                "621278618"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Clay_CharacterSelect/Play_Clay_CharacterSelect_Arrive_Explosion2",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "228679376"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/Q_TetherGrenade/Play_BH_Q_Seize_Reactivate",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "464431455"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_HypeBeast/Play_UI_KillBanner_HypeBeast",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "16798053"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sprinter_SFX/Abilities/X/Play_Sprinter_AbilX_ReEquip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "994041381"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops_Volumes/Individual/Play_BG_Port_Industrial_Hallway",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "873960762"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Stealth_SFX/E/Play_Stealth_AbilE_TeleportExit_Fake",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1069801928",
+                "299958719",
+                "595431107",
+                "643360272",
+                "839045485",
+                "942924553",
+                "991653477"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops_Volumes/Volume_Aggregates/Play_AmbVol_Port_Warehouse",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "168823739",
+                "86311897"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Breach_SFX/Play_Breach_Fusion_Cast",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "530078619",
+                "819699471"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/X/Play_BH_X_Nightfall_ink_Tentacles",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "460298789"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Breach_CharacterSelect/Play_Breach_character_Select_Idle_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "325029817"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HypeB_RE/HypeB_AK47_RE/T1/Play_Wp_AK47_HypeBeast_Tier1_Reload_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016382768"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Abilities/E_Flow/Play_Sequoia_AbilE_GridShot_Orb_Aura",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "144913856"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Abilities/E_Flow/Play_Sequoia_AbilE_Orb_Shot_Seq",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "722811480"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/Trap/Play_Deadeye_Trap_EnemyDetected",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "106095008"
+            ]
+        }
+    }
+]

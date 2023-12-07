@@ -1,0 +1,513 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Helix/SAV/Play_BG_Hurm_Helix_SpawnB_Interior",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "293939519"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BurstRifle_RE/Play_Wp_BurstRifle_Permafrost_Reload_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "515783856"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Finisher/Events_Guns_Antares_Finisher/Play_Wp_Finisher_Antares",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "433656353"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_AK_RE/Play_Wp_AK_Motor_Reload_Ele_Gear_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "679031599"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_AK_RE/Play_Wp_AK_Motor_Reload_Ele_Gear_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "246662064"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/Emitters/Play_BG_Hurm4_Fluorescent_Light_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1031259451"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/Emitters/Play_BG_Hurm4_Fan_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "134631766"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Dynasty/Play_UI_KillBanner_Dynasty",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "225906331"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Dynasty/Play_UI_KillBanner_Dynasty",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "297051867"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Dynasty/Play_UI_KillBanner_Dynasty",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "560871079"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Sawed_Off_RE/Play_Wp_Sawed_Off_SOL_Reload_Shells_In_Elem",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "583413927"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_Permafrost_Reload_Ele_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1059420597"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Antares/Play_UI_Antares_Killbanner",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "579962997"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Antares/Play_UI_Antares_Killbanner",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "277331018"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Ashen/Play_UI_KillBanner_Ashen",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1024229291"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_MotorBike/Play_UI_KillBanner_MotorBike",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "285607691"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Burst_RE/Play_Wp_Burst_Antares_Inspect_Mvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "391672958"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Reload_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "867696084"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_SpecOps/Play_UI_KillBanner_SpecOps",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "992276022"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_SpecOps/Play_UI_KillBanner_SpecOps",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "563285058"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_SpecOps/Play_UI_KillBanner_SpecOps",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "970331305"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_MP5_RE/Play_Wp_MP5_Aquarium_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "931919082"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_MP5_RE/Play_Wp_MP5_Aquarium_Reload_Full_Mag_In_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1005233140",
+                "334400753",
+                "377183910"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_SawedOff_RE/Play_Wp_SawedOff_Ashen_Reload_Elem_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "752525222"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_AK_RE/Play_Wp_AK47_Ashen_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "341740892"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_DMR_RE/Play_Wp_DMR_Ashen_Mag_Rls_Button_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1009224326"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_DMR_RE/Play_Wp_DMR_Ashen_Grab_Chg_Handle_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "563440346"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Luger_RE/Play_Wp_Luger_Ashen_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "570245237"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/SAV/Play_BG_Hurm4_Exterior_Urban",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "977294233"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Helix/Emitters/Play_Amb_Hurm_Helix_Lantern_Bulb",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "139510367"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Helix/Emitters/Play_Amb_Hurm_Helix_TicketMachine",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "812212433"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_AtkSpwn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1072130285"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_AtkSpwn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "234078858"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_DMR_RE/Play_Wp_DMR_Aquarium_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "444141275"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Loops/Play_BG_Yard_Water_Babble",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1070430685"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_AK47_RE/Play_Wp_AK47_Aquarium_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1010435072"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_AK47_RE/Play_Wp_AK47_Aquarium_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "218717173"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_AK_RE/Play_Wp_AK47_PermaFrost_Chg_Hndl_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "606287061"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen2/Play_Wp_Melee_Ashen2_Inspect_Mvt_E_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "19167403"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen/Play_Wp_Melee_Ashen_Inspect_Mvt_A_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "625036796"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_AK_RE/T3/Play_Wp_AK47_Antares_Inspect_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "750675743"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Loops/Play_Emitter_Bowl_Vent_Indust_Blower",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "536097661"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Loops/Play_Emitter_Bowl_RADReactor_Ext_Drone",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "590002292"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Revolver_RE/Play_Wp_Revolver_Motor_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "500789077"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Volumes/Atk_Side/Play_BG_Yard_AtkCourtyard_Alley",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "235746074",
+                "614326111"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Volumes/Atk_Side/Play_BG_Yard_AtkCourtyard_Open_Foliage",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "442802021"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Aquarium/Play_UI_KillBanner_Aquarium",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "902740096"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Volumes/Def_Side/Play_BG_Yard_DefMid_Interior",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "41632407"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Champions3/Play_UI_KillBanner_Champions3",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "433351235"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_SoL/Play_UI_KillBanner_SoL",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "161473052"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_Sawed_Off_RE/Play_Wp_Sawed_Off_Aquarium_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "174631849"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Alien/Play_Wp_Knife_Alien_Grip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "171727908",
+                "395779732",
+                "600770572"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Alien/Play_Wp_Knife_Alien_Cloth",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "128696824",
+                "766689700",
+                "898638544"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Mvt_Ele_Ice_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "398855787"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Ashen_Equip_Elem_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "694777654"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Ashen_Equip_Mvt_B_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "791167771"
+            ]
+        }
+    }
+]

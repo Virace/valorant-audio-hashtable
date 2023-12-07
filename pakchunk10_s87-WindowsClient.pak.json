@@ -1,0 +1,210 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Inspect_Close_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "673546442",
+                "749480121",
+                "97738995"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Aquarium/AK47_Aquarium/Play_Wp_AK47_Aquarium_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1010929013",
+                "101145424",
+                "1020396756",
+                "1020579393",
+                "1031155163",
+                "1031876228",
+                "1040461877",
+                "1060130451",
+                "1067141511",
+                "115668874",
+                "169190562",
+                "186838195",
+                "197446103",
+                "278877780",
+                "280811610",
+                "288495220",
+                "31291311",
+                "345148982",
+                "355106021",
+                "391215305",
+                "396251375",
+                "409961594",
+                "436971189",
+                "47266145",
+                "472939748",
+                "562884538",
+                "584020184",
+                "590624060",
+                "598810260",
+                "611288526",
+                "620013597",
+                "620138329",
+                "632916505",
+                "664650975",
+                "694366288",
+                "727196755",
+                "736949655",
+                "739633805",
+                "77570336",
+                "807546578",
+                "839057616",
+                "866974565",
+                "870605185",
+                "884887133",
+                "893543092",
+                "904872551",
+                "939165295",
+                "953397436",
+                "968970412"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_Sawed_Off_RE/Play_Wp_Sawed_Off_Aquarium_Reload_Open",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "229748480",
+                "354314402",
+                "765857752"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_Sawed_Off_RE/Play_Wp_Sawed_Off_Aquarium_Reload_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "189695418",
+                "558739582",
+                "616672835"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen2/Play_Wp_Melee_Ashen2_Equip_Lv1_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "183767929",
+                "547036382",
+                "698295976"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Lv1_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "347634037",
+                "358977396",
+                "46245546",
+                "603348178",
+                "672386963",
+                "886941475",
+                "913050503",
+                "913734432",
+                "958128431"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BoltSniper_RE/Play_Wp_BoltSniper_PermaFrost_Magazine_Out",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "146074459",
+                "49496174",
+                "689172113"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_Luger_RE/Play_Wp_Luger_MonkeyKing_Inspect_Ele_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "601350674",
+                "832333921",
+                "972165909"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_PistolBase_Permafrost_Fire_FP_FirstS_Ele_Ice",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "195558782",
+                "683193226",
+                "903677434"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_Permafrost_Mag_Rls_Button_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "367697693",
+                "478836799",
+                "808433512"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_MP5_RE/Play_Wp_SMG_Tier3_Aquarium_Reload_Chg_Handle_Pull_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "19392580",
+                "660511284",
+                "807029606"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Equip_Stock_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "153095978",
+                "3356390",
+                "478437539"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Burst_RE/Play_Wp_Burst_Antares_Reload_Mag_Out",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1041391447",
+                "209410498",
+                "277585374",
+                "445958432"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_Revolver_RE/Play_Wp_Revolver_Dynasty_Equip_Draw_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "162624607",
+                "55291711",
+                "869969684"
+            ]
+        }
+    }
+]

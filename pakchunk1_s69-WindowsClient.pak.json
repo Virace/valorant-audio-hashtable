@@ -1,0 +1,39 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Stealth_SFX/X/Play_Stealth_AbilX_TeleportExit",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "687653279",
+                "891159793"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Pitt/Emitters/BuyPhase/Play_BG_Pitt_Whales_DefSide",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "204346610",
+                "241633645",
+                "355353177",
+                "473736370",
+                "510934894",
+                "517372908",
+                "621612282",
+                "717457165",
+                "917983996",
+                "978627865"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/URF_RE/URF_AutoP_RE/Play_Wp_AutoPistol_URF_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "189087174"
+            ]
+        }
+    }
+]

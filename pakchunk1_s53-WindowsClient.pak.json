@@ -1,0 +1,104 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Sequoia_Foley/Movement/Arm_L/Play_Mvt_Sequoia_ArmL_Inspect_Rifle_Swing_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "210969719",
+                "446951627",
+                "820558476"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Abilities/Grenade_Q/Play_Mage_AbilQ_Grenade_ShieldDestroyed",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "378815602",
+                "658332203"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Phoenix_SFX/Q/Play_Phoenix_AbilQ_WallLoop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "238186219"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_Emote_EnemiesSpotted_B",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "559339982",
+                "629991111"
+            ],
+            "de-DE": [
+                "37915793",
+                "952416868"
+            ],
+            "en-US": [
+                "278975909",
+                "479012190"
+            ],
+            "es-ES": [
+                "818071310",
+                "849309961"
+            ],
+            "es-MX": [
+                "985565661",
+                "996032841"
+            ],
+            "fr-FR": [
+                "43715311",
+                "514890168"
+            ],
+            "it-IT": [
+                "2325145",
+                "531163886"
+            ],
+            "ja-JP": [
+                "523557747",
+                "562840744"
+            ],
+            "ko-KR": [
+                "123042397",
+                "892582113"
+            ],
+            "pl-PL": [
+                "453664435",
+                "614316903"
+            ],
+            "pt-BR": [
+                "537961352",
+                "879995510"
+            ],
+            "ru-RU": [
+                "129537490",
+                "484032906"
+            ],
+            "tr-TR": [
+                "246162312",
+                "442514422"
+            ],
+            "Zh-CN": [
+                "226585744",
+                "358939192"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/MainMenu/Play_UI_WBP_MenuButtons_Hover",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "626051549",
+                "664287257"
+            ]
+        }
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Sawed_Off_RE/Play_Wp_Sawed_Off_Antares_Inspect_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "173771586",
+                "214026344",
+                "470409442"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BoltSniper_RE/Play_Wp_BoltSniper_PermaFrost_Chg_Hnd_Up",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "198214209",
+                "87606357",
+                "958355005"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_AK_RE/Play_Wp_AK47_Ashen_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "666220376"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Ashen_Inspect_Mvt_E_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1057142441"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/Emitters/Play_BG_Hurm4_Water_Drain",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "267085727"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/Hurm/Events_Hrum_Orbs/Hurm_Orb_Healing/Play_Hurm_Orb_Healing_Heal_LP_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "28061313"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Volumes/Atk_Side/Play_BG_Yard_AtkCourtyard_Foliage",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "614326111",
+                "976743448"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_SawedOff_RE/Play_Wp_SawedOff_Ashen_Inspect_Elem_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "535367479"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Loops/Play_Emitter_Bowl_Wind_Through_Fence",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "447677419"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_BoltSniper_RE/Play_Wp_BoltSniper_Antares_Equip_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "120967869",
+                "476511142",
+                "550226725"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Carbine_RE/Play_Wp_Carbine_SOL_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "484501666",
+                "602973223",
+                "868191407"
+            ]
+        }
+    }
+]

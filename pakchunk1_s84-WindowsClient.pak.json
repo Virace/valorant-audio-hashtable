@@ -1,0 +1,64 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/DthMtch/Events_DthMtch/Play_Kills_to_Win",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "179124743"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Gumshoe_SFX/Abilities/E/Play_Gumshoe_AbilE_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "477488169",
+                "989228053"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wraith_SFX/Movement/Play_Mvt_Wraith_S0_ArmL_Fast_Ramp_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "129283207",
+                "872811635",
+                "911178837"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_Lever_RE/Play_Wp_LeverSniper_Sovereign_Inspect_Element_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "729884384"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Triad/OneShots/Play_Triad_Amb_B_RadianiteHum",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "783903511"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_King/Play_Wp_Melee_King_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1063240618",
+                "274484921",
+                "367622691",
+                "400263222",
+                "474430589",
+                "798111843"
+            ]
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Breach_SFX/Play_Breach_Fusion_Explode_Tail",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "555392563"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Abilities/E_Flow/Play_Sequoia_AbilE_GridShot_Orb_Spawn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "455688578",
+                "877025570"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Clay_SFX/Rocket/Play_Clay_Rocket_Equip_Mech_1_Lift_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "650395409"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Jam/Volumes/Play_BG_Jam_Main_DefSpwn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "280128270",
+                "314210586",
+                "317053040",
+                "404390974",
+                "526935842",
+                "748161449",
+                "79007900",
+                "967902249"
+            ]
+        }
+    }
+]

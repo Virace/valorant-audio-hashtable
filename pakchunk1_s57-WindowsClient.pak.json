@@ -1,0 +1,128 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops/Play_BG_Port_LabHallway_Hazmat_Reso",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "667198543"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_C_Heal_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "712040307"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_HawkFlash_FlashTrigger_Fail",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "453857723"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_HawkFlash_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "363460945"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HypeB_RE/HypeB_AK47_RE/T1/Play_Wp_AK47_HypeBeast_Tier1_Reload_G",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "463438104"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Hunter_SFX/Abilities/Play_Hunter_AbilQ_ChargeLevelReached_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "269188996"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Hunter_SFX/Abilities/Play_Hunter_AbilX_Channel_BowMvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "918654276"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/HeadHunter/Play_Wp_HeadHunter_Equip_Draw_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "825265907"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Abilities/E_Flow/Play_Sequoia_AbilE_Shield_Timeout",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1056087580"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/E_Haunt/Play_BH_E_Haunt_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "422871919"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/C/Play_Cable_AbilC_Collapse",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "740667249"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/PlayScreen/Play_UI_Mech_PlayButton_Mech",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "864315220"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/NoShip/Characters/Events_Char_Crusader/Ultimate_Explosion/Play_Crusader_X_Shield_Plant",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "164690686"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Duality/Loops_Volumes/Play_AmbVol_Room_Tone_Industrial",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "941634266"
+            ]
+        }
+    }
+]

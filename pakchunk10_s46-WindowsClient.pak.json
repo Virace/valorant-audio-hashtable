@@ -1,0 +1,20 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_AK_RE/T3/Play_Wp_AK47_Antares_Inspect_Lv3_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "972328642"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Inspect_Elem_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "311354797"
+            ]
+        }
+    }
+]

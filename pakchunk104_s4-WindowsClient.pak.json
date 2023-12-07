@@ -1,0 +1,24 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Fiberglass/Play_Wp_Melee_Fiberglass_Inspect_Whoosh",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1072218794",
+                "168684354",
+                "954315165"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Fiberglass/Play_Wp_Melee_Fiberglass_Inspect_Grab",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "147140188",
+                "200093958",
+                "834269225"
+            ]
+        }
+    }
+]

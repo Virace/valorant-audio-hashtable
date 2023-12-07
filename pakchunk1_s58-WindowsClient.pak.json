@@ -1,0 +1,119 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/SpikeRush/Events_SpikeRush_Weapon_Upgrade_Notification/Play_SpikeRush_Weapon_Upgrade_Granted",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "602370544"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/MainMenu/UI_Home_ProgressionScreenExpander_Close",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1050579597"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Gumshoe_SFX/Abilities/Q/Play_Gumshoe_AbilQ_Dart_Explode",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "286319199"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_King/Play_UI_KillBanner_King_Transition",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "435978362"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/URF_RE/URF_HMG_RE/Play_Wp_HMG_URF_Inspect_Grab_Top_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "600995720"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Duality/BGFX/Play_BGFX_ACFan_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "414546036"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Abilities/X/Play_Mage_AbilX_Storm_Equipped_Idle",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "420572180"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Ascent/Emitters/Play_BG_Ascent_Energy_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "408608374"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Abilities/E/Play_Mage_AbilE_WaterWall_Enemy_In_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1066292148"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Abilities/X_Duel/Play_Sequoia_AbilX_Arena_Outro",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "343060039"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Abilities/X_Duel/Play_Sequoia_AbilX_Match_Start",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "383800795"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sprinter_SFX/Abilities/C/Play_Sprinter_AbilC_Form_L",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1004259094"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Canyon/Emitters/Play_BG_Canyon_Vent",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "839686110"
+            ]
+        }
+    }
+]

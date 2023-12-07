@@ -1,0 +1,228 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Reload_Energy_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "800441744"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Equip_Energy_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "280915362"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Equip_Mvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "890529972"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Inspect_Energy_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "975095288"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "632745369"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "907919845"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "85764362"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Inspect_Mvt_E_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "740297309"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Equip_Mvt_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "221891340"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Inspect_Belt_in_Mag_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "57473618"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Equip_Chg_Hndl_Back_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "657376395"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Reload_Mag_In_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "741395804"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "328485170"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Inspect_Mvt_F_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1023453271"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Reload_Mag_In_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "992987473"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Reload_Mag_Out_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "286930282"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Reload_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "705034647"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "85764362"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Reload_Chg_Hndl_Back_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "329773548"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "907919845"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Equip_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "453824823"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Equip_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "897195321"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Grenadier_CharacterSelect/Play_Grenadier_CharacterSelect_Arrive_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "50741425"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Edge/Play_UI_KillBanner_Edge",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "678446702"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Core/Items/Play_Items_SprayCan_Spray",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "196471193",
+                "422985057"
+            ]
+        }
+    }
+]

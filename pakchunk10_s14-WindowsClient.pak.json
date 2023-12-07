@@ -1,0 +1,57 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_DefSpwn_1_Ext",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "352812804",
+                "583931259"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Loops/Play_Emitter_Bowl_ACFan_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "349266410"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Sawed_Off_RE/Play_Wp_Sawed_Off_Antares_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1067795915"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Ashen_Inspect_Mvt_F_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "977374150"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Sprinter_CharacterSelect/Play_Sprinter_CharacterSelect_Idle",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "486887689"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_Permafrost_Equip_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "491278509"
+            ]
+        }
+    }
+]

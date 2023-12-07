@@ -1,0 +1,64 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/SAV/Play_BG_Hurm4_Exterior_Urban",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "500369388",
+                "977294233"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Inspect_Elem_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "762243400"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Loops/Play_Emitter_Bowl_Indust_Rumble_Swirl",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "79610484"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Mvt_Ele_Ice_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "987119716"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LeverSniper_RE/Play_Wp_LeverSniper_Ashen_Inspect_Lever_Out_Start_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "711081711"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Mythic/Play_Wp_Melee_Mythic_HitConfirm",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1060889865",
+                "2056062",
+                "394734683",
+                "518631198",
+                "522784893",
+                "623655384",
+                "655762678",
+                "957241505"
+            ]
+        }
+    }
+]

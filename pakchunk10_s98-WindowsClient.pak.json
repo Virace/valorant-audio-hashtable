@@ -1,0 +1,513 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Melee_Permafrost_Hit",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1071508073",
+                "21461950",
+                "216907785",
+                "256142402",
+                "285127240",
+                "4866099",
+                "593803031",
+                "597189878",
+                "605725124",
+                "663793739",
+                "676085367",
+                "727156341",
+                "730544298",
+                "751845852",
+                "756713691",
+                "766612607",
+                "833082925",
+                "918145873",
+                "997773114"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_AK_RE/Play_Wp_AK47_PermaFrost_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "56272948",
+                "713369442",
+                "983307954"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_AK_RE/Play_Wp_AK47_PermaFrost_Reload_Ele_Ice_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "521290836",
+                "561184489",
+                "654564264"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_Revolver_RE/Play_Wp_Revolver_Dynasty_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "3689610",
+                "486950489",
+                "596236348"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_Revolver_RE/Play_Wp_Revolver_Dynasty_Equip_Mvt_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "321442260",
+                "590610429",
+                "949656253"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_AfterGlow/Play_Wp_Melee_AfterGlow_HitConfirm",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "163105265",
+                "184412889",
+                "184693329",
+                "272771724",
+                "350520375",
+                "478386650",
+                "599043068",
+                "684613264",
+                "783392602",
+                "813662070",
+                "888198287",
+                "922470858"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_AfterGlow/Play_Wp_Melee_AfterGlow_Inspect_Element_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1002533033",
+                "364140646",
+                "527833300"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_AfterGlow/Play_Wp_Melee_AfterGlow_Slash_Lvl1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "1052548312",
+                "154688252",
+                "28116760",
+                "285220659",
+                "347634037",
+                "347667952",
+                "358977396",
+                "37038092",
+                "46245546",
+                "62266430",
+                "672386963",
+                "707201147",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Haunted/Play_Wp_Melee_Haunted_Lv2_Inspect_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "171684166",
+                "329336501",
+                "382429743"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AK_RE/Play_Wp_AK_Dynasty_Equip_Mvt_EnergyStream",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "240060960",
+                "482509540",
+                "913238567"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_LMG_RE/Play_Wp_LMG_MonkeyKing_Equip_Ele_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "297019334",
+                "378572551",
+                "86936795"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Mythic/Play_Wp_Melee_Mythic_Lv2_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "170110031",
+                "347634037",
+                "358977396",
+                "46245546",
+                "57301028",
+                "664337506",
+                "672386963",
+                "686441178",
+                "687150025",
+                "699226858",
+                "884376154",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Mythic/Play_Wp_Melee_Mythic_Lv2_Equip_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1018256253",
+                "123599967",
+                "131395524",
+                "280113117",
+                "458024727",
+                "517445648"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Inspect_Grab_Top_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1058394311",
+                "196290568",
+                "25951492"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Inspect_Shell_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "61135292",
+                "665809570",
+                "772203702"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_MonkeyKing/Play_Wp_Melee_MonkeyKing_Twirl_Whoosh_1P_Lv2",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1020480676",
+                "103511207",
+                "143282742",
+                "299986804",
+                "303675262",
+                "313135589",
+                "460073772",
+                "58847324",
+                "589145028",
+                "618071609",
+                "635362485",
+                "818530679",
+                "83900012",
+                "87868712"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Burst_RE/Play_Wp_Burst_Antares_Reload_Mag_Grab",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "389014773",
+                "439312589",
+                "525372110"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Revolver_RE/Play_Wp_Revolver_Motor_Reload_Shells_Out_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "153753091",
+                "624733581",
+                "930924214"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AutoShotgun_RE/Play_Wp_AutoShotgun_Dynasty_Reload_Mvt_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "260415594",
+                "631396665",
+                "725555491"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AutoShotgun_RE/Play_Wp_AutoShotgun_Dynasty_Reload_Mvt_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "762156056",
+                "876809266",
+                "919915821"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AutoShotgun_RE/Play_Wp_AutoShotgun_Dynasty_Chg_Hndl_Fwd_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "147471173",
+                "802660125",
+                "934845395"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_DMR_RE/Play_Wp_DMR_Aquarium_Reload_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "126562867",
+                "436334170",
+                "994313130"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_BoltSniper_RE/Play_Wp_BoltSniper_Antares_Chg_Hnd_Up",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "452144393",
+                "709535292",
+                "832177675"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_BoltSniper_RE/Play_Wp_BoltSniper_Antares_Reload_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "40104615",
+                "965349170",
+                "971009836"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoSG_RE/Play_Wp_ShotgunAuto_CP_Reload_Mag_In_Start",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "543904652",
+                "804872886",
+                "867358258"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoSG_RE/Play_Wp_ShotgunAuto_CP_Reload_Mag_Out",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1031682824",
+                "45762898",
+                "787812459"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Pump_RE/Play_Wp_Shotgun_Pump_Motor_Equip_Mvt_A_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1052000696",
+                "524303806",
+                "790280834"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Aggressive_Cyberpunk/Play_Wp_Melee_Aggressive_CP_Equip_Mvt",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "491490003",
+                "930813325",
+                "934960933"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_SOL2/Play_Wp_Melee_SOL2_Heavy_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "347634037",
+                "358977396",
+                "370655111",
+                "383236082",
+                "447704822",
+                "46245546",
+                "474031577",
+                "531586732",
+                "560582664",
+                "605340217",
+                "633401722",
+                "672386963",
+                "858422930",
+                "87499372",
+                "884975634",
+                "913050503",
+                "989167475"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_BoltSniper_RE/Play_Wp_BoltSniper_Dynasty_Chg_Hnd_Up_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "371713767",
+                "869311325",
+                "926991409"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Permafrost/Play_Wp_OP_PermaFrost_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1024815437",
+                "106030207",
+                "173920113",
+                "184428878",
+                "199115945",
+                "241488858",
+                "326126193",
+                "359525813",
+                "394298699",
+                "404121502",
+                "413289103",
+                "428088389",
+                "483834223",
+                "496436440",
+                "49790478",
+                "543838229",
+                "565700311",
+                "565917001",
+                "573121873",
+                "580305131",
+                "582464340",
+                "619693649",
+                "635791800",
+                "645866905",
+                "6769415",
+                "69826406",
+                "699080310",
+                "709099852",
+                "776783105",
+                "781774759",
+                "804793505",
+                "812954445",
+                "814920848",
+                "910420941",
+                "939890892",
+                "951159479",
+                "991839137"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Lunar/Play_Wp_Melee_Lunar_lv2_HitConfirm",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "116274444",
+                "2056062",
+                "372597204",
+                "388111923",
+                "394734683",
+                "509869882",
+                "957241505"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Carbine_RE/Play_Wp_Carbine_Ashen_Equip_Mvt_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "36864192",
+                "454405872"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Haunted_RE/Haunted_DMR_RE/Play_Wp_DMR_Haunted_Equip_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1005787082",
+                "546247752",
+                "850460847"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen/Play_Wp_Melee_Ashen_Equip_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1051944280",
+                "349777491",
+                "392426738",
+                "768161057",
+                "774800657",
+                "939358394"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_MP5_RE/Play_Wp_Mp5_Aquarium_Inspect_Ele_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "254733800",
+                "620999985",
+                "908536040"
+            ]
+        }
+    }
+]

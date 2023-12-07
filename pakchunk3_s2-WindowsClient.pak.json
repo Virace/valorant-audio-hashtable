@@ -1,0 +1,20 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "632745369"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Reload_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "771466373"
+            ]
+        }
+    }
+]

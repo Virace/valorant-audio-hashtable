@@ -1,0 +1,127 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_LMG_RE/Play_Wp_LMG_MonkeyKing_Equip_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "134717968",
+                "285803484",
+                "522790411"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Sawed_Off_RE/Play_Wp_Sawed_Off_SOL_Mvt_Raise_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "901890925"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_MotorBike/Play_UI_KillBanner_MotorBike",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "582784959"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Rift_CharacterSelect/Play_Rift_CharacterSelect_Arrive",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "766406163"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Helix/Emitters/Play_Amb_Hurm_Helix_DockedBoat_SpawnA",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "452281941"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_SOL2/Play_Wp_Melee_SOL2_Inspect_Lv1_Mvt_C_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1064040714"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BoltSniper_RE/Play_Wp_BoltSniper_PermaFrost_Inspect_Ele_IceLp",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "278425786"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Equip_Elem_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1032594345"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Sawed_Off_RE/Play_Wp_Sawed_Off_Antares_Equip_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "106648147",
+                "257380229",
+                "68137728"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Ashen/Play_Wp_LeverSniper_Ashen_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1007984560",
+                "1061040901",
+                "1069494605",
+                "1070987076",
+                "142276768",
+                "14337359",
+                "156832951",
+                "163589465",
+                "210026477",
+                "253461996",
+                "355239477",
+                "383488883",
+                "386733548",
+                "433876710",
+                "434759330",
+                "460761042",
+                "519202592",
+                "551816296",
+                "600725458",
+                "630816876",
+                "650238447",
+                "674169300",
+                "675991374",
+                "688265307",
+                "699184492",
+                "70560629",
+                "792439455",
+                "845358434",
+                "873691482",
+                "91920389",
+                "930479142",
+                "939323871"
+            ]
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Fiberglass/Play_Wp_Melee_Fiberglass_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "152511042",
+                "532947678",
+                "896243942"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Fiberglass/Play_Wp_Melee_Fiberglass_Attack_Heavy_Return",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1036094124",
+                "596421465",
+                "870264728"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Karambit/Play_Wp_Melee_Karambit_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1054382457",
+                "24565028",
+                "909556598"
+            ]
+        }
+    }
+]

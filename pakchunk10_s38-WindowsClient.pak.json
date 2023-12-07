@@ -1,0 +1,22 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LMG_RE/Play_Wp_LMG_Ashen_Reload_Chg_Hndl_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "130546404"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_AfterGlow/Play_Wp_Melee_AfterGlow_Inspect_Lvl1_Mvt_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "164415908",
+                "360813733",
+                "36980509"
+            ]
+        }
+    }
+]

@@ -1,0 +1,211 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops/Play_BG_Port_Emitter_ExposedWhisp",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "226954798",
+                "697587822"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/URF_RE/URF_Carb_RE/Play_Wp_Carbine_URF_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "123976813"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/OneShots/Play_Breeze_Amb_DefSpawn_Pipe",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "220574593",
+                "596518785"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Ascent/Emitters/Play_BG_Ascent_FloatingIsland_Gusts",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "638261486"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_Vector_RE/Play_Wp_Vector_Sovereign_Inspect_Element_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "231500991"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Hunter_SFX/Abilities/Play_Hunter_S0_AB_X_SuperBolt_Equip_HUD_Appear",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "84650306"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Gumshoe_SFX/Abilities/Q/Play_Gumshoe_AbilQ_Dart_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "664651963"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MageP_RE/MageP_Pump_RE/Play_Wp_Pump_MP_Reload_Mvt_B_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "17015803",
+                "308438693",
+                "313220315"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/Foley/Movement/Arm_L/Play_Mvt_Cable_S0_ArmL_Inspect_Rifle_Med_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1034285492",
+                "379225420",
+                "573546243",
+                "820386743",
+                "912028810",
+                "916628135"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/UI_Premier_Hit_Qualification_SFX",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "738415242"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/UI_Eog_Rank_Demotion",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "704681385"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Circle/Play_Wp_Melee_Circle_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1004584206",
+                "1016300434",
+                "234081364",
+                "24481022",
+                "347634037",
+                "358977396",
+                "378534968",
+                "46245546",
+                "509971014",
+                "637944413",
+                "672386963",
+                "81513928",
+                "913050503",
+                "953460969",
+                "984791646"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_HypeBeast/Play_Wp_Melee_HypeBeast_Equip_Lv2_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1003624688",
+                "61794005",
+                "657104463",
+                "944372235",
+                "972535668",
+                "982718072"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Range/Play_BG_Range_Exterior",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "605496724"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_InGame/InGame/Play_UI_CombatReport_Hover",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "368806173"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Collection/Play_UI_Collection_Card_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "466371552"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/URF_RE/URF_HMG_RE/Play_Wp_HMG_URF_Reload_Top_Close_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "764478153"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Duality/Loops_Volumes/Play_AmbVol_AtkSpawn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016870096",
+                "293199300"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wushu_SFX/Movement/Play_Mvt_Wushu_ArmR_Charge_Rifle_Up_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "178476211"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/WinterMode/WinterMode/Play_WinterMode_SnowballLauncher_Reload_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "207741743"
+            ]
+        }
+    }
+]

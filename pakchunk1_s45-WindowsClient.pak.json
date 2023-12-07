@@ -1,0 +1,20 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops/Play_BG_Port_Wind_Gusts_Buffet",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "429400386"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/Play_UI_EoG_mvp_highlight",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "965226386"
+            ]
+        }
+    }
+]

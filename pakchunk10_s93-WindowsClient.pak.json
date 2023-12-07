@@ -1,0 +1,239 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_Luger_RE/Play_Wp_Luger_MonkeyKing_Reload_Slide_Fwd_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "334748732",
+                "56596893",
+                "578768480"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Alien/Carbine_Alien/Play_Wp_Carbine_Alien_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1000257217",
+                "1013606431",
+                "1021065446",
+                "1030957653",
+                "1056517887",
+                "1064609377",
+                "132840485",
+                "15608121",
+                "171809131",
+                "19817588",
+                "23735593",
+                "247440487",
+                "253231749",
+                "278181300",
+                "287420995",
+                "288919808",
+                "346789659",
+                "36526880",
+                "370105150",
+                "373034337",
+                "408107537",
+                "4257123",
+                "446172999",
+                "450084262",
+                "453867813",
+                "483662764",
+                "556087702",
+                "557940199",
+                "574908951",
+                "601001861",
+                "629270200",
+                "651938489",
+                "661184588",
+                "666867631",
+                "727572187",
+                "739364273",
+                "740800366",
+                "758504569",
+                "790412770",
+                "896551422",
+                "912923756",
+                "91828322",
+                "921335286",
+                "937276135",
+                "987320214"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Ashen/Play_Wp_Luger_Ashen_Sil_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1015121260",
+                "1018115343",
+                "1020606846",
+                "1035626927",
+                "1037246235",
+                "133764869",
+                "142439923",
+                "145671212",
+                "201072382",
+                "219255967",
+                "228213962",
+                "241491993",
+                "326327004",
+                "384428774",
+                "393421164",
+                "41146571",
+                "452991667",
+                "548346246",
+                "562823910",
+                "577099258",
+                "597444516",
+                "601431131",
+                "659143190",
+                "735016516",
+                "739197852",
+                "765903739",
+                "774490640",
+                "782900178",
+                "791220917",
+                "881554136",
+                "883001279",
+                "8854430",
+                "980619079"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_BoltSniper_RE/Play_Wp_BoltSniper_MonkeyKing_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "106024836",
+                "396595541",
+                "548639011"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_BoltSniper_RE/Play_Wp_BoltSniper_MonkeyKing_Inspect_Ele_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1052118550",
+                "150564980",
+                "228462890"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_AK_RE/T3/Play_Wp_AK47_Antares_Reload_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "547965223",
+                "665388472",
+                "671935172"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AutoShotgun_RE/Play_Wp_AutoShotgun_Dynasty_Chg_Hndl_Back_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "541512852",
+                "908336551",
+                "984851183"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_BoltSniper_RE/Play_Wp_BoltSniper_Dynasty_Equip_Mvt_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1063484403",
+                "653537012",
+                "903259762"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Dual/Play_Wp_Melee_Dual_Heavy_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "205171728",
+                "246111721",
+                "347634037",
+                "358977396",
+                "387964635",
+                "46245546",
+                "672386963",
+                "694992849",
+                "790487013",
+                "81577381",
+                "869342835",
+                "913050503",
+                "946089476"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Mythic_RE/Mythic_Revolver_RE/Play_Wp_Revolver_Mythic_Equip_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "106926636",
+                "67563985",
+                "787916793"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_AK_RE/Play_Wp_AK_Motor_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1055577938",
+                "736793637",
+                "786336393"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_Revolver_RE/Play_Wp_Revolver_Dynasty_Equip_Mvt_EnergyStream",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016304698",
+                "12494742",
+                "243846539"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_Revolver_RE/Play_Wp_Revolver_Dynasty_Reload_Mvt_EnergyStream",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "766530609",
+                "905806932",
+                "968271037"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_LMG_RE/Play_Wp_LMG_MonkeyKing_Reload_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "389943267",
+                "513866081",
+                "742655386"
+            ]
+        }
+    }
+]

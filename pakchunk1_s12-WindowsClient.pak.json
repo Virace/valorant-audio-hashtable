@@ -1,0 +1,123 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Rift_VO/Play_VO_Rift_MatchWin",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "322396777",
+                "331246194",
+                "815653997"
+            ],
+            "de-DE": [
+                "583875018",
+                "673636337",
+                "875777498"
+            ],
+            "en-US": [
+                "584336914",
+                "690299634",
+                "966600297"
+            ],
+            "es-ES": [
+                "169508770",
+                "571040556",
+                "999702399"
+            ],
+            "es-MX": [
+                "367208839",
+                "592083301",
+                "762114529"
+            ],
+            "fr-FR": [
+                "128045448",
+                "163963345",
+                "431400266"
+            ],
+            "it-IT": [
+                "299112925",
+                "739112522",
+                "950204996"
+            ],
+            "ja-JP": [
+                "111573603",
+                "41480978",
+                "571193353"
+            ],
+            "ko-KR": [
+                "585500771",
+                "654124655",
+                "808514055"
+            ],
+            "pl-PL": [
+                "472757401",
+                "586348899",
+                "758627161"
+            ],
+            "pt-BR": [
+                "319066720",
+                "462307624",
+                "850988346"
+            ],
+            "ru-RU": [
+                "268067073",
+                "317782813",
+                "34479873"
+            ],
+            "tr-TR": [
+                "11342287",
+                "254042514",
+                "986337788"
+            ],
+            "Zh-CN": [
+                "239117829",
+                "309716216",
+                "520988091"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Phoenix_CharacterSelect/Play_Phoenix_CS_Idle_V1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "932757179"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/DthMtch/Events_DthMtch/Play_Health_Pack_Creation",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "676014570"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Int_Obj/Play_Int_Obj_01_Close",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "473082661"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Premier/UI_T_Vote_Added",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "156874201"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Rift_SFX/Abilities/Play_Rift_AbilX_Wall_Astral_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "59008314"
+            ]
+        }
+    }
+]

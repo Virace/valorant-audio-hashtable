@@ -1,0 +1,98 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_DefusedObjective",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "126910091",
+                "226805767",
+                "701386743"
+            ],
+            "de-DE": [
+                "439280945",
+                "948497759",
+                "977855400"
+            ],
+            "en-US": [
+                "111810972",
+                "357249899",
+                "47148284"
+            ],
+            "es-ES": [
+                "312472081",
+                "783117628",
+                "822053691"
+            ],
+            "es-MX": [
+                "1023213620",
+                "369608466",
+                "504279027"
+            ],
+            "fr-FR": [
+                "753415427",
+                "801640115",
+                "907664678"
+            ],
+            "it-IT": [
+                "322906398",
+                "5153768",
+                "753256806"
+            ],
+            "ja-JP": [
+                "1011591094",
+                "244839325",
+                "561741739"
+            ],
+            "ko-KR": [
+                "126092134",
+                "229291145",
+                "828327344"
+            ],
+            "pl-PL": [
+                "127855587",
+                "130476252",
+                "217268055"
+            ],
+            "pt-BR": [
+                "2612689",
+                "279757153",
+                "432217295"
+            ],
+            "ru-RU": [
+                "295980340",
+                "631233760",
+                "879029247"
+            ],
+            "tr-TR": [
+                "245027124",
+                "250640123",
+                "977578702"
+            ],
+            "Zh-CN": [
+                "100342989",
+                "286765309",
+                "602945271"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Juliett/Juliett_OneShots/OneShots/Play_Juliett_Amb_DefSpwn_Heli_FireFighter",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "986944592",
+                "992160977"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Pitt/Volumes/AmbVols/Play_BG_Pitt_Def2Mid_Alley_02",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "630861777",
+                "934002484"
+            ]
+        }
+    }
+]

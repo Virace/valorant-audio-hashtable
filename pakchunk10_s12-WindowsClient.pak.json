@@ -1,0 +1,92 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_SawedOff_RE/Play_Wp_SawedOff_Ashen_Reload_Elem_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1012700004"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_SawedOff_RE/Play_Wp_SawedOff_Ashen_Inspect_Elem_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "673678128"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Luger_RE/Play_Wp_Luger_Ashen_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "63505503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BurstRifle_RE/Play_Wp_BurstRifle_Permafrost_Equip_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "88771597"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Sprinter_CharacterSelect/Play_Sprinter_CharacterSelect_Arrive",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "912294644"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Helix/Emitters/Play_Amb_Hurm_Helix_Fluorescent_Light",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1031259451"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Carbine_RE/Play_Wp_Carbine_Ashen_Reload_Elem_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "437849395"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Ele_Ice_Lp",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1057549797"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Ashen_Reload_End_Mvt_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "172759695"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Proto_RE/Proto_Burst_RE/T1/Play_Wp_Burst_Proto_Lv1_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "586082615"
+            ]
+        }
+    }
+]

@@ -1,0 +1,2466 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Reload_Chg_Hndl_Back_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1036108471",
+                "833254851",
+                "876293686"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Element_F_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "573135859",
+                "691796917",
+                "866211929"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Equip_Gun_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "695910061",
+                "94344614",
+                "946798947"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Shell_Mvt_E_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1042828754",
+                "785515031",
+                "876478489"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Shell_Mvt_J_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "256800302",
+                "261458401",
+                "967744199"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Reload_Chg_Hndl_Fwd_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "124720177",
+                "539698759",
+                "711911301"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "114535238",
+                "780890664",
+                "970266828"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Reload_Top_Open_End_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "193747329",
+                "280182902",
+                "857014579"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Open_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "459165306",
+                "498870268",
+                "555575979"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Button_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1003421589",
+                "577323644",
+                "669298248"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Reload_Top_Close_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "35416055",
+                "703227510",
+                "867158791"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Equip_Grab_Handle_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "110478383",
+                "23783628",
+                "673781130"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Equip_Barrel_Slide_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "771977001",
+                "795342634",
+                "993312314"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Equip_Element_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1040791913",
+                "155982402",
+                "354575968"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Equip_Gun_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "555480532",
+                "863405707",
+                "913189006"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Equip_Gun_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "441634634",
+                "458765887",
+                "852466798"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Equip_Shell_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1023973192",
+                "730781130",
+                "951780323"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Equip_Sight_Flip_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "248782025",
+                "792226097",
+                "857960485"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Close_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "201232247",
+                "624851210",
+                "960688018"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Close_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "364724313",
+                "493990891",
+                "757127456"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Element_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "373237900",
+                "416933969",
+                "666134260"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Element_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "162081512",
+                "224269990",
+                "808242282"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Element_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "149825579",
+                "312173502",
+                "960316580"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Grab_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "191169429",
+                "278838953",
+                "845956979"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Grab_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "235430800",
+                "666047675",
+                "768013613"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "125924580",
+                "736917565",
+                "935627509"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "548165559",
+                "698394790",
+                "865267870"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "288374177",
+                "331625605",
+                "552523480"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Mvt_F_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1071813217",
+                "274172108",
+                "569167843"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Mvt_G_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "147867204",
+                "242308331",
+                "972216351"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Shell_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "149542565",
+                "294863011",
+                "745084345"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Shell_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "361435826",
+                "536788029",
+                "577897655"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Shell_Mvt_F_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "463739780",
+                "711374758",
+                "758933341"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Inspect_Shell_Mvt_G_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "181740548",
+                "200157464",
+                "75015258"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Reload_End_Mvt_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "150565575",
+                "5984866",
+                "761339715"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Reload_Mvt_Element_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "15079367",
+                "203629606",
+                "658370960"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Reload_Mvt_Element_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1014551927",
+                "327527610",
+                "950817286"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Reload_Mvt_Element_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "130578455",
+                "514625117",
+                "766794200"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Reload_Mvt_Element_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "329248666",
+                "430190732",
+                "858456166"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Reload_Mvt_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "104919311",
+                "590786090",
+                "592198485"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_HMG_RE/Play_Wp_HMG_CP_Reload_Top_Open_Start_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "269192700",
+                "621882329",
+                "774664286"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Reload_Mvt_E",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "321826471",
+                "518313981",
+                "768929363"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Reload_Energy_E",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "236201611",
+                "620532749",
+                "90715527"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Reload_Energy_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1050743539",
+                "55782848",
+                "795618888"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Reload_Energy_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "202244373",
+                "426202022",
+                "478732016"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Reload_Energy_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "26196869",
+                "292272524",
+                "559659291"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Reload_Mvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "382279421",
+                "557178701",
+                "726925313"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Reload_Mvt_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "198486803",
+                "62080547",
+                "69936421"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Reload_Mvt_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "58694158",
+                "614329985",
+                "704680444"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Cyberpunk/Play_Wp_Melee_Cyberpunk_Equip_Lvl2",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "106904262",
+                "146719672",
+                "214752603",
+                "425249602",
+                "450580241",
+                "654450401"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Cyberpunk/Play_Wp_Melee_Cyberpunk_Inspect_Mvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1015185309",
+                "811159925",
+                "84107513"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Cyberpunk/Play_Wp_Knife_Cyberpunk_Heavy_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "1021280978",
+                "1023888522",
+                "1038102187",
+                "1051354637",
+                "117770024",
+                "298662040",
+                "310354773",
+                "315791064",
+                "347634037",
+                "358977396",
+                "382696140",
+                "46245546",
+                "481099522",
+                "672386963",
+                "773979104",
+                "905123733",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Cyberpunk/Play_Wp_Melee_Cyberpunk_Inspect_Mvt_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "196325638",
+                "331132857",
+                "552472621"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Cyberpunk/Play_Wp_Melee_Cyberpunk_Inspect_Element_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "123806731",
+                "41941458",
+                "676628365"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Cyberpunk/Play_Wp_Knife_Cyberpunk_Heavy_Slash_Lvl2",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "1021280978",
+                "1023888522",
+                "1038102187",
+                "1051354637",
+                "117770024",
+                "126240615",
+                "16465184",
+                "298662040",
+                "310354773",
+                "315791064",
+                "347634037",
+                "358977396",
+                "382696140",
+                "46245546",
+                "481099522",
+                "672386963",
+                "773979104",
+                "80360674",
+                "905123733",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Cyberpunk/Play_Wp_Knife_Cyberpunk_Slash_Lvl2",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "1038102187",
+                "1051354637",
+                "1067279000",
+                "298662040",
+                "315791064",
+                "347634037",
+                "358977396",
+                "46245546",
+                "466736575",
+                "481099522",
+                "532050873",
+                "672386963",
+                "773979104",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Cyberpunk/Play_Wp_Melee_Cyberpunk_Inspect_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "148577862",
+                "530760985",
+                "873936942"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Cyberpunk/Play_Wp_Melee_Cyberpunk_Inspect_Element_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "204127451",
+                "412218969",
+                "668874213"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Cyberpunk/Play_Wp_Melee_Cyberpunk_Inspect_Mvt_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "42780865",
+                "697060385",
+                "974832168"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Cyberpunk/Play_Wp_Melee_Cyberpunk_Inspect_Mvt_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "119362785",
+                "270930265",
+                "777881507"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/Play_Wp_Revolver_Edge_Equip_OffHammer_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1037887563",
+                "375769752",
+                "751346908"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/Play_Wp_Revolver_Edge_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "455572645",
+                "752685644",
+                "864509812"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/Play_Wp_Revolver_Edge_Inspect_Energy_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "625213914",
+                "794642069",
+                "858399182"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/Play_Wp_Revolver_Edge_Equip_Draw_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016317967",
+                "592196441",
+                "773574884"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/Play_Wp_Revolver_Edge_Reload_Speedloader_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "335435108",
+                "722216767",
+                "957496251"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/Play_Wp_Revolver_Edge_Inspect_Energy_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "359400496",
+                "450656883",
+                "590078150"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/Play_Wp_Revolver_Edge_Reload_CylOpen_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "364464534",
+                "597420560",
+                "782996508"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/Play_Wp_Revolver_Edge_Equip_Energy_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "103465625",
+                "725788821",
+                "939390741"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/Play_Wp_Revolver_Edge_Inspect_Energy_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "282957529",
+                "655068667",
+                "704413706"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/Play_Wp_Revolver_Edge_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "206615801",
+                "259279747",
+                "518711354"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/Play_Wp_Revolver_Edge_Reload_Energy_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "615230870",
+                "641175381",
+                "955766722"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/Play_Wp_Revolver_Edge_Reload_Energy_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "520905200",
+                "645391611",
+                "8043043"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/Play_Wp_Revolver_Edge_Reload_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "274100462",
+                "61071312",
+                "716050116"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/Play_Wp_Revolver_Edge_Reload_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1006732447",
+                "687711554",
+                "740851339"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Edge/Play_Wp_Melee_Edge_Equip_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "490977201",
+                "797468715",
+                "872924611"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Edge/Play_Wp_Melee_Edge_Heavy_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "1047527045",
+                "183043569",
+                "285571899",
+                "294813915",
+                "347634037",
+                "358977396",
+                "444254822",
+                "457641760",
+                "46245546",
+                "672386963",
+                "696848601",
+                "789534978",
+                "826183650",
+                "904958672",
+                "913050503",
+                "928249492",
+                "999423181"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Edge/Play_Wp_Melee_Edge_Inspect_Energy_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "313537422",
+                "465527415",
+                "85526246"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Edge/Play_Wp_Melee_Edge_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "1047527045",
+                "183043569",
+                "294813915",
+                "347634037",
+                "358977396",
+                "457641760",
+                "46245546",
+                "672386963",
+                "696848601",
+                "904958672",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Inspect_Grab_End_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1038167735",
+                "660641932",
+                "848711596"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Equip_Energy_A_FP_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "42681968",
+                "904582333",
+                "955366604"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Reload_Full_Mag_In_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "501738116",
+                "766625341",
+                "915515001"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "183014002",
+                "623041137",
+                "891843984"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Inspect_Energy_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1051413533",
+                "1057967150",
+                "408624350"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Reload_Chg_Handle_Pull_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "235562697",
+                "495526513",
+                "936591076"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Equip_Stock_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "350226227",
+                "351336194",
+                "881341048"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Equip_Energy_B_FP_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "485447679",
+                "791049136",
+                "910770129"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Equip_Grab_End_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "170794763",
+                "581604082",
+                "78756826"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Inspect_Energy_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "267444202",
+                "687641480",
+                "790759132"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Reload_Energy_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "133791332",
+                "204578289",
+                "594611954"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Reload_Energy_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016299339",
+                "145917113",
+                "491038745"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Reload_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "141490995",
+                "392766253",
+                "727415276"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Reload_Grab_Mag_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "165507422",
+                "262548708",
+                "703763524"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/T1/Play_Wp_MP5_Edge_Tier1_Reload_Full_Mag_In_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "171392925",
+                "619238352",
+                "721181919"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/T1/Play_Wp_MP5_Edge_Tier1_Equip_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "523476614",
+                "762552451",
+                "9395599"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/T1/Play_Wp_MP5_Edge_Tier1_Equip_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "601503559",
+                "967918637",
+                "972717943"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/T1/Play_Wp_MP5_Edge_Tier1_Equip_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "122985913",
+                "231423734",
+                "771200925"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/T1/Play_Wp_MP5_Edge_Tier1_Equip_Stock_Extend_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "36354238",
+                "758621864",
+                "766065655"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/T1/Play_Wp_MP5_Edge_Tier1_Equip_Stock_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1005845121",
+                "361287573",
+                "954795938"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/T1/Play_Wp_MP5_Edge_Tier1_Reload_Chg_Handle_Pull_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1030066910",
+                "336592072",
+                "750388421"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/T1/Play_Wp_MP5_Edge_Tier1_Reload_Chg_Handle_Release_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "616146332",
+                "668993529",
+                "767498805"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/T1/Play_Wp_MP5_Edge_Tier1_Reload_Empty_Mag_Out_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1051463097",
+                "630113587",
+                "985798035"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/T1/Play_Wp_MP5_Edge_Tier1_Reload_Full_Mag_In_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "204996668",
+                "627318643",
+                "786830064"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/T1/Play_Wp_MP5_Edge_Tier1_Reload_Mag_Rels_Button_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "355636341",
+                "602854672",
+                "702914585"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Inspect_Mvt_Element_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "238029921",
+                "372850075",
+                "997755380"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Reload_Chg_Hndl_Bck_Elm_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "315940477"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "285412865",
+                "453030039",
+                "574698421"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Reload_Bump_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "167694900",
+                "538191624",
+                "595516799"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Equip_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1030745670",
+                "237096141",
+                "766461595"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Equip_Mvt_Element_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1067504728",
+                "613481618",
+                "837552795"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Grab_Element",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "330444481",
+                "408475757",
+                "712173539"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "106694106",
+                "468699969",
+                "772010864"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Reload_Chg_Hndl_Back_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1002199961",
+                "452562809",
+                "522377247"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Reload_Chg_Hndl_Fwd_Elm_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1052079955",
+                "264929880",
+                "791778271"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Reload_Chg_Hndl_Fwd_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "119036253",
+                "16690301",
+                "919004781"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Reload_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "291097987",
+                "718702053",
+                "810331603"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Reload_LogoShk_Elm_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "35587684",
+                "734422377",
+                "76626039"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Reload_Mag_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "18067114",
+                "218500826",
+                "264958307"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Reload_MagOut_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "140106799",
+                "332783350",
+                "36363420"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Reload_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "318380923",
+                "535494856",
+                "912002789"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Inspect_Mvt_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "326984057",
+                "504124293",
+                "938382785"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Reload_Grab",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "147770766",
+                "155829428",
+                "805941235"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Inspect_Mvt_Element_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "331984810",
+                "492992251",
+                "83301013"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Inspect_Mvt_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "144942615",
+                "205397068",
+                "905536002"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Equip_Draw_Element",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "308776069",
+                "773443498",
+                "941943604"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Reload_Holo_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "401922083",
+                "429923029",
+                "589356536"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Equip_Barrel_Slide_Element",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "137142762",
+                "328859292",
+                "739755940"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Equip_Chg_Hnd_Back_Element",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "124082127",
+                "838856116",
+                "942135124"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Equip_Chg_Hnd_Back_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "370806896",
+                "735005541",
+                "804804217"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Equip_Chg_Hnd_Fwd_Element",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "212113697",
+                "39194941",
+                "564904460"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Equip_Draw_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "542348502",
+                "659138829",
+                "950457187"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Equip_Holo_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1032800385",
+                "213099162",
+                "451040519"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Equip_Holo_Element_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1045934996",
+                "323133814",
+                "84535156"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Equip_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1068160418",
+                "187773239",
+                "480473327"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Equip_Mvt_Element",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "52412780",
+                "574308967",
+                "670377347"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Inspect_Mvt_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "620288092",
+                "717762456",
+                "760295420"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Inspect_Mvt_Element_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1014429407",
+                "178174769",
+                "268303229"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Inspect_Shift_Element",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "559036481",
+                "564212176",
+                "847961498"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Reload_Barrel_Out_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "590177242",
+                "776337257",
+                "796313366"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Reload_Chg_Hnd_Back_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "493239736",
+                "551150889",
+                "626061441"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Reload_Chg_Hnd_Fwd_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "191417216",
+                "235312745",
+                "40798280"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Reload_Mag_In_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "343796765",
+                "925975101",
+                "957067780"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Reload_Mag_Out_Element",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "114119378",
+                "462927157",
+                "996814675"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Reload_Mvt_Element",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1043241530",
+                "568927806",
+                "652393633"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Reload_Sight_Flip_Element",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "372934196",
+                "650143574",
+                "762105503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoP_RE/Play_Wp_AutoPistol_CP_Reload_Sight_Flip_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "107792233",
+                "460115726",
+                "910017988"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Edge/Revolver_Edge/Play_Wp_Revolver_Edge_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1008481688",
+                "1017801432",
+                "1023723615",
+                "115393362",
+                "133138711",
+                "140213187",
+                "170868664",
+                "172942338",
+                "185753488",
+                "192965671",
+                "199812800",
+                "211116273",
+                "229236506",
+                "235848009",
+                "261504780",
+                "263891607",
+                "27549686",
+                "283984153",
+                "298328462",
+                "3032988",
+                "36472277",
+                "370780403",
+                "413282699",
+                "417723483",
+                "432456326",
+                "45070436",
+                "474910408",
+                "479283667",
+                "562193337",
+                "565455317",
+                "585704765",
+                "594659806",
+                "619717787",
+                "621445290",
+                "633104585",
+                "648525845",
+                "67247257",
+                "691588321",
+                "721069388",
+                "730470810",
+                "776365923",
+                "798838025",
+                "805991037",
+                "806553569",
+                "820379027",
+                "832023735",
+                "835938974",
+                "856641056",
+                "86689011",
+                "913198855",
+                "933712659",
+                "955686607",
+                "957984642",
+                "977708706",
+                "978410672",
+                "986166277"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Reload_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1005295112",
+                "148444319",
+                "451606120"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Mag_Out_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "104922119",
+                "510083889",
+                "812691792"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Reload_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "141914021",
+                "772911497",
+                "900675048"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Equip_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "185495110",
+                "488541453",
+                "563570334"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Equip_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "468689334",
+                "507723292",
+                "674303201"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "131796001",
+                "665866274",
+                "856929367"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Reload_Mvt_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "376675052",
+                "465941891",
+                "585125262"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Equip_Mvt_E_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "422233849",
+                "458716138",
+                "533227331"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Inspect_Energy_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1027313991",
+                "772333130",
+                "902570440"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "327745107",
+                "5484962",
+                "89109886"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "278002217",
+                "735481454",
+                "826027378"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Reload_Mag_In_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "540595715",
+                "761297327",
+                "997523851"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Reload_Mag_In_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1070475129",
+                "357413882",
+                "99273759"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Reload_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1062935368",
+                "822439603",
+                "874809817"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/Play_Wp_Carbine_Edge_Reload_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "256566295",
+                "36782298",
+                "986036146"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/T1/Play_Wp_Revolver_Edge_Tier1_Reload_Grab",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "361711424",
+                "413754637",
+                "961706711"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/T1/Play_Wp_Revolver_Edge_Tier1_Equip_OffHammer_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "449099038",
+                "889347765",
+                "971753518"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/T1/Play_Wp_Revolver_Edge_Tier1_Reload_CylOpen_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "138783941",
+                "366611107",
+                "495211747"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/T1/Play_Wp_Revolver_Edge_Tier1_Edge_Equip_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "350052140",
+                "441921177",
+                "728864173"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/T1/Play_Wp_Revolver_Edge_Tier1_Equip_Hammer_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "143389906",
+                "420840175",
+                "561841906"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/T1/Play_Wp_Revolver_Edge_Tier1_Reload_CylClose_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1063254843",
+                "727878853",
+                "894626981"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/T1/Play_Wp_Revolver_Edge_Tier1_Reload_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "548001608",
+                "748796151",
+                "825079627"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/T1/Play_Wp_Revolver_Edge_Tier1_Reload_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "255570285",
+                "704962533",
+                "748295512"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Rev_RE/T1/Play_Wp_Revolver_Edge_Tier1_Reload_Speedloader_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "278480036",
+                "36096167",
+                "552628836"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/CyberPunk/Burst_CyberPunk/Play_Wp_Burst_Rifle_CyberPunk_Fire_Auto",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1020165591",
+                "147009198",
+                "165232080",
+                "197284008",
+                "211916246",
+                "241288178",
+                "255950191",
+                "263670268",
+                "265592065",
+                "273301630",
+                "281682456",
+                "293089189",
+                "303325880",
+                "305862716",
+                "321984694",
+                "328862350",
+                "386638469",
+                "388135705",
+                "397358344",
+                "400904261",
+                "462973942",
+                "470629775",
+                "474223775",
+                "492171538",
+                "502266534",
+                "505991933",
+                "516167208",
+                "548530745",
+                "556639448",
+                "60701949",
+                "61758392",
+                "620745450",
+                "666885361",
+                "686523586",
+                "698025053",
+                "721103611",
+                "734429782",
+                "750986363",
+                "751570537",
+                "755120699",
+                "757041313",
+                "823719400",
+                "840884566",
+                "857644647",
+                "885237723",
+                "887403777",
+                "896399197",
+                "907166074",
+                "914813819",
+                "950084610",
+                "95561572",
+                "961360069",
+                "984093398",
+                "986133324"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/CyberPunk/Burst_CyberPunk/Play_Wp_Burst_Rifle_CyberPunk_Fire_BurstShot2",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1022037718",
+                "1033051696",
+                "1052348781",
+                "1053096308",
+                "1054545266",
+                "1058724466",
+                "150210110",
+                "17042030",
+                "205061723",
+                "249814679",
+                "270308070",
+                "27823983",
+                "281021152",
+                "288657766",
+                "324251867",
+                "395799847",
+                "399241279",
+                "442760307",
+                "454890668",
+                "475482582",
+                "494716171",
+                "522265769",
+                "524272879",
+                "54139894",
+                "589687923",
+                "612466633",
+                "657986229",
+                "682996670",
+                "77032672",
+                "78076390",
+                "784484858",
+                "804447277",
+                "811777436",
+                "817779519",
+                "853848976",
+                "867684380",
+                "883467173",
+                "897892519",
+                "90912802",
+                "922266390",
+                "932687073",
+                "949525656",
+                "960377572",
+                "975036265",
+                "996862379"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Edge/LMG_Edge/Play_Wp_LMG_Edge_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1009343902",
+                "1054667700",
+                "119739870",
+                "143405246",
+                "145305328",
+                "149888544",
+                "180575228",
+                "190018066",
+                "197930669",
+                "234590107",
+                "234997289",
+                "243610173",
+                "268720226",
+                "274856197",
+                "279523713",
+                "314863533",
+                "322853964",
+                "328504578",
+                "340033442",
+                "382089248",
+                "41845372",
+                "424200142",
+                "429816902",
+                "431632772",
+                "448116859",
+                "467413165",
+                "499491543",
+                "507509572",
+                "515990811",
+                "519013971",
+                "530521616",
+                "56960432",
+                "572523525",
+                "583065332",
+                "608288048",
+                "621393885",
+                "63751183",
+                "683826932",
+                "703685186",
+                "735744772",
+                "737261443",
+                "765117428",
+                "790501464",
+                "808415919",
+                "810429460",
+                "811877664",
+                "814862227",
+                "843436743",
+                "849322060",
+                "896962283",
+                "935637708",
+                "936842688",
+                "939448669",
+                "961222247"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Edge/MP5_Edge/Play_Wp_MP5SD_Edge_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1030342529",
+                "1039612796",
+                "126143677",
+                "155984978",
+                "190541469",
+                "2095997",
+                "210209048",
+                "225731311",
+                "341231419",
+                "358309432",
+                "384155551",
+                "417042623",
+                "480646323",
+                "484776782",
+                "529505636",
+                "590654676",
+                "603027250",
+                "613350231",
+                "620351496",
+                "626384955",
+                "701475413",
+                "768882325",
+                "795365226",
+                "797919068",
+                "823994708",
+                "846078345",
+                "867259079",
+                "885859281",
+                "894044693",
+                "898600213",
+                "912090433",
+                "943458502",
+                "964155440"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Assassin/Play_Wp_Melee_Assassin_Inspect_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "113624655",
+                "201886893",
+                "399234147"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Assassin/Play_Wp_Melee_Assassin_Equip_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "192936556",
+                "406925269",
+                "981883780"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoSG_RE/Play_Wp_ShotgunAuto_CP_Reload_Mag_Out_Element",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "235605588",
+                "37327464",
+                "768055071"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoSG_RE/Play_Wp_ShotgunAuto_CP_Reload_Chg_Hndl_Bck_Elm",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "174353959",
+                "506040548",
+                "693448149"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoSG_RE/Play_Wp_ShotgunAuto_CyberPunk_Inspect_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "138635688",
+                "65326530",
+                "895635818"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoSG_RE/Play_Wp_ShotgunAuto_CP_Equip_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "187210613",
+                "449148382",
+                "496490157"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoSG_RE/Play_Wp_ShotgunAuto_CP_Reload_Mag_In_Element",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "134651530",
+                "254376376",
+                "85223526"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoSG_RE/Play_Wp_ShotgunAuto_CyberPunk_Equip_BarrelSlide",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "418598311",
+                "537257110",
+                "958626662"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoSG_RE/Play_Wp_ShotgunAuto_CyberPunk_Inspect_Element_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "440151505",
+                "627387356",
+                "918032032"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoSG_RE/Play_Wp_ShotgunAuto_CyberPunk_Inspect_Element_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1067511897",
+                "169713791",
+                "729506285"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/T1/Play_Wp_Carbine_Edge_Tier1_Equip_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "243162912",
+                "570673384",
+                "638293389"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/T1/Play_Wp_Carbine_Edge_Tier1_Reload_Chg_Hnd_Back_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "474169818",
+                "637924919",
+                "929820007"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/T1/Play_Wp_Carbine_Edge_Tier1_Reload_Chg_Hnd_Fwd_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1061942334",
+                "466999989",
+                "700111907"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/T1/Play_Wp_Carbine_Edge_Tier1_Reload_Mag_In_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "201364486",
+                "568964157",
+                "58843682"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_Carb_RE/T1/Play_Wp_Carbine_Edge_Tier1_Reload_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "10884091",
+                "128895682",
+                "19449889"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Grenadier_CharacterSelect/Play_Grenadier_CharacterSelect_Fidget1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "263220946",
+                "384570786"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Edge/Carbine_Edge/Play_Wp_Carbine_Edge_Silenced_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1000257217",
+                "1013606431",
+                "1021065446",
+                "1030957653",
+                "1059498300",
+                "1064609377",
+                "132840485",
+                "15608121",
+                "171809131",
+                "19817588",
+                "19846297",
+                "23735593",
+                "247440487",
+                "253231749",
+                "278181300",
+                "287420995",
+                "288919808",
+                "346789659",
+                "347331275",
+                "36526880",
+                "370105150",
+                "373034337",
+                "4257123",
+                "446172999",
+                "453867813",
+                "471902159",
+                "483662764",
+                "49046433",
+                "556087702",
+                "557940199",
+                "574908951",
+                "601001861",
+                "604206532",
+                "62171849",
+                "629270200",
+                "651938489",
+                "655877531",
+                "661184588",
+                "666867631",
+                "691798638",
+                "727572187",
+                "740800366",
+                "790412770",
+                "896551422",
+                "912923756",
+                "915413427",
+                "91828322",
+                "921335286",
+                "937276135",
+                "987320214"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_HypeBeast/Play_Wp_Melee_HypeBeast_HitConfirm",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1019927536",
+                "1031235186",
+                "2056062",
+                "288199483",
+                "394734683",
+                "518631198",
+                "633912763",
+                "727068874",
+                "787495452",
+                "907473528",
+                "957241505",
+                "983304019"
+            ]
+        }
+    }
+]

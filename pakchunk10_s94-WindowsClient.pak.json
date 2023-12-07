@@ -1,0 +1,35 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_AK47_RE/Play_Wp_AK47_Aquarium_Reload_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "223668944",
+                "771647506",
+                "808185193"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_AK47_RE/Play_Wp_AK47_Aquarium_MagOut_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "329545432",
+                "471180995",
+                "771831866"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_DMR_RE/Play_Wp_DMR_Ashen_Reload_Elem_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "150231700",
+                "252320609",
+                "867243900"
+            ]
+        }
+    }
+]

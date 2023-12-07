@@ -1,0 +1,65 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Grenadier_SFX/Abilities/X/Play_Grenadier_AbilX_UI_Recharge_End_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "966325118"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/LMG_RE/Play_Wp_LMG_Reload_Mag_Out_TP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "753632647"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Killjoy_SFX/Abilities/Swarm/Play_Killjoy_Abil_Nanoswarm_Projectile_Land",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "560755998"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_InGame/InGame/Play_UI_Ping_Intention",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1039191558"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/BombMode/Events_Spike/3P/Play_Bomb_Plant_Outro_02",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "600873242"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/Play_UI_EoG_Button_ExitToChannel_UnHover",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "462901520"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Aggrobot_SFX/Aggrobot_E/E/Play_Aggrobot_AbilE_Zamboni_Destroyed",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "788462799"
+            ]
+        }
+    }
+]

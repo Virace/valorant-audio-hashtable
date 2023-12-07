@@ -1,0 +1,68 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_CyberPunk/Play_UI_KillBanner_CyberPunk",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "213248607"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Inspect_Energy_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "263106689"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_SCOPE_IN_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "476643694"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Edge/Play_UI_KillBanner_Edge",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "117999003"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Edge/Play_UI_KillBanner_Edge",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "460763716"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_MP5_RE/Play_Wp_MP5_Edge_Reload_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1019285258",
+                "174360573",
+                "219388414"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Finisher/Events_Guns_Edge_Finisher/Play_Wp_Finisher_Edge",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "151342873",
+                "573738429"
+            ]
+        }
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Carbine_RE/Play_Wp_Carbine_SOL_Reload_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "613878833",
+                "637838078",
+                "906841569"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/MonkeyKing/Luger_MonkeyKing/Play_Wp_Luger_Sil_MonkeyKing_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1018115343",
+                "102609809",
+                "1035626927",
+                "1037246235",
+                "1049532238",
+                "133764869",
+                "145671212",
+                "165925948",
+                "201072382",
+                "234623627",
+                "301077978",
+                "321573961",
+                "326327004",
+                "326543082",
+                "384428774",
+                "403978080",
+                "431832745",
+                "562823910",
+                "577099258",
+                "597444516",
+                "601431131",
+                "603858739",
+                "61012386",
+                "654027170",
+                "735016516",
+                "739197852",
+                "777201631",
+                "782900178",
+                "784510526",
+                "791220917",
+                "854324598",
+                "883001279",
+                "8854430",
+                "980619079"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Equip_Shell_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "475093274",
+                "612709490",
+                "835574703"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Inspect_Shell_Mvt_J_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "208670572",
+                "310884516",
+                "925622241"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen2/Play_Wp_Melee_Ashen2_Knife_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "1050028911",
+                "315689030",
+                "333571345",
+                "335472356",
+                "347634037",
+                "358977396",
+                "451398843",
+                "46245546",
+                "480634131",
+                "672386963",
+                "698555041",
+                "746703895",
+                "774108237",
+                "80010569",
+                "893797965",
+                "913050503",
+                "919604037"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoSG_RE/Play_Wp_ShotgunAuto_CP_Equip_Mvt_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "136067465",
+                "543562535",
+                "904913520"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_AutoSG_RE/Play_Wp_ShotgunAuto_CyberPunk_Inspect_Mvt_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "303544457",
+                "305430759",
+                "401041738"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Dynasty/Play_Wp_Melee_Dynasty_Lv2_Equip_Mvt_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1046057465",
+                "19989821",
+                "680757592"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Mythic_RE/Mythic_Lever_RE/Play_Wp_Lever_Mythic_Inspect_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "40524526",
+                "686190962",
+                "883457771"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_Luger_RE/Play_Wp_Luger_MonkeyKing_Reload_Mag_Out_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "234418311",
+                "451475970",
+                "777205540"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/XP1/Revolver_XP1/Play_Wp_Revolver_XP1_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1008481688",
+                "1017801432",
+                "1023723615",
+                "115393362",
+                "133138711",
+                "172942338",
+                "173203794",
+                "192965671",
+                "199812800",
+                "201324071",
+                "211116273",
+                "212738668",
+                "227858069",
+                "229236506",
+                "230348184",
+                "261504780",
+                "27549686",
+                "283984153",
+                "298328462",
+                "31113730",
+                "347694682",
+                "370780403",
+                "390428039",
+                "401914652",
+                "412072132",
+                "413282699",
+                "432456326",
+                "45679471",
+                "457165848",
+                "474910408",
+                "479283667",
+                "562193337",
+                "565455317",
+                "585704765",
+                "594659806",
+                "599882913",
+                "621445290",
+                "626363898",
+                "628279848",
+                "633104585",
+                "641919258",
+                "648525845",
+                "668921838",
+                "691588321",
+                "721069388",
+                "754719322",
+                "776365923",
+                "798838025",
+                "805991037",
+                "806553569",
+                "823694843",
+                "837745484",
+                "856641056",
+                "86689011",
+                "913198855",
+                "922525379",
+                "933712659",
+                "957984642",
+                "977708706",
+                "978410672",
+                "986166277"
+            ]
+        }
+    }
+]

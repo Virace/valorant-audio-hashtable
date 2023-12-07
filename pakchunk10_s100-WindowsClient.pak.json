@@ -1,0 +1,2327 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_AK_RE/Play_Wp_AK47_Ashen_MagIn_End_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "183246045",
+                "39287805",
+                "517760693"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Reload_Belt_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "260487791",
+                "319230729",
+                "780256314"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Reload_Ele_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "37132362",
+                "612237973",
+                "976042602"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Reload_Top_Open_End_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "14809853",
+                "496401980",
+                "999080822"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Inspect_Grab_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "787755322",
+                "839532073",
+                "907689449"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_BoltSniper_RE/Play_Wp_BoltSniper_Antares_Equip_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "172445545",
+                "26427007",
+                "992840473"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Antares/AK47_Antares/Play_Wp_AK47_Antares_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "101145424",
+                "1020396756",
+                "1020579393",
+                "1031155163",
+                "1040461877",
+                "1048739096",
+                "1067141511",
+                "115668874",
+                "117520001",
+                "269899832",
+                "309073256",
+                "314932286",
+                "345148982",
+                "355106021",
+                "396251375",
+                "405569936",
+                "422813352",
+                "436971189",
+                "440424260",
+                "47266145",
+                "485745955",
+                "520614860",
+                "528677974",
+                "562884538",
+                "584020184",
+                "598810260",
+                "611288526",
+                "617955534",
+                "620013597",
+                "620138329",
+                "632916505",
+                "664650975",
+                "719203595",
+                "727196755",
+                "736949655",
+                "739633805",
+                "777750464",
+                "839057616",
+                "884887133",
+                "904872551",
+                "939165295",
+                "953397436",
+                "968970412",
+                "991547272"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AK_RE/Play_Wp_AK_Dynasty_MagIn_Start_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "221436235",
+                "465943587",
+                "861938487"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AK_RE/Play_Wp_AK_Dynasty_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "473577133",
+                "562342016",
+                "9162933"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Antares/Play_Wp_Melee_Antares_Slash_Lvl1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "126354902",
+                "155512916",
+                "175700149",
+                "347634037",
+                "358977396",
+                "46245546",
+                "510718321",
+                "532045350",
+                "672386963",
+                "674701227",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Carbine_RE/Play_Wp_Carbine_SOL_Inspect_Mvt_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "273906702",
+                "473882420",
+                "794398154"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LMG_RE/Play_Wp_LMG_Ashen_Reload_Mag_Out_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "455135438",
+                "595621914",
+                "638823217"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Pump_RE/Play_Wp_Shotgun_Pump_Motor_Reload_Mvt_B_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "298936075",
+                "504106197",
+                "770241850"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_AK_RE/Play_Wp_AK_Motor_Reload_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "158492651",
+                "183545296",
+                "797269919"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_LMG_RE/Play_Wp_LMG_MonkeyKing_Reload_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1058426754",
+                "323623193",
+                "718090411"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Mythic/Play_Wp_Melee_Mythic_Lv2_Heavy_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "1055022488",
+                "347634037",
+                "358977396",
+                "46245546",
+                "664337506",
+                "672386963",
+                "686441178",
+                "687150025",
+                "699226858",
+                "745966586",
+                "82264801",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Carbine_RE/Play_Wp_Carbine_Ashen_Mag_Out_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "193022956",
+                "876077513",
+                "942337997"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Ashen/Play_Wp_Carbine_Sil_Ashen_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1000257217",
+                "1013606431",
+                "1030957653",
+                "1064609377",
+                "121204487",
+                "132840485",
+                "152634226",
+                "15608121",
+                "174453464",
+                "19817588",
+                "23735593",
+                "247440487",
+                "253231749",
+                "273059191",
+                "278181300",
+                "279236568",
+                "287420995",
+                "288919808",
+                "334458477",
+                "346789659",
+                "36526880",
+                "370105150",
+                "373034337",
+                "411627809",
+                "4257123",
+                "446172999",
+                "453867813",
+                "468128758",
+                "483662764",
+                "54350032",
+                "556087702",
+                "557940199",
+                "573565616",
+                "574908951",
+                "629270200",
+                "651938489",
+                "666867631",
+                "670224354",
+                "727572187",
+                "740800366",
+                "745451459",
+                "748887292",
+                "790412770",
+                "828266163",
+                "896551422",
+                "912923756",
+                "91828322",
+                "921335286",
+                "937276135"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Ashen/Play_Wp_LMG_Ashen_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1035405212",
+                "119739870",
+                "143405246",
+                "149888544",
+                "234590107",
+                "243610173",
+                "260985928",
+                "279523713",
+                "314863533",
+                "328504578",
+                "422066863",
+                "431632772",
+                "447568369",
+                "448116859",
+                "467413165",
+                "490223859",
+                "492853117",
+                "519013971",
+                "56960432",
+                "572523525",
+                "621393885",
+                "63751183",
+                "692856504",
+                "728983568",
+                "735744772",
+                "737261443",
+                "74951383",
+                "811877664",
+                "849322060",
+                "850619115",
+                "854890500",
+                "88878594",
+                "899538642",
+                "935637708",
+                "936842688",
+                "939448669",
+                "940497072",
+                "993529240"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Ashen/Play_Wp_Shotgun_Sawed_Off_Ashen_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1003421811",
+                "150149766",
+                "176826881",
+                "196610742",
+                "229609369",
+                "315593476",
+                "331517859",
+                "348835473",
+                "353282970",
+                "359953930",
+                "374189230",
+                "385641258",
+                "388206303",
+                "434678562",
+                "494488970",
+                "49644406",
+                "72425694",
+                "800388753",
+                "895101081",
+                "898171371",
+                "904859273",
+                "943271936",
+                "99484984"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Ashen/Shotgun_Pump_Ashen/Play_Wp_Shotgun_Pump_Fire_Ashen_Normal",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1023008062",
+                "161093362",
+                "161953467",
+                "162710675",
+                "266365031",
+                "307674630",
+                "319366408",
+                "329419755",
+                "341377687",
+                "377089073",
+                "379530641",
+                "386106031",
+                "387631375",
+                "390595680",
+                "392577348",
+                "450668720",
+                "490568402",
+                "499669997",
+                "500572170",
+                "53447751",
+                "562046485",
+                "574672703",
+                "627544647",
+                "682992564",
+                "714442325",
+                "747121979",
+                "760173838",
+                "782347675",
+                "841745088",
+                "89058281",
+                "941535997",
+                "948021465",
+                "96803284",
+                "969723110"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Ashen/Shotgun_Pump_Ashen/Play_Wp_Shotgun_Pump_Ashen_Fire_Alt",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1039992769",
+                "114008332",
+                "156328156",
+                "203875830",
+                "226370438",
+                "257962996",
+                "310045379",
+                "35015320",
+                "387715048",
+                "424852469",
+                "436536365",
+                "525376158",
+                "527744304",
+                "587344443",
+                "613449576",
+                "720601525",
+                "773289638",
+                "790295038",
+                "80701776",
+                "931417167",
+                "943859857"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Ashen/Shotgun_Pump_Ashen/Play_Wp_Shotgun_Pump_Fire_Ashen_Alt_RemoteBlast",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1023008062",
+                "127546851",
+                "161093362",
+                "162710675",
+                "266365031",
+                "307674630",
+                "319366408",
+                "329419755",
+                "341377687",
+                "379530641",
+                "386106031",
+                "387631375",
+                "392577348",
+                "450668720",
+                "490568402",
+                "500572170",
+                "53447751",
+                "562046485",
+                "574672703",
+                "682992564",
+                "709298443",
+                "747121979",
+                "760173838",
+                "782347675",
+                "841745088",
+                "89058281",
+                "941535997",
+                "948021465",
+                "953952464",
+                "96803284",
+                "969723110"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_BoltSniper_RE/Play_Wp_BoltSniper_Dynasty_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1025550037",
+                "401931426",
+                "512689339"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_BoltSniper_RE/Play_Wp_BoltSniper_Dynasty_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "217274127",
+                "678723895",
+                "952527825"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Fluorescent_Light_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1031259451"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Sawed_Off_RE/Play_Wp_Sawed_Off_Antares_Reload_Open",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "27690481",
+                "488133856",
+                "98784535"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Loops/Play_Emitter_Bowl_Rad_BH_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "405743479",
+                "594856721"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Loops/Play_Emitter_Bowl_Rad_Tube",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "427239369",
+                "708540689",
+                "954621806"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/OneShots/Play_Hurm_Bowl_Amb_Radianite_Window",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "260986059",
+                "466500680"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_AtkSpwn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1005027709",
+                "138854593",
+                "18298966"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_AtkSpwn_Ext",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "138854593",
+                "409883215",
+                "440610271",
+                "575645713",
+                "744813834",
+                "771331369"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_AtktoDef_Trans_Ext",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "111332685",
+                "138854593",
+                "352812804",
+                "409883215",
+                "447677419",
+                "575645713",
+                "716964259",
+                "771331369",
+                "944666260"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_AtktoDef_Trans_Ext",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "251678819",
+                "575645713",
+                "85596549"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_DefSpwn_1_Main",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "251678819",
+                "388575108",
+                "409663004",
+                "409883215",
+                "447677419",
+                "575645713",
+                "671580494"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_DefSpwn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "244252463",
+                "251678819",
+                "388575108",
+                "409883215",
+                "671580494",
+                "686406818"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_DefSpwn_Ext",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1068341519",
+                "764470595",
+                "942438620"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Bowl/Volumes/Play_BG_Bowl_DefSpwn_Ext",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1068341519",
+                "251678819",
+                "575645713",
+                "71047067"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/Hurm/Events_Hrum_Orbs/Hurm_Orb_Healing/Play_Hurm_Orb_Healing_RegenEffect_Cutoff",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "656997987",
+                "773023445"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Burst_RE/Play_Wp_BurstRifle_Antares_Reload_Ele_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "301398013",
+                "365341254",
+                "499381800"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Mythic_RE/Mythic_AK47_RE/Play_Wp_AK47_Mythic_Inspect_Ele_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1005843148",
+                "19843760",
+                "582156106"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Finisher/Events_Guns_Antares_Finisher/Play_Wp_Finisher_Antares_Secondary",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "194096973",
+                "383003407",
+                "395318512",
+                "703851897"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Finisher/Events_Guns_Champions3_Finisher/Play_Wp_Finisher_Champion3_Far",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "190929465",
+                "22935983",
+                "368632227",
+                "565580967",
+                "816297683",
+                "983443921"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Finisher/Events_Guns_Champions3_Finisher/Play_Wp_Finisher_Champions3_Transition",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1055089495",
+                "677643539"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Finisher/Events_Guns_Champions3_Finisher/Stop_Wp_Finisher_Champions3_Close_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1055089495",
+                "677643539"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Finisher/Events_Guns_Dynasty_Finisher/Play_Wp_Finisher_Dynasty",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "10544942",
+                "118147345",
+                "137230833",
+                "362198463",
+                "626294720",
+                "820735755",
+                "936874985"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Alien/AutoPistol_Alien/Play_Wp_AutoPistol_Alien_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1004486131",
+                "100690719",
+                "1008910489",
+                "1014573130",
+                "1018471327",
+                "1034777552",
+                "1051905732",
+                "1065886215",
+                "142656338",
+                "147906470",
+                "151923624",
+                "169516728",
+                "196528455",
+                "201701867",
+                "21348701",
+                "218653209",
+                "240498021",
+                "245965466",
+                "253315888",
+                "265039248",
+                "26867299",
+                "314688008",
+                "326169430",
+                "345092362",
+                "351731584",
+                "36038674",
+                "3695999",
+                "403199519",
+                "426695577",
+                "43550678",
+                "458800246",
+                "482036093",
+                "504345541",
+                "525206633",
+                "531174252",
+                "548243371",
+                "568068233",
+                "590803326",
+                "596530026",
+                "652431613",
+                "665868348",
+                "674045949",
+                "714616261",
+                "765507685",
+                "774897732",
+                "777077042",
+                "810326110",
+                "81118182",
+                "832690640",
+                "853785669",
+                "875286472",
+                "888917458",
+                "892939906",
+                "902380789",
+                "905606528",
+                "950647311",
+                "96528031",
+                "96817681",
+                "979826558"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Alien/Carbine_Alien/Play_Wp_Carbine_Alien_Fire_FP_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1050176281",
+                "351821835",
+                "627892474"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Alien/Carbine_Alien/Play_Wp_Carbine_Alien_Fire_FP_Loop_Tails",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "33338925",
+                "48930028",
+                "568019701"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Alien/HMG_Alien/Play_Wp_HMG_Alien_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1008975621",
+                "1024361052",
+                "103409121",
+                "1055171059",
+                "126678484",
+                "184241766",
+                "186485516",
+                "193192267",
+                "208481655",
+                "24422536",
+                "254310651",
+                "255318042",
+                "311744580",
+                "373253599",
+                "376571524",
+                "482325397",
+                "48992893",
+                "518292695",
+                "588327665",
+                "652775590",
+                "689721709",
+                "716661228",
+                "773884501",
+                "783134800",
+                "790454423",
+                "801027919",
+                "803203158",
+                "822608170",
+                "829764058",
+                "838867936",
+                "846111941",
+                "866728615",
+                "936472580",
+                "93870877",
+                "952933149",
+                "970957382",
+                "977464722"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Alien/PumpShot_Alien/Play_Wp_Shotgun_Pump_Alien_Fire_Alt",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1039992769",
+                "114008332",
+                "156328156",
+                "226370438",
+                "310045379",
+                "35015320",
+                "387715048",
+                "413205767",
+                "424852469",
+                "436536365",
+                "525376158",
+                "527744304",
+                "587344443",
+                "682212818",
+                "720601525",
+                "773289638",
+                "790295038",
+                "80701776",
+                "871270679",
+                "931417167",
+                "943859857"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Alien/PumpShot_Alien/Play_Wp_Shotgun_Pump_Alien_Fire_Alt_RemoteBlast",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1023008062",
+                "161093362",
+                "162710675",
+                "266365031",
+                "307674630",
+                "319366408",
+                "329419755",
+                "341377687",
+                "386106031",
+                "392577348",
+                "450668720",
+                "490568402",
+                "500572170",
+                "53447751",
+                "562046485",
+                "682992564",
+                "747121979",
+                "760173838",
+                "782347675",
+                "841745088",
+                "89058281",
+                "941535997",
+                "948021465",
+                "96803284"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Alien/PumpShot_Alien/Play_Wp_Shotgun_Pump_Alien_Fire_Normal",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1023008062",
+                "161093362",
+                "162710675",
+                "186943431",
+                "266365031",
+                "294020533",
+                "307674630",
+                "315568840",
+                "319366408",
+                "329419755",
+                "341377687",
+                "350984512",
+                "386106031",
+                "392577348",
+                "450668720",
+                "48897443",
+                "490568402",
+                "500572170",
+                "501694336",
+                "53447751",
+                "562046485",
+                "618424043",
+                "642131165",
+                "682992564",
+                "747121979",
+                "760173838",
+                "774266657",
+                "782347675",
+                "841745088",
+                "89058281",
+                "941535997",
+                "948021465",
+                "953020522",
+                "96803284"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Antares/Burst_Antares/Play_Wp_Burst_Rifle_Antares_Fire_BurstShot1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1022037718",
+                "1033051696",
+                "1047409860",
+                "1049873655",
+                "1053096308",
+                "1054545266",
+                "1058724466",
+                "147996364",
+                "150210110",
+                "17042030",
+                "205061723",
+                "247351578",
+                "249814679",
+                "270308070",
+                "281021152",
+                "324251867",
+                "395799847",
+                "399241279",
+                "442760307",
+                "454890668",
+                "475482582",
+                "494716171",
+                "524272879",
+                "592020118",
+                "657986229",
+                "682996670",
+                "710218498",
+                "755390735",
+                "77032672",
+                "78076390",
+                "784484858",
+                "804447277",
+                "811777436",
+                "817779519",
+                "853848976",
+                "867684380",
+                "883467173",
+                "897892519",
+                "918320103",
+                "922266390",
+                "949525656",
+                "960377572",
+                "964770463",
+                "996862379"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Antares/Burst_Antares/Play_Wp_Burst_Rifle_Antares_Fire_BurstShot2",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1022037718",
+                "1033051696",
+                "1047409860",
+                "1049873655",
+                "1053096308",
+                "1054545266",
+                "1058724466",
+                "147996364",
+                "150210110",
+                "17042030",
+                "205061723",
+                "247351578",
+                "249814679",
+                "270308070",
+                "281021152",
+                "324251867",
+                "395799847",
+                "399241279",
+                "442760307",
+                "454890668",
+                "475482582",
+                "494716171",
+                "524272879",
+                "592020118",
+                "657986229",
+                "682996670",
+                "710218498",
+                "755390735",
+                "77032672",
+                "78076390",
+                "784484858",
+                "804447277",
+                "811777436",
+                "817779519",
+                "853848976",
+                "867684380",
+                "883467173",
+                "897892519",
+                "918320103",
+                "922266390",
+                "949525656",
+                "960377572",
+                "964770463",
+                "996862379"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Antares/Burst_Antares/Play_Wp_Burst_Rifle_Antares_Fire_BurstShot3",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1020165591",
+                "1033630226",
+                "1047409860",
+                "1049873655",
+                "147009198",
+                "147996364",
+                "197284008",
+                "211916246",
+                "247351578",
+                "265592065",
+                "305862716",
+                "328862350",
+                "386638469",
+                "388135705",
+                "404159205",
+                "462973942",
+                "470629775",
+                "474223775",
+                "492171538",
+                "505991933",
+                "556639448",
+                "592020118",
+                "60701949",
+                "61758392",
+                "620745450",
+                "661076888",
+                "666885361",
+                "698025053",
+                "710218498",
+                "721103611",
+                "734429782",
+                "750986363",
+                "751570537",
+                "755120699",
+                "755390735",
+                "757041313",
+                "823719400",
+                "838296558",
+                "840884566",
+                "857644647",
+                "885237723",
+                "887403777",
+                "896399197",
+                "914813819",
+                "918320103",
+                "961360069",
+                "964770463",
+                "996763238"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Antares/Sawed_Off_Antares/Play_Wp_Shotgun_Sawed_Off_Antares_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1003421811",
+                "1023808215",
+                "150149766",
+                "176826881",
+                "229609369",
+                "294272905",
+                "315593476",
+                "331517859",
+                "348835473",
+                "353282970",
+                "374189230",
+                "434678562",
+                "494488970",
+                "61108991",
+                "72425694",
+                "732714822",
+                "800388753",
+                "871925631",
+                "883299343",
+                "895101081",
+                "898171371",
+                "904859273",
+                "99484984"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Aquarium/DMR_Aquarium/Play_Wp_DMR_Aquarium_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1031890813",
+                "1040475417",
+                "1061039528",
+                "120214370",
+                "133650714",
+                "149702992",
+                "191259764",
+                "223152301",
+                "233527462",
+                "237199485",
+                "274891843",
+                "286379668",
+                "288291825",
+                "307023862",
+                "330868912",
+                "332242291",
+                "342124496",
+                "36641051",
+                "367342105",
+                "377853413",
+                "382214713",
+                "423845997",
+                "431020514",
+                "432524020",
+                "444842126",
+                "46481622",
+                "476679320",
+                "479242440",
+                "499864640",
+                "50945478",
+                "587850814",
+                "601815855",
+                "625789604",
+                "663800505",
+                "674647215",
+                "676026468",
+                "742690380",
+                "749495281",
+                "762497529",
+                "788080472",
+                "788852309",
+                "790855229",
+                "807185656",
+                "823090258",
+                "865366845",
+                "870006067",
+                "89584044",
+                "928698702",
+                "928719747",
+                "946253431",
+                "946641479",
+                "978454151",
+                "983697773"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Aquarium/Shotgun_Sawed_Off_Aquarium/Play_Wp_Shotgun_Sawed_Off_Aquarium_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1003421811",
+                "1033035740",
+                "1056526112",
+                "150149766",
+                "176826881",
+                "185074722",
+                "229609369",
+                "315593476",
+                "331517859",
+                "348835473",
+                "353282970",
+                "369801113",
+                "374189230",
+                "434678562",
+                "442907708",
+                "494488970",
+                "650964888",
+                "708876241",
+                "72425694",
+                "772804161",
+                "800388753",
+                "870420198",
+                "895101081",
+                "898171371",
+                "904859273",
+                "99484984"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Champions3/Play_Wp_AK47_Champions3_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "101145424",
+                "1020396756",
+                "1020579393",
+                "1031155163",
+                "1040461877",
+                "1067141511",
+                "115668874",
+                "157477708",
+                "307266574",
+                "316679967",
+                "330567761",
+                "345148982",
+                "355106021",
+                "371068495",
+                "381122436",
+                "396251375",
+                "436971189",
+                "47266145",
+                "498274552",
+                "562884538",
+                "584020184",
+                "598810260",
+                "611288526",
+                "620013597",
+                "620138329",
+                "632916505",
+                "664650975",
+                "683762341",
+                "727196755",
+                "736949655",
+                "739633805",
+                "806428924",
+                "839057616",
+                "884887133",
+                "904872551",
+                "939165295",
+                "953397436",
+                "956353489",
+                "968970412"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Dynasty/BoltSniper_Dynasty/Play_Wp_BoltSniper_Dynasty_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1024815437",
+                "106030207",
+                "14456982",
+                "184428878",
+                "199115945",
+                "202668239",
+                "223460808",
+                "300712555",
+                "326126193",
+                "359525813",
+                "377068215",
+                "381822845",
+                "394298699",
+                "428088389",
+                "457109324",
+                "479306507",
+                "483834223",
+                "496436440",
+                "507090409",
+                "565700311",
+                "580305131",
+                "582464340",
+                "639276345",
+                "645866905",
+                "703604297",
+                "709099852",
+                "776783105",
+                "785890019",
+                "812954445",
+                "83308115",
+                "837736910",
+                "838781580",
+                "849264891",
+                "860859999",
+                "88951805",
+                "951654770",
+                "965927989",
+                "991839137"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Dynasty/Revolver_Dynasty/Play_Wp_Revolver_Dynasty_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1001093089",
+                "1023723615",
+                "1027539814",
+                "1062276456",
+                "1068631106",
+                "115393362",
+                "129956963",
+                "137037099",
+                "199812800",
+                "211116273",
+                "229236506",
+                "232403622",
+                "248822823",
+                "258119972",
+                "261504780",
+                "267290648",
+                "28916433",
+                "289750292",
+                "292560535",
+                "294324105",
+                "298328462",
+                "314896825",
+                "370780403",
+                "381522214",
+                "389152958",
+                "403965319",
+                "413282699",
+                "432456326",
+                "443726165",
+                "474910408",
+                "479283667",
+                "534604996",
+                "547272811",
+                "548526944",
+                "565455317",
+                "585704765",
+                "594659806",
+                "606417332",
+                "621445290",
+                "633104585",
+                "648525845",
+                "656433083",
+                "668045290",
+                "679745858",
+                "691588321",
+                "697336428",
+                "748522488",
+                "798838025",
+                "805991037",
+                "806553569",
+                "83028419",
+                "856641056",
+                "86689011",
+                "883327542",
+                "886665726",
+                "891840489",
+                "900558672",
+                "900581791",
+                "902797087",
+                "913198855",
+                "933712659",
+                "957984642",
+                "977708706",
+                "978410672",
+                "986166277"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/MonkeyKing/AK_MonkeyKing/Play_Wp_AK47_MonkeyKing_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "101145424",
+                "1020396756",
+                "1020579393",
+                "1031155163",
+                "1040461877",
+                "1067141511",
+                "115668874",
+                "175924194",
+                "248213446",
+                "248588986",
+                "325432532",
+                "345148982",
+                "355106021",
+                "396251375",
+                "436971189",
+                "447625030",
+                "47266145",
+                "562884538",
+                "584020184",
+                "598810260",
+                "611288526",
+                "614106989",
+                "616892910",
+                "620013597",
+                "620138329",
+                "627635905",
+                "632916505",
+                "639335136",
+                "664650975",
+                "727196755",
+                "736949655",
+                "739633805",
+                "74776385",
+                "789871865",
+                "800190373",
+                "839057616",
+                "853039426",
+                "884887133",
+                "890926352",
+                "904872551",
+                "939165295",
+                "953397436",
+                "959239367",
+                "968970412"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/MonkeyKing/LMG_MonkeyKing/Play_Wp_LMG_MonkeyKing_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1054735801",
+                "119739870",
+                "143405246",
+                "149888544",
+                "234590107",
+                "243610173",
+                "279523713",
+                "314863533",
+                "328504578",
+                "3436417",
+                "373689571",
+                "4251567",
+                "431632772",
+                "448116859",
+                "467413165",
+                "519013971",
+                "522859279",
+                "523464678",
+                "553668040",
+                "56960432",
+                "572523525",
+                "621393885",
+                "631269472",
+                "63751183",
+                "704215319",
+                "735744772",
+                "737261443",
+                "768716020",
+                "811877664",
+                "845904421",
+                "849322060",
+                "889110346",
+                "935637708",
+                "936842688",
+                "939448669",
+                "939691976",
+                "942920720",
+                "954356091"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/MotorBike/AK_Motor/Play_Wp_AK_Motor_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "101145424",
+                "1014645989",
+                "1020396756",
+                "1020579393",
+                "1028945154",
+                "1031155163",
+                "1040461877",
+                "1067141511",
+                "115668874",
+                "345148982",
+                "355106021",
+                "396251375",
+                "416977151",
+                "436971189",
+                "47266145",
+                "505601302",
+                "509059113",
+                "528226445",
+                "562884538",
+                "584020184",
+                "598810260",
+                "603783883",
+                "611288526",
+                "620013597",
+                "620138329",
+                "632916505",
+                "657900712",
+                "664650975",
+                "669551242",
+                "70368320",
+                "714700294",
+                "727196755",
+                "736949655",
+                "739633805",
+                "786136520",
+                "839057616",
+                "884887133",
+                "904872551",
+                "93482293",
+                "939165295",
+                "942041572",
+                "953397436",
+                "968970412",
+                "96902507",
+                "97278063"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/MotorBike/Pump_Motor/Play_Wp_Pump_Motor_Fire_Alt_RemoteBlast",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1023008062",
+                "1033056699",
+                "138716808",
+                "161093362",
+                "162710675",
+                "210718798",
+                "266365031",
+                "282405286",
+                "297878432",
+                "307674630",
+                "319366408",
+                "329419755",
+                "329947712",
+                "333283172",
+                "341377687",
+                "386106031",
+                "392577348",
+                "402397276",
+                "409953634",
+                "450668720",
+                "490568402",
+                "500572170",
+                "53447751",
+                "562046485",
+                "624677599",
+                "682992564",
+                "747121979",
+                "751517707",
+                "760173838",
+                "782347675",
+                "790475102",
+                "841745088",
+                "89058281",
+                "941535997",
+                "948021465",
+                "96803284"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/MotorBike/Pump_Motor/Play_Wp_Pump_Motor_Fire_Normal",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1023008062",
+                "125360932",
+                "161093362",
+                "162710675",
+                "177458127",
+                "210718798",
+                "266365031",
+                "297878432",
+                "307674630",
+                "310298846",
+                "315568840",
+                "319366408",
+                "329419755",
+                "329947712",
+                "341377687",
+                "386106031",
+                "392577348",
+                "405667134",
+                "409953634",
+                "44400586",
+                "450668720",
+                "490568402",
+                "500572170",
+                "501694336",
+                "53447751",
+                "562046485",
+                "571059344",
+                "582704476",
+                "600378788",
+                "617111162",
+                "682992564",
+                "72364196",
+                "747121979",
+                "760173838",
+                "768634972",
+                "774266657",
+                "782347675",
+                "841745088",
+                "87870231",
+                "89058281",
+                "941535997",
+                "948021465",
+                "96803284"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/MotorBike/Revolver_Motor/Play_Wp_Revolver_Motor_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1023723615",
+                "1037534024",
+                "1039917524",
+                "1047239597",
+                "1073352329",
+                "115393362",
+                "125545921",
+                "169198281",
+                "182956114",
+                "194452095",
+                "199812800",
+                "211116273",
+                "229023375",
+                "229236506",
+                "23827403",
+                "261504780",
+                "290603894",
+                "298328462",
+                "313521700",
+                "316189458",
+                "334490098",
+                "370780403",
+                "405667134",
+                "413282699",
+                "413381137",
+                "432456326",
+                "44400586",
+                "474910408",
+                "479283667",
+                "489142045",
+                "492019135",
+                "565455317",
+                "566126227",
+                "5708335",
+                "571059344",
+                "575165034",
+                "585704765",
+                "594659806",
+                "621445290",
+                "624938295",
+                "630850412",
+                "633104585",
+                "648525845",
+                "652954469",
+                "658875572",
+                "664446517",
+                "665752411",
+                "675564406",
+                "691588321",
+                "696792166",
+                "720206707",
+                "739967955",
+                "740432568",
+                "752978032",
+                "798838025",
+                "805991037",
+                "806553569",
+                "827695969",
+                "856641056",
+                "86689011",
+                "871270221",
+                "87870231",
+                "883491656",
+                "913198855",
+                "933712659",
+                "957984642",
+                "977708706",
+                "978410672",
+                "986166277"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/MotorBike/Vector_Motor/Play_Wp_Vector_Motor_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1039184011",
+                "111672913",
+                "114382473",
+                "12961113",
+                "129945908",
+                "142357495",
+                "144748706",
+                "155149830",
+                "186680710",
+                "213145029",
+                "237283589",
+                "250698113",
+                "269223002",
+                "275504824",
+                "306229404",
+                "413193671",
+                "415556103",
+                "421790594",
+                "459869069",
+                "503492511",
+                "505858996",
+                "510162909",
+                "597362552",
+                "605183586",
+                "609571400",
+                "624954078",
+                "637156340",
+                "657114030",
+                "685175030",
+                "727359260",
+                "738737814",
+                "741710193",
+                "787260074",
+                "795940096",
+                "811325684",
+                "817013495",
+                "842316951",
+                "850771958",
+                "86176495",
+                "882331511",
+                "886624901",
+                "901638947",
+                "929113471",
+                "939797765",
+                "941291247",
+                "972018758",
+                "976546482",
+                "980380122"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/MotorBike/Vector_Motor/Play_Wp_Vector_Motor_Fire_Last",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1039184011",
+                "1051832376",
+                "114382473",
+                "122966472",
+                "123827623",
+                "125102142",
+                "129583089",
+                "142357495",
+                "170794941",
+                "195911706",
+                "250698113",
+                "253653258",
+                "255690116",
+                "313925157",
+                "350192872",
+                "378377128",
+                "401785630",
+                "406092097",
+                "490580121",
+                "505858996",
+                "571500721",
+                "572323391",
+                "573557373",
+                "578634694",
+                "599707000",
+                "600101030",
+                "637674627",
+                "638877886",
+                "6394635",
+                "657114030",
+                "665247946",
+                "689597615",
+                "699500613",
+                "71383848",
+                "714368663",
+                "741710193",
+                "758278426",
+                "786785496",
+                "813331685",
+                "817013495",
+                "82316299",
+                "836302256",
+                "838502976",
+                "843242407",
+                "848768522",
+                "850502620",
+                "851889794",
+                "919883992",
+                "920223212",
+                "93528501",
+                "944673056",
+                "963452054"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Permafrost/BasePistol_Permafrost/Play_Wp_Pistol_Permafrost_Fire_Normal",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1007037906",
+                "1028706848",
+                "115284303",
+                "142866520",
+                "179599058",
+                "190961617",
+                "225085498",
+                "22881525",
+                "238982497",
+                "241595823",
+                "246676150",
+                "272503527",
+                "280565434",
+                "299214904",
+                "326327004",
+                "332420333",
+                "34505490",
+                "352409984",
+                "374039697",
+                "374174281",
+                "392544631",
+                "406089550",
+                "416042837",
+                "428253112",
+                "472147066",
+                "501838491",
+                "50389445",
+                "512952156",
+                "597444516",
+                "597788598",
+                "613588228",
+                "646481891",
+                "668525088",
+                "713665137",
+                "729222510",
+                "782900178",
+                "84174021",
+                "861380479",
+                "915800429",
+                "958940435",
+                "969339748",
+                "993201612",
+                "997365758"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Permafrost/BasePistol_Permafrost/Play_Wp_Pistol_Permafrost_Fire_Triple",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "142866520",
+                "216512508",
+                "236481720",
+                "238982497",
+                "299214904",
+                "329628538",
+                "336080446",
+                "374039697",
+                "392544631",
+                "412553243",
+                "418031869",
+                "428133041",
+                "428253112",
+                "437666636",
+                "457693320",
+                "485187003",
+                "491349141",
+                "571705010",
+                "642065704",
+                "666606050",
+                "672613655",
+                "676970154",
+                "705934487",
+                "745801285",
+                "751984085",
+                "770184923",
+                "805727785",
+                "816397912",
+                "87478747",
+                "879637595",
+                "883011947",
+                "884127045",
+                "902020965",
+                "992048349",
+                "992409126"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Permafrost/Burst_Permafrost/Play_Wp_Burst_Rifle_Permafrost_Fire_BurstShot1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1022037718",
+                "1033051696",
+                "1053096308",
+                "1054545266",
+                "1058724466",
+                "150210110",
+                "17042030",
+                "205061723",
+                "249814679",
+                "270308070",
+                "281021152",
+                "324251867",
+                "337020551",
+                "34759239",
+                "395799847",
+                "399241279",
+                "442760307",
+                "454890668",
+                "475482582",
+                "494716171",
+                "505273681",
+                "524272879",
+                "546529296",
+                "627667319",
+                "657986229",
+                "658736272",
+                "682996670",
+                "698837885",
+                "739124222",
+                "77032672",
+                "78076390",
+                "784484858",
+                "804447277",
+                "811777436",
+                "817779519",
+                "853848976",
+                "867684380",
+                "883467173",
+                "897892519",
+                "922266390",
+                "949525656",
+                "960377572",
+                "996862379",
+                "997632650"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Permafrost/Burst_Permafrost/Play_Wp_Burst_Rifle_Permafrost_Fire_BurstShot2",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1022037718",
+                "1033051696",
+                "1053096308",
+                "1054545266",
+                "1058724466",
+                "150210110",
+                "17042030",
+                "205061723",
+                "249814679",
+                "270308070",
+                "281021152",
+                "324251867",
+                "337020551",
+                "34759239",
+                "395799847",
+                "399241279",
+                "442760307",
+                "454890668",
+                "475482582",
+                "494716171",
+                "505273681",
+                "524272879",
+                "546529296",
+                "627667319",
+                "657986229",
+                "658736272",
+                "682996670",
+                "698837885",
+                "739124222",
+                "77032672",
+                "78076390",
+                "784484858",
+                "804447277",
+                "811777436",
+                "817779519",
+                "853848976",
+                "867684380",
+                "883467173",
+                "897892519",
+                "922266390",
+                "949525656",
+                "960377572",
+                "996862379",
+                "997632650"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Permafrost/Burst_Permafrost/Play_Wp_Burst_Rifle_Permafrost_Fire_BurstShot3",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1008933243",
+                "1020165591",
+                "1020187372",
+                "147009198",
+                "197284008",
+                "209592957",
+                "211916246",
+                "265592065",
+                "305862716",
+                "328862350",
+                "386638469",
+                "388135705",
+                "462973942",
+                "470629775",
+                "474223775",
+                "492171538",
+                "505991933",
+                "556639448",
+                "60701949",
+                "61758392",
+                "620745450",
+                "627667319",
+                "645303607",
+                "666885361",
+                "698025053",
+                "698837885",
+                "721103611",
+                "734429782",
+                "739124222",
+                "750986363",
+                "751570537",
+                "755120699",
+                "757041313",
+                "77851482",
+                "823719400",
+                "840884566",
+                "857644647",
+                "885237723",
+                "887403777",
+                "896399197",
+                "914813819",
+                "961360069",
+                "997632650"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/SOL/Carbine_Sil_SOL/Play_Wp_Carbine_Silenced_SOL_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1000257217",
+                "1013606431",
+                "1030957653",
+                "1064609377",
+                "132840485",
+                "141902713",
+                "15608121",
+                "19817588",
+                "23735593",
+                "247440487",
+                "253231749",
+                "278181300",
+                "287420995",
+                "288919808",
+                "300533359",
+                "305310865",
+                "346789659",
+                "356364649",
+                "360321679",
+                "36526880",
+                "370105150",
+                "373034337",
+                "376656642",
+                "396388706",
+                "4257123",
+                "433276887",
+                "446172999",
+                "453867813",
+                "483662764",
+                "556087702",
+                "557940199",
+                "574908951",
+                "629270200",
+                "640083259",
+                "649021402",
+                "651938489",
+                "666867631",
+                "706123495",
+                "708556622",
+                "727572187",
+                "735772597",
+                "740800366",
+                "749229699",
+                "790412770",
+                "795804348",
+                "896551422",
+                "912923756",
+                "91828322",
+                "921335286",
+                "937276135"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/SOL/HMG_SOL/Play_Wp_HMG_SOL_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1001455445",
+                "1004441899",
+                "1008975621",
+                "1024361052",
+                "103409121",
+                "126678484",
+                "184241766",
+                "208481655",
+                "227911716",
+                "24422536",
+                "248890408",
+                "254310651",
+                "255318042",
+                "311744580",
+                "373253599",
+                "376571524",
+                "477508685",
+                "482325397",
+                "48992893",
+                "518292695",
+                "588327665",
+                "636574672",
+                "652775590",
+                "689721709",
+                "716661228",
+                "721570604",
+                "732548462",
+                "751509533",
+                "773884501",
+                "783134800",
+                "790454423",
+                "796292336",
+                "803203158",
+                "817877757",
+                "822608170",
+                "829764058",
+                "829809770",
+                "838867936",
+                "846111941",
+                "861035440",
+                "863999424",
+                "866728615",
+                "93870877",
+                "977464722",
+                "987145776"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/SOL/Sawed_Off_SOL/Play_Wp_Shotgun_Sawed_Off_SOL_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1003421811",
+                "150149766",
+                "176826881",
+                "229609369",
+                "315593476",
+                "315996501",
+                "331517859",
+                "348835473",
+                "353282970",
+                "374189230",
+                "434678562",
+                "494488970",
+                "643947015",
+                "706804398",
+                "723732078",
+                "72425694",
+                "800388753",
+                "859290517",
+                "895101081",
+                "898171371",
+                "904859273",
+                "906829763",
+                "99484984"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_AK_RE/T1/Play_Wp_AK47_Antares_Tier1_Equip_Chg_Hndl_Back",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "116254477",
+                "639079803",
+                "903135759"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_AK_RE/T1/Play_Wp_AK47_Antares_Tier1_Equip_Chg_Hndl_Fwd",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "357423710",
+                "547080652",
+                "993194908"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_AK_RE/T1/Play_Wp_AK47_Antares_Tier1_Equip_Chg_Hndl_Grab",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "179768279",
+                "694002623",
+                "904637493"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_AK_RE/T1/Play_Wp_AK47_Antares_Tier1_Inspect_Mvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1067993917",
+                "375125981",
+                "988702057"
+            ]
+        }
+    }
+]

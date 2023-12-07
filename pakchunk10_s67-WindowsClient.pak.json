@@ -1,0 +1,38 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Shotgun_Pump_RE/Play_Wp_Shotgun_Pump_Ashen_Inspect_Elem_C_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "583087831"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_SawedOff_RE/Play_Wp_SawedOff_Ashen_Equip_Elem_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "689974553"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Sawed_Off_RE/Play_Wp_Sawed_Off_SOL_Reload_Shells_In_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "252306758"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_SpecOps/Play_UI_KillBanner_SpecOps",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "929591421"
+            ]
+        }
+    }
+]

@@ -1,0 +1,291 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/Hurm/Events_Hrum_Orbs/Hurm_Orb_Healing/Play_Hurm_Orb_Healing_Charging",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1022474147"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Reload_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "651797957"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1037878967"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Reload_Elem_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "490994603"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Luger_RE/Play_Wp_Luger_Ashen_Reload_Mag_In_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "33658420"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Revolver_RE/Play_Wp_Revolver_Motor_Inspect_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "674711043"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Revolver_RE/Play_Wp_Revolver_Motor_Inspect_Ele_E",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "451971272"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen2/Play_Wp_Melee_Ashen2_Inspect_Ele_A_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "556084095"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen2/Play_Wp_Melee_Ashen2_Inspect_Ele_B_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "270871385"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen2/Play_Wp_Melee_Ashen2_Inspect_Ele_C_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "962896609"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen2/Play_Wp_Melee_Ashen2_Inspect_Lv1_Mvt_A_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "475845221"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen/Play_Wp_Melee_Ashen_Inspect_Mvt_C_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "585908068"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen/Play_Wp_Melee_Ashen_Inspect_Ele_A_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "850560213"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BurstRifle_RE/Play_Wp_BurstRifle_Permafrost_Reload_Ele_Ice_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "358911540"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BurstRifle_RE/Play_Wp_BurstRifle_Permafrost_Inspect_Ele_Ice_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "7518670"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Sawed_Off_RE/Play_Wp_Slim_SOL_Equip_Close_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "465334162"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_PermaFrost/Play_UI_KillBanner_PermaFrost",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "591379029"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_SawedOff_RE/Play_Wp_SawedOff_Ashen_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "863175951"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_SawedOff_RE/Play_Wp_SawedOff_Ashen_Reload_Shells_In",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "923106535"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_DMR_RE/Play_Wp_DMR_Ashen_Inspect_Elem_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "716391487"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_AK47_RE/Play_Wp_AK47_Aquarium_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "614144425"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Champions3/Play_UI_KillBanner_Champions3",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "364676638"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BasePistol_RE/Play_Wp_BasePistol_Permafrost_Equip_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1054355318"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LMG_RE/Play_Wp_LMG_Ashen_Inspect_Elem_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "966220912"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Volumes/Def_Side/Play_BG_Yard_DefCourtyard_Open",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "111875199"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_DMR_RE/Play_Wp_DMR_Aquarium_Grab_Chg_Handle_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "680467854"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Carbine_RE/Play_Wp_Carbine_Ashen_Inspect_Elem_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "196785794"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Carbine_RE/Play_Wp_Carbine_Ashen_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "403479812"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Mvt_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "313395045"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_AK_RE/Play_Wp_AK47_Ashen_Inspect_Elem_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "301330440"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_SovWorld/Play_Wp_Melee_SovWorld_Inspect_Mvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "96978028"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/SAV/Play_Amb_Hurm4_ABathHouseTowardTeleporter",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "336381360",
+                "880702324"
+            ]
+        }
+    }
+]

@@ -1,0 +1,311 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Clay_SFX/Boomba/Play_Abil_Boomba_TinTank_Drop_Impact_Deployed",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "199487643",
+                "228510317",
+                "586413504",
+                "690296310",
+                "859204912",
+                "944011131"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_Emote_Hold",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "85048521",
+                "962726834"
+            ],
+            "de-DE": [
+                "319137705",
+                "49304608"
+            ],
+            "en-US": [
+                "164870267",
+                "630205019"
+            ],
+            "es-ES": [
+                "190916954",
+                "882295432"
+            ],
+            "es-MX": [
+                "747432276",
+                "811947205"
+            ],
+            "fr-FR": [
+                "64211862",
+                "783775508"
+            ],
+            "it-IT": [
+                "1045731826",
+                "452128734"
+            ],
+            "ja-JP": [
+                "1068315647",
+                "124081474"
+            ],
+            "ko-KR": [
+                "506125306",
+                "743907209"
+            ],
+            "pl-PL": [
+                "315110151",
+                "80511022"
+            ],
+            "pt-BR": [
+                "300091997",
+                "425263010"
+            ],
+            "ru-RU": [
+                "282401706",
+                "628329181"
+            ],
+            "tr-TR": [
+                "8796641",
+                "902185737"
+            ],
+            "Zh-CN": [
+                "244932494",
+                "25104667"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Circle/Play_Wp_Melee_Circle_HeavySlash_Lvl1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "203825895",
+                "257767850",
+                "330954473",
+                "347634037",
+                "358977396",
+                "46245546",
+                "562663950",
+                "672386963",
+                "769929113",
+                "913050503",
+                "982108040"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Circle/Play_Wp_Melee_Circle_Inspect_Lvl1_Mvt_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "123239458",
+                "16999011",
+                "917868835"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Triad/Interiors/Play_Amb_Triad_CGarage_Window",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "141812733",
+                "478415396"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_HawkFlash_FlashCharging",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "869016799"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_HawkFlash_TimeOut",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1049605624",
+                "763235161"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/AbilX/X/Play_Cable_AbilX_Timeout",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "550562190"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Vampire_VO/Ult/Play_VO_Vampire_ULT_ClutchPlay",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1212608781",
+                "2036089892",
+                "790214314",
+                "926700942"
+            ],
+            "de-DE": [
+                "1546143369",
+                "347628995",
+                "718124896",
+                "759519612"
+            ],
+            "en-US": [
+                "1011202161",
+                "229963071",
+                "359661353",
+                "730786463"
+            ],
+            "es-ES": [
+                "1241520886",
+                "161401667",
+                "307107028",
+                "927820976"
+            ],
+            "es-MX": [
+                "1058864518",
+                "1599125551",
+                "738498750",
+                "839316711"
+            ],
+            "fr-FR": [
+                "1322785143",
+                "188953079",
+                "402523121",
+                "487238730"
+            ],
+            "it-IT": [
+                "1039928851",
+                "1693523931",
+                "4064966",
+                "656943387"
+            ],
+            "ja-JP": [
+                "1295294211",
+                "1845794359",
+                "739456514",
+                "746753224"
+            ],
+            "ko-KR": [
+                "1013773732",
+                "472832045",
+                "595601347",
+                "786086203"
+            ],
+            "pl-PL": [
+                "1975024280",
+                "349395400",
+                "415379968",
+                "60393089"
+            ],
+            "pt-BR": [
+                "1519094899",
+                "261961818",
+                "589278083",
+                "985846712"
+            ],
+            "ru-RU": [
+                "1258890739",
+                "2072035758",
+                "242245948",
+                "793591897"
+            ],
+            "tr-TR": [
+                "1775932939",
+                "2081817236",
+                "593833450",
+                "966563436"
+            ],
+            "Zh-CN": [
+                "1283884684",
+                "562776509",
+                "710636226",
+                "860559142"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/OneShots/Play_Breeze_Amb_Def_Goop_Boat",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "661800388",
+                "95696243"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/UI_XP_Tick",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "78780173"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/TourDeForce/Play_Wp_TourDeForce_Port_Close_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "40361064"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/TourDeForce/Play_Wp_TourDeForce_Scope_Holo_Retract_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "284638090"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Clay_SFX/Rocket/Play_Clay_Rocket_Equip_Mech_4_PopOut",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "169215155"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/Hurm/Events_Hrum_Orbs/Hurm_Orb_Ult/Play_Hurm_Orb_Ult_RegenEffect",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "703781001"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Finisher/Events_Guns_Urf_Finisher/Play_Wp_Finisher_Urf",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "274646381",
+                "496181386"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Social_Panel/UI_Friend_Request_Sent",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "518802533"
+            ]
+        }
+    }
+]

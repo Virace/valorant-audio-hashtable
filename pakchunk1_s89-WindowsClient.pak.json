@@ -1,0 +1,243 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Pitt/Volumes/AmbVols/Play_BG_Pitt_DefSpwn_Fountain_Nook",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "23738442"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/MagePunk/PumpSG_MagePunk/Play_Wp_Shotgun_Pump_MagePunk_Fire_Alt_RemBlast",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1023008062",
+                "110342872",
+                "161093362",
+                "162710675",
+                "193576968",
+                "266365031",
+                "307674630",
+                "313971548",
+                "319366408",
+                "329419755",
+                "341377687",
+                "386106031",
+                "392577348",
+                "450668720",
+                "490568402",
+                "500572170",
+                "512114416",
+                "53447751",
+                "562046485",
+                "586389061",
+                "682992564",
+                "747121979",
+                "760173838",
+                "782347675",
+                "788733627",
+                "841745088",
+                "89058281",
+                "901884626",
+                "941535997",
+                "948021465",
+                "96803284"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_Luger_RE/Play_Wp_Luger_Sovereign_Inspect_Mvt_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "504440315"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_Luger_RE/Play_Wp_Luger_Sovereign_Inspect_Mvt_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "907824802"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Sovereign/Vector_Sovereign/Play_Wp_Vector_Sovereign_Fire_Last",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1051832376",
+                "119732284",
+                "122966472",
+                "123827623",
+                "125102142",
+                "129583089",
+                "170794941",
+                "195911706",
+                "21424267",
+                "236599493",
+                "255690116",
+                "269801143",
+                "289659187",
+                "30238942",
+                "313925157",
+                "314740201",
+                "323133000",
+                "350192872",
+                "352931219",
+                "377704253",
+                "378377128",
+                "401785630",
+                "406092097",
+                "418552641",
+                "531769374",
+                "571500721",
+                "572323391",
+                "573557373",
+                "599707000",
+                "600101030",
+                "637674627",
+                "638877886",
+                "639036986",
+                "662142998",
+                "665247946",
+                "689597615",
+                "71383848",
+                "714368663",
+                "786785496",
+                "813331685",
+                "838502976",
+                "843242407",
+                "850420704",
+                "850502620",
+                "851889794",
+                "85642926",
+                "895575709",
+                "919883992",
+                "920223212",
+                "930605472",
+                "93528501",
+                "936874051",
+                "944673056",
+                "963452054"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_Emote_BeQuiet",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1072002760",
+                "508983299"
+            ],
+            "de-DE": [
+                "297381437",
+                "339426618"
+            ],
+            "en-US": [
+                "1072474010",
+                "584331342"
+            ],
+            "es-ES": [
+                "549867915",
+                "715939227"
+            ],
+            "es-MX": [
+                "236916201",
+                "519539748"
+            ],
+            "fr-FR": [
+                "421162833",
+                "580029351"
+            ],
+            "it-IT": [
+                "227864275",
+                "245673700"
+            ],
+            "ja-JP": [
+                "129311356",
+                "594432266"
+            ],
+            "ko-KR": [
+                "266602720",
+                "464858627"
+            ],
+            "pl-PL": [
+                "1065962766",
+                "156053588"
+            ],
+            "pt-BR": [
+                "312618946",
+                "595010779"
+            ],
+            "ru-RU": [
+                "1044299908",
+                "844070559"
+            ],
+            "tr-TR": [
+                "102032203",
+                "323905387"
+            ],
+            "Zh-CN": [
+                "442163250",
+                "953951896"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/URF_RE/URF_HMG_RE/Play_Wp_HMG_URF_Inspect_Close_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "273895746"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/Hurm/Event_Hurm_Barrier/Hurm_Barrier/Play_Hurm_Barrier_Bllind_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "171216838",
+                "364052749",
+                "797284831"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Range/Play_BG_Range_Fluorescent_Light_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1045167170"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Gumshoe_SFX/Movement/Play_Mvt_Gumshoe_S0_Arm_Inspect_Down_Small_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "29043831",
+                "390407554",
+                "57173269"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Movement/ArmL/Play_Mvt_Deadeye_S0_ArmL_Inspect_Med_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "642101885",
+                "980127704",
+                "998398174"
+            ]
+        }
+    }
+]

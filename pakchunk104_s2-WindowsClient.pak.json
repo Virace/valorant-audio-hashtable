@@ -1,0 +1,38 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Karambit/Play_Wp_Melee_Karambit_Attack_2_Return",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "291554555",
+                "342734378",
+                "778188440"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Karambit/Play_Wp_Melee_Karambit_Heavy_Slash_Flip_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "220444574",
+                "784945659",
+                "793950633"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Karambit/Play_Wp_Melee_Karambit_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "347634037",
+                "358977396",
+                "46245546",
+                "672386963",
+                "913050503"
+            ]
+        }
+    }
+]

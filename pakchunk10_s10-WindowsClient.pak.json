@@ -1,0 +1,137 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_MonkeyKing/Play_UI_KillBanner_MonkeyKing",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "263089195"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_MonkeyKing/Play_UI_KillBanner_MonkeyKing",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "55580485"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LeverSniper_RE/Play_Wp_LeverSniper_Ashen_Inspect_Lever_In_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "890526227"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Permafrost/Play_Wp_Melee_Permafrost_Inspect_Mvt_Ele_Ice_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "38048236"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Hurm4/Emitters/Play_BG_Hurm4_Emitter_Arcade_Machine_DanceFever_Mus_Lp",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "906993626"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Orient/Play_Wp_Melee_Orient_Lv2_Inspect_EleChroma_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "189930058"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_DMR_RE/Play_Wp_DMR_Aquarium_Mag_Rls_Button_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "331116014"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_DMR_RE/Play_Wp_DMR_Aquarium_MagOut_Begin_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "386407090"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Revolver_RE/Play_Wp_Revolver_Motor_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "54597772"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Pump_RE/Play_Wp_Shotgun_Pump_Motor_Reload_End_Mvt_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1034664301"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Pump_RE/Play_Wp_Shotgun_Pump_Motor_Reload_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "768013572"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_MP5_RE/Play_Wp_MP5_SOL_Reload_Chg_Handle_Pull_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "741061097"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_SawedOff_RE/Play_Wp_SawedOff_Ashen_Reload_Open",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "609931605"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_MP5_RE/Play_Wp_MP5_Aquarium_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "741904848"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_SoL/Play_UI_KillBanner_SoL_Appear",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "365155667"
+            ]
+        }
+    }
+]

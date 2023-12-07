@@ -1,0 +1,618 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Ascent/Emitters/Play_BG_Ascent_Wind_Gust_Cone",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "109306688",
+                "299605228"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Vampire_SFX/AbilC/Play_Vampire_Nearsight_Destroyed",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "761250935"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/HeadHunter/Play_Wp_HeadHunter_Inspect_Slide_Sight_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "293873467"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/HeadHunter/Play_Wp_HeadHunter_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "929077634"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_Lever_RE/Play_Wp_Lever_Sovereign_Inspect_Mvt_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "207612672"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_X_Pack_Equip_Idle_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "534016737"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Progression/UI_MatchDetailsThrobber",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "306620743"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Breach_VO/E01/Play_VO_Breach_BubbleDown",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1224991172",
+                "1251109363",
+                "1343925626",
+                "1361281396",
+                "1543120177",
+                "1812970729",
+                "1824892105",
+                "183772964",
+                "384879384",
+                "392208493",
+                "631918908",
+                "940574551"
+            ],
+            "de-DE": [
+                "1127898969",
+                "1350638992",
+                "162533141",
+                "1711404730",
+                "1786380457",
+                "2121049654",
+                "472554783",
+                "536310466",
+                "591547909",
+                "762779831",
+                "785319622",
+                "816865252"
+            ],
+            "en-US": [
+                "1043423377",
+                "147543737",
+                "238102246",
+                "250753356",
+                "27464605",
+                "461829555",
+                "467182636",
+                "500922920",
+                "548904138",
+                "646298721",
+                "712144254",
+                "948084835"
+            ],
+            "es-ES": [
+                "1067246736",
+                "1291110534",
+                "129250692",
+                "1385964264",
+                "1589573596",
+                "1629090093",
+                "2140645521",
+                "4054050",
+                "446398919",
+                "568299166",
+                "580155764",
+                "83186645"
+            ],
+            "es-MX": [
+                "1351450013",
+                "1354753686",
+                "1412533940",
+                "1434980309",
+                "1526665497",
+                "1722069773",
+                "18145377",
+                "410240496",
+                "451512767",
+                "710279673",
+                "880117439",
+                "948820222"
+            ],
+            "fr-FR": [
+                "1253564402",
+                "1306821561",
+                "1389019780",
+                "1508346144",
+                "1508597650",
+                "1565399466",
+                "1895637611",
+                "371543908",
+                "500788495",
+                "562882115",
+                "755220221",
+                "965037520"
+            ],
+            "it-IT": [
+                "123010955",
+                "1261345450",
+                "1267145526",
+                "1551998267",
+                "1944485505",
+                "2121724745",
+                "2144065519",
+                "246038265",
+                "256115939",
+                "297203361",
+                "800295069",
+                "888547657"
+            ],
+            "ja-JP": [
+                "1009645690",
+                "1346788657",
+                "1526906573",
+                "1639846241",
+                "1963775533",
+                "2017636470",
+                "290224060",
+                "359886961",
+                "403167122",
+                "420338465",
+                "527248236",
+                "844411201"
+            ],
+            "ko-KR": [
+                "1105608065",
+                "1149473323",
+                "1199736166",
+                "1251453052",
+                "1378269426",
+                "1669897625",
+                "1788353408",
+                "1813030129",
+                "2106242887",
+                "280202182",
+                "919170736",
+                "989487979"
+            ],
+            "pl-PL": [
+                "1030375950",
+                "1204678530",
+                "1286290868",
+                "1515945788",
+                "1531506868",
+                "168120292",
+                "1859556418",
+                "2125408393",
+                "421856951",
+                "639445359",
+                "672966371",
+                "677477461"
+            ],
+            "pt-BR": [
+                "1129992385",
+                "1233324547",
+                "1639817796",
+                "1709769913",
+                "1748196022",
+                "2141396241",
+                "266400420",
+                "577752918",
+                "62275517",
+                "693953921",
+                "70529538",
+                "784830067"
+            ],
+            "ru-RU": [
+                "1013363029",
+                "1024678981",
+                "1241387577",
+                "135499494",
+                "1418654749",
+                "1652957105",
+                "1717756031",
+                "172367042",
+                "1729806591",
+                "1784236256",
+                "223759061",
+                "430160483"
+            ],
+            "tr-TR": [
+                "1026034246",
+                "1119443489",
+                "117206986",
+                "1452071586",
+                "1724934468",
+                "1795554066",
+                "2129659802",
+                "309485876",
+                "363986495",
+                "781895190",
+                "815599816",
+                "954241065"
+            ],
+            "Zh-CN": [
+                "1122641425",
+                "1699297652",
+                "1915113773",
+                "1988042620",
+                "238915417",
+                "246153226",
+                "289377135",
+                "382753202",
+                "584447076",
+                "598375489",
+                "715790945",
+                "862734204"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Urf/Play_Wp_Urf_Heavy_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "220444574",
+                "285571899",
+                "347634037",
+                "358977396",
+                "444254822",
+                "46245546",
+                "672386963",
+                "784945659",
+                "789534978",
+                "793950633",
+                "826183650",
+                "913050503",
+                "928249492",
+                "999423181"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Ascent/Volumes/Play_BG_Ascent_Exterior_Birds",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "394551407"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Social_Panel/UI_Social_Panel_Expand",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "93113214"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_Emote_GoingMid",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "566070633",
+                "69212158"
+            ],
+            "de-DE": [
+                "101970659",
+                "465748412"
+            ],
+            "en-US": [
+                "14696567",
+                "237332142"
+            ],
+            "es-ES": [
+                "44594007",
+                "607329041"
+            ],
+            "es-MX": [
+                "118018716",
+                "654977473"
+            ],
+            "fr-FR": [
+                "286383099",
+                "916101073"
+            ],
+            "it-IT": [
+                "585397682",
+                "775315900"
+            ],
+            "ja-JP": [
+                "62516365",
+                "953133366"
+            ],
+            "ko-KR": [
+                "117396231",
+                "727204733"
+            ],
+            "pl-PL": [
+                "1016514205",
+                "1036569092"
+            ],
+            "pt-BR": [
+                "62774650",
+                "853326982"
+            ],
+            "ru-RU": [
+                "374911629",
+                "41831551"
+            ],
+            "tr-TR": [
+                "201132222",
+                "296656452"
+            ],
+            "Zh-CN": [
+                "526132591",
+                "573321513"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_Emote_Hello",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "158985731",
+                "194777531",
+                "963422079"
+            ],
+            "de-DE": [
+                "300579499",
+                "730327067",
+                "780958599"
+            ],
+            "en-US": [
+                "219018442",
+                "96205093",
+                "977137845"
+            ],
+            "es-ES": [
+                "1056807590",
+                "733452977",
+                "894022202"
+            ],
+            "es-MX": [
+                "158066021",
+                "528259926",
+                "779362367"
+            ],
+            "fr-FR": [
+                "1071066056",
+                "1073707853",
+                "956949119"
+            ],
+            "it-IT": [
+                "272099293",
+                "406698486",
+                "929483710"
+            ],
+            "ja-JP": [
+                "1007009608",
+                "486478392",
+                "571937961"
+            ],
+            "ko-KR": [
+                "345506145",
+                "482258353",
+                "658758815"
+            ],
+            "pl-PL": [
+                "3849338",
+                "437015590",
+                "66193975"
+            ],
+            "pt-BR": [
+                "553070953",
+                "592533272",
+                "945279471"
+            ],
+            "ru-RU": [
+                "471375751",
+                "760851450",
+                "897327090"
+            ],
+            "tr-TR": [
+                "175154258",
+                "743968064",
+                "823606717"
+            ],
+            "Zh-CN": [
+                "148427950",
+                "763805937",
+                "901962876"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Abilities/Wave_C/Play_Mage_AbilC_Wave_Stop_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "518489241"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Range/Play_BG_Range_Exterior_Sheltered",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "178236976"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Gumshoe_SFX/Abilities/E/Play_Gumshoe_AbilE_RemoteDeactivate",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "290312722"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Pandemic_SFX/4/Play_Pandemic_Abil_Smoke_Pickup",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "47357455"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_DMR_RE/T1/Play_Wp_DMR_Sovereign_Tier1_Reload_4_MagInBegin",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "575419514"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/Trap/Play_Deadeye_Trap_DestroyedAlert",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "753233896"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/Trap/Play_Deadeye_DebuffZone_LP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "861947666"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Circle/AK47_Circle/Play_Wp_AK47_Circle_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "101145424",
+                "1020396756",
+                "1020579393",
+                "1031155163",
+                "1040461877",
+                "1060130451",
+                "1067141511",
+                "115668874",
+                "251984921",
+                "254798444",
+                "294878099",
+                "31291311",
+                "345148982",
+                "355106021",
+                "396251375",
+                "409961594",
+                "416977151",
+                "436971189",
+                "47266145",
+                "472939748",
+                "528226445",
+                "528248604",
+                "555800817",
+                "560291115",
+                "561409234",
+                "562884538",
+                "584020184",
+                "598810260",
+                "611288526",
+                "6121897",
+                "620013597",
+                "620138329",
+                "632916505",
+                "641285787",
+                "654575803",
+                "664650975",
+                "688259961",
+                "727196755",
+                "736949655",
+                "739633805",
+                "745073504",
+                "839057616",
+                "846825577",
+                "884887133",
+                "893543092",
+                "904872551",
+                "93482293",
+                "939165295",
+                "942041572",
+                "951430288",
+                "953397436",
+                "968970412",
+                "97278063",
+                "986490080"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Ascent/OneShots/Play_Ascent_Amb_Def_BSite_Scurry",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "412251011",
+                "728013651"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/SpikeRush/Events_SpikeRush_Buff_Golden_Gun_Granted/Play_SpikeRush_Buff_Golden_Gun_Granted",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "569631759"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/E_Haunt/Play_BH_E_Haunt_Deploy_Hit_Ground",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "528617826"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/CharacterSelect/Play_UI_CharacterSelect_FiveSecondsLeft_Tick",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "384941254"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HypeB_RE/HypeB_DMR_RE/T3/Play_Wp_DMR_HypeBeast_Reload_E",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "465540667"
+            ]
+        }
+    }
+]

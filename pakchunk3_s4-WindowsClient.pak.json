@@ -1,0 +1,47 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/Play_Wp_LMG_Edge_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "328485170"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Reload_Chg_Hndl_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "319133272"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Equip_Chg_Hndl_Fwd_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "184624829"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Reload_Mag_In_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "16050276"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Equip_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "263313114"
+            ]
+        }
+    }
+]

@@ -1,0 +1,735 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Duality/Loops_Volumes/Play_AmbVol_A_BeyondSite",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "661411828",
+                "784166431"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Hunter_SFX/Abilities/Play_Hunter_AbilX_Equip_BowMvt_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "846536626"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/WinterMode/WinterMode/Play_WinterMode_GiftRift_Close",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "93338455"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wushu_SFX/Abilities/E/Play_Wushu_AbilE_Cast_Back",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "178060289",
+                "355752678",
+                "468918657",
+                "844027386",
+                "867747636",
+                "918343932"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Abilities/C_Wall/Play_Sequoia_AbilQ_Wall_Near_Break",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "389632445"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/E_Haunt/Play_BH_E_Haunt_Deploy_Formation",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "69983331"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/E_Haunt/Play_BH_E_Haunt_Reactivate",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "368911063"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Clay_SFX/ClusterGrenade/Play_Wp_Cluster_Projectile_Beep",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "894959745"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Clay_SFX/ClusterGrenade/Play_Wp_Cluster_Projectile_Secondary_Beep",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "912444320"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Abilities/X/Play_Mage_AbilX_Storm_Wind_Down",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "856728183"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Gumshoe_SFX/Abilities/E/Play_Gumshoe_AbilE_FireSecondary",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "606206145"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops/Play_BG_Port_Energy_Hum",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "310515670"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops/Play_BG_Port_Energy_Hum",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "504023864"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops/Play_BG_Port_EdgeWind_Howl_High",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "686477605"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wushu_SFX/Movement/Play_Mvt_Wushu_ArmR_Med_GunUp1_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "447761214"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Rift_SFX/Abilities/Play_Rift_AbilX_Wall_Equip_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "473873617"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_HawkFlash_Equip_Idle_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "294403269"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Abilities/Play_Guide_Heal_Players_Base",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "192459666"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Progression/UI_Contract_CycleUp",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "239239704"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Clay_CharacterSelect/Play_Clay_CharacterSelect_Arrive_Abilities",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "131223731"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/AbilE/E/Play_Cable_AbilE_EN_Destroyed",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "334918385"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/AbilE/E/Play_Cable_AbilE_Equipped_Idle",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "901145064"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/UI_EOG_Account_LevelUp",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "832329577"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Clay_VO/Play_VO_Clay_AbilityEMultipleKills",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "151990651",
+                "1545964313",
+                "1797790539",
+                "628064374"
+            ],
+            "de-DE": [
+                "1459543337",
+                "1952092071",
+                "214512547",
+                "2260648"
+            ],
+            "en-US": [
+                "1054877423",
+                "294938650",
+                "450012400",
+                "957085915"
+            ],
+            "es-ES": [
+                "1103066222",
+                "1401131860",
+                "1456719828",
+                "699511992"
+            ],
+            "es-MX": [
+                "1284149759",
+                "1505456273",
+                "1708441329",
+                "1913811665"
+            ],
+            "fr-FR": [
+                "1057309374",
+                "1265884011",
+                "1487905936",
+                "1868511207"
+            ],
+            "it-IT": [
+                "1477149800",
+                "1549317728",
+                "391691398",
+                "721925295"
+            ],
+            "ja-JP": [
+                "1508642232",
+                "1565147876",
+                "1704077380",
+                "417945773"
+            ],
+            "ko-KR": [
+                "1020027071",
+                "483193863",
+                "841795801",
+                "922226626"
+            ],
+            "pl-PL": [
+                "116684139",
+                "1210109092",
+                "618755734",
+                "63275625"
+            ],
+            "pt-BR": [
+                "1351687050",
+                "1494878175",
+                "374775683",
+                "670278560"
+            ],
+            "ru-RU": [
+                "1540405421",
+                "1661027742",
+                "1930537199",
+                "234835952"
+            ],
+            "tr-TR": [
+                "151049604",
+                "485397658",
+                "904956349",
+                "933659502"
+            ],
+            "Zh-CN": [
+                "139590311",
+                "1532931854",
+                "417563636",
+                "6223741"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Abilities/Q_Fragile/Play_Sequoia_AbilQ_Equipped",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "22680454"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/Trap/Stop_Deadeye_DebuffZone_LP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "252206849"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wushu_SFX/Abilities/Grenade/Play_Wushu_Grenade_Explode_Decay",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "858623005"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Triad/Persistant_Objects/Play_Triad_BG_Fire_Large_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "363187597"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/URF_RE/URF_HMG_RE/Play_Wp_HMG_URF_Inspect_Mvt_G_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "721116976"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Abilities/Wave_C/Play_Mage_AbilC_Wave_Linger_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "679784867"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/C/Play_Cable_AbilC_WindUp_Update",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "430910394",
+                "717551966"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Jam/Volumes/Play_BG_Jam_AtkSpwn_Exterior_Side",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1032623862",
+                "843020820"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Jam/Loops/Play_Emitter_Jam_BSite_Main_Opening",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "64973160",
+                "82068037"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Jam/Loops/Play_Emitter_Jam_Foliage",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "87579868"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Breach_SFX/Play_Breach_Fissure_Explode",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "112169865",
+                "434834284"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Stealth_SFX/4/Play_Stealth_Abil4_Decoy_Windup_Start",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "483974408"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Stealth_SFX/4/Play_Stealth_Abil4_Puddle_Drop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "155326666",
+                "300670729",
+                "363353920",
+                "789975939",
+                "881527901"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Hunter_SFX/Abilities/E_ReconDrone/Play_Hunter_AbilE_Dart_V2_HitConfirm_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1009328148"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Clay_VO/E02/Play_VO_Clay_E02_HeadshotKill",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "145141401",
+                "310355767",
+                "61103909",
+                "688856162",
+                "890679447",
+                "95285618"
+            ],
+            "de-DE": [
+                "1024738181",
+                "1086062662",
+                "1403309066",
+                "248987588",
+                "254495320",
+                "654889727"
+            ],
+            "en-US": [
+                "1052553480",
+                "12840595",
+                "37396801",
+                "420482715",
+                "442224207",
+                "708643267"
+            ],
+            "es-ES": [
+                "1039390318",
+                "1986750825",
+                "467731568",
+                "653005844",
+                "752712013",
+                "833352016"
+            ],
+            "es-MX": [
+                "1174140094",
+                "2010282202",
+                "417283510",
+                "920094304",
+                "93272904",
+                "94128548"
+            ],
+            "fr-FR": [
+                "1062721088",
+                "1196044108",
+                "1325459805",
+                "1455500056",
+                "526702716",
+                "731688430"
+            ],
+            "it-IT": [
+                "1531528370",
+                "1842580850",
+                "477010552",
+                "623803687",
+                "846254849",
+                "932053084"
+            ],
+            "ja-JP": [
+                "1135629645",
+                "1706463991",
+                "180341695",
+                "1992892996",
+                "687736613",
+                "992556409"
+            ],
+            "ko-KR": [
+                "170276685",
+                "2070576100",
+                "505580394",
+                "582213307",
+                "596573151",
+                "644308410"
+            ],
+            "pl-PL": [
+                "164471588",
+                "1797982326",
+                "296452384",
+                "785551298",
+                "828445657",
+                "850444096"
+            ],
+            "pt-BR": [
+                "1005735423",
+                "1089005067",
+                "1903212736",
+                "71496917",
+                "729294133",
+                "876030945"
+            ],
+            "ru-RU": [
+                "1301744018",
+                "1335451606",
+                "2116095695",
+                "605717246",
+                "831088004",
+                "958840284"
+            ],
+            "tr-TR": [
+                "1811379685",
+                "2033010609",
+                "389808450",
+                "468979672",
+                "534868811",
+                "7188179"
+            ],
+            "Zh-CN": [
+                "1380833222",
+                "2133839882",
+                "236372314",
+                "250926201",
+                "780689455",
+                "891344858"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Thorne_CharacterSelect/Play_Thorne_CharacterSelect_Arrive",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "893700681"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Phoenix_VO/Play_VO_Phoenix_DeathEffort",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1754525844",
+                "2117477689",
+                "405762882",
+                "631614567"
+            ],
+            "de-DE": [
+                "1290171688",
+                "1754603649",
+                "1899028644",
+                "456869211"
+            ],
+            "en-US": [
+                "24209094",
+                "688150397",
+                "689271594",
+                "727100292"
+            ],
+            "es-ES": [
+                "1208880829",
+                "1769043072",
+                "258223918",
+                "684730959"
+            ],
+            "es-MX": [
+                "1197101636",
+                "1565487887",
+                "1665132737",
+                "384121743"
+            ],
+            "fr-FR": [
+                "2002454274",
+                "459098250",
+                "828754120",
+                "886132823"
+            ],
+            "it-IT": [
+                "1807238471",
+                "1831384435",
+                "430616955",
+                "597295129"
+            ],
+            "ja-JP": [
+                "114163729",
+                "157859749",
+                "714960125",
+                "845398856"
+            ],
+            "ko-KR": [
+                "1033188100",
+                "1235233942",
+                "2036891570",
+                "776410971"
+            ],
+            "pl-PL": [
+                "456539658",
+                "744725245",
+                "976868942",
+                "986286830"
+            ],
+            "pt-BR": [
+                "1090676571",
+                "1111837819",
+                "1678694846",
+                "186600403"
+            ],
+            "ru-RU": [
+                "1477939637",
+                "1875155590",
+                "1935521563",
+                "808197433"
+            ],
+            "tr-TR": [
+                "1258393860",
+                "1691095831",
+                "1901719796",
+                "404039533"
+            ],
+            "Zh-CN": [
+                "1955529830",
+                "210900224",
+                "389692248",
+                "972272171"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Stealth_SFX/Q/Play_Stealth_AbilQ_ThemedWindup",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "285838084"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Sovereign/LeverSniper_Sovereign/Play_Wp_LeverSniper_Sovereign_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1005984465",
+                "1027973201",
+                "111756335",
+                "114196894",
+                "149900625",
+                "152312315",
+                "210047895",
+                "228462268",
+                "23964444",
+                "245189120",
+                "247991204",
+                "318614696",
+                "321757465",
+                "350154414",
+                "351640238",
+                "361166725",
+                "363336794",
+                "375575130",
+                "421498672",
+                "4353789",
+                "436047985",
+                "448741496",
+                "457561739",
+                "532411456",
+                "594720934",
+                "625880478",
+                "672678174",
+                "761649306",
+                "775944267",
+                "828495200",
+                "831783168",
+                "847588040",
+                "850473948",
+                "853190535",
+                "866684314",
+                "924273655",
+                "946505794",
+                "965999942",
+                "987862241",
+                "989358040",
+                "994772396"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Movement/Play_Mvt_Mage_S0_ArmR_Short_Fast2_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "242825191",
+                "342532272",
+                "787211629"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Pitt/Volumes/Play_BG_Pitt_Interior",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "293939519",
+                "977565339"
+            ]
+        }
+    }
+]

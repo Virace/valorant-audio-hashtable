@@ -1,0 +1,82 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/C/Play_BountyHunter_C_BitConfirm_Caster",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "238451464"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wushu_SFX/Abilities/Grenade/Play_Wushu_Abil4_Projectile_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "7965735"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_Emote_SpikeSpotted",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "759827568",
+                "789242451"
+            ],
+            "de-DE": [
+                "317736782",
+                "780290586"
+            ],
+            "en-US": [
+                "370103361",
+                "990137029"
+            ],
+            "es-ES": [
+                "901187278",
+                "925715180"
+            ],
+            "es-MX": [
+                "240871217",
+                "447481421"
+            ],
+            "fr-FR": [
+                "1050402515",
+                "869285137"
+            ],
+            "it-IT": [
+                "817257268",
+                "887117609"
+            ],
+            "ja-JP": [
+                "116670948",
+                "239765908"
+            ],
+            "ko-KR": [
+                "671050884",
+                "838974039"
+            ],
+            "pl-PL": [
+                "1000396438",
+                "970852730"
+            ],
+            "pt-BR": [
+                "261278290",
+                "584788638"
+            ],
+            "ru-RU": [
+                "215046667",
+                "478525867"
+            ],
+            "tr-TR": [
+                "186030894",
+                "512198088"
+            ],
+            "Zh-CN": [
+                "312121153",
+                "835637480"
+            ]
+        }
+    }
+]

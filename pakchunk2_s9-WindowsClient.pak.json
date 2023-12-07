@@ -1,0 +1,582 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Sewer",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "85350592"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_Bonsai_Amb_AirVent_Loop_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "755971436"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Monitors",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "824480737"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Hologram",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "645227260"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_Bonsai_Amb_TreeWind_Loop_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "890325955"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_MachineRoom",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "569588012",
+                "977294233"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_ATower_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "376669138",
+                "69667285"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_AirConditioner_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "446541848"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Fan_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "663632918"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Vents",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "389680244"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_ASite_Corner",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "376669138",
+                "69667285"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Brakes_Construct_TrafficDist",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "197407786",
+                "74950927",
+                "983162618"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_BTower_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "702160120",
+                "977294233"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Construction",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "983162618"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Exterior",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "69667285",
+                "862010517"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Exterior_Birds",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "164226447",
+                "500369388",
+                "676111186",
+                "69667285"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Exterior_Birds",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "164226447",
+                "676111186",
+                "69667285",
+                "862010517"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Exterior_Urban",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "500369388",
+                "977294233"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Exterior_Urban",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "977294233"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Exterior_Urban",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "977294233"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Fan_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "693377263"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Fan_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "134631766"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_FanLoop_FluorLight",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1031259451",
+                "693377263"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Fluorescent_Light_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "812212433"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Fluorescent_Light_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "812212433"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Monitors",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "219562714"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Motorcyles_Alarms_TrainDist",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1015794472",
+                "108546913",
+                "194901759"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Sewer",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "341430285"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Sewer_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "753839766"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Traffic_Distant",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "74950927"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Train_Distant",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "194901759"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Train_Horn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "926725636"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Train_Stop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "399750824"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Vents",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "59610534"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Vents",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "28140275"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_BG_Bonsai_Wall_Panel",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "472346144"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_Bonsai_Amb_VendingMachine_Loop_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "223816915"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Bonsai/Play_Train_Announcement",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1072732150",
+                "127978875",
+                "174879605",
+                "239004595",
+                "303038342",
+                "317252270",
+                "337572430",
+                "385978439",
+                "441284363",
+                "448522737",
+                "623311907",
+                "869744647",
+                "87620088",
+                "948978667"
+            ],
+            "de-DE": [
+                "1056000150",
+                "1066622399",
+                "137999535",
+                "299804022",
+                "346013246",
+                "396840355",
+                "436973587",
+                "439099810",
+                "477347596",
+                "481107746",
+                "551661831",
+                "587547367",
+                "652961700",
+                "741689212"
+            ],
+            "en-US": [
+                "1029094667",
+                "143992572",
+                "173825615",
+                "25786708",
+                "261683832",
+                "316895324",
+                "398228356",
+                "399649686",
+                "560633990",
+                "656882465",
+                "732720934",
+                "755303146",
+                "927338800",
+                "962733535"
+            ],
+            "es-ES": [
+                "197033148",
+                "259541654",
+                "265552771",
+                "274014466",
+                "330152266",
+                "342770484",
+                "436292102",
+                "534407140",
+                "565509219",
+                "62052857",
+                "817113453",
+                "910769566",
+                "911886588",
+                "93890637"
+            ],
+            "es-MX": [
+                "1018017780",
+                "133538450",
+                "235410699",
+                "436857827",
+                "48483051",
+                "491708933",
+                "498537624",
+                "500766012",
+                "541470065",
+                "601492629",
+                "727113497",
+                "771034239",
+                "826996115",
+                "904803389"
+            ],
+            "fr-FR": [
+                "269558604",
+                "317308091",
+                "331147408",
+                "367201780",
+                "403158480",
+                "407400567",
+                "415804305",
+                "42638173",
+                "500637189",
+                "522549371",
+                "583199240",
+                "633437825",
+                "795111387",
+                "948452358"
+            ],
+            "it-IT": [
+                "1047156129",
+                "2981375",
+                "328715470",
+                "347641981",
+                "3730677",
+                "478863483",
+                "543140261",
+                "544393401",
+                "561264666",
+                "62214043",
+                "649497333",
+                "747824237",
+                "921790378",
+                "940098867"
+            ],
+            "ja-JP": [
+                "1050183957",
+                "112714372",
+                "171456732",
+                "205527536",
+                "312462454",
+                "329860643",
+                "389696671",
+                "439033807",
+                "456239121",
+                "517197017",
+                "518379028",
+                "549438942",
+                "571508799",
+                "795695383"
+            ],
+            "ko-KR": [
+                "1013382144",
+                "112575826",
+                "232314027",
+                "260021305",
+                "406838025",
+                "460164390",
+                "470016723",
+                "570482098",
+                "661027370",
+                "687830264",
+                "779600780",
+                "829867500",
+                "912304032",
+                "983934883"
+            ],
+            "pl-PL": [
+                "1024441629",
+                "262283032",
+                "264506488",
+                "284542047",
+                "325110857",
+                "327205645",
+                "390911697",
+                "544039162",
+                "658522512",
+                "669292577",
+                "80239123",
+                "910787844",
+                "919797184",
+                "927425332"
+            ],
+            "pt-BR": [
+                "140099243",
+                "140374775",
+                "365407788",
+                "412070398",
+                "490666653",
+                "652191777",
+                "667470465",
+                "721545495",
+                "77910657",
+                "786204516",
+                "806696623",
+                "8907133",
+                "923430363",
+                "984923972"
+            ],
+            "ru-RU": [
+                "1069388466",
+                "235065672",
+                "239814491",
+                "264790811",
+                "391326428",
+                "435207320",
+                "438780081",
+                "56896023",
+                "629889599",
+                "716961306",
+                "805303177",
+                "844815875",
+                "859426497",
+                "958858261"
+            ],
+            "tr-TR": [
+                "1060031357",
+                "120321429",
+                "195119385",
+                "233958646",
+                "324947357",
+                "357747212",
+                "389338261",
+                "517977892",
+                "608066055",
+                "744711563",
+                "773725766",
+                "784095662",
+                "799842415",
+                "994023753"
+            ],
+            "Zh-CN": [
+                "253194199",
+                "27690649",
+                "425991437",
+                "451149979",
+                "494417850",
+                "541033801",
+                "61540009",
+                "667350829",
+                "879144627",
+                "892852316",
+                "910824526",
+                "912604526",
+                "946211962",
+                "982537166"
+            ]
+        }
+    }
+]

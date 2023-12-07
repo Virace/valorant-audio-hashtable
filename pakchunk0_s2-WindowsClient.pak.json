@@ -1,0 +1,65 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Carbine_RE/Play_Wp_Carbine_Inspect_Mvt_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "979491769"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/MainMenu/Play_UI_MainLobby_SwapTeamClick",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "673408091"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HMG_RE/Play_Wp_HMG_Inspect_Close_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "87077651"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HMG_RE/Play_Wp_HMG_Reload_Lift_Mvt_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "527456203"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Luger_RE/Play_Wp_Luger_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "880718261"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Vector_RE/Play_Wp_Vector_Inspect_Mvt_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "624557667"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_InGame/InGame/Play_sfx_UI_DefendersObjectiveInitiated",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "507143434"
+            ]
+        }
+    }
+]

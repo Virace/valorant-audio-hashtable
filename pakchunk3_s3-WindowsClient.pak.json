@@ -1,0 +1,38 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Inspect_Belt_in_Mag_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "40066289"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Edge_RE/Edge_LMG_RE/T1/Play_Wp_LMG_Edge_Tier1_Reload_Chg_Hndl_Fwd_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "34589469"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/CyberP_RE/CyberP_Burst_RE/Play_Wp_Burst_CyberPunk_Reload_MagIn_Element_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "280490113"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Finisher/Events_Guns_Cyberpunk_Finisher/Play_Wp_Finisher_Cyberpunk",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "282826587"
+            ]
+        }
+    }
+]

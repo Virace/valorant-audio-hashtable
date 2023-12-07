@@ -1,0 +1,283 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Sequoia_SFX/Abilities/E_Flow/Play_Sequoia_AbilE_GridShot_Charge_OS",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "932811525"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Wraith_SFX/Abil_E_ShadowStep/Play_Abil_Wraith_ShadowStep_Equip_Idle",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "567625252"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/HeadHunter/Play_Wp_HeadHunter_Equip_Slide_Sight_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "337070621"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Volumes/Volume_Aggregates/Play_AmbVol_Foxtrot_Metal_Hall",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "923173981"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Volumes/Volume_Aggregates/Play_AmbVol_Foxtrot_Underpass",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "71732765"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Volumes/Volume_Aggregates/Play_AmbVol_Foxtrot_Exterior_3_wBirds",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "338459956",
+                "75998832"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_SnowGlobe/Play_Wp_Melee_SnowGlobe_HitConfirm",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1031235186",
+                "1033296111",
+                "1066247508",
+                "178883113",
+                "423087036",
+                "455801753",
+                "619694100",
+                "674687371",
+                "723974045",
+                "773434726",
+                "787495452",
+                "907473528",
+                "983304019"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/X/Play_BH_X_RollingFog",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "112087826",
+                "366228763",
+                "858303048"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SnowGlobe_RE/SnowGlobe_LMG_RE/Play_Wp_Mvt_LMG_Snowglobe_Inspect_Elem_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "743451672"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Phoenix_SFX/Movement/Play_Mvt_Phoenix_S0_ArmL_Fast_Ramp_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "110155906",
+                "242495750",
+                "504125435"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_Luger_RE/Play_Wp_Luger_Sovereign_Inspect_Element_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "822686163"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Stealth_SFX/4/Play_Stealth_Abil4_Decoy_ExploBreak",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "766295501"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Ascent/Emitters/Play_BG_Ascent_Fan_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "876922634"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/AbilX/X/Play_Char_Cable_AbilX_FishHook_3P_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "510971216"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/SpikeRush/Events_SpikeRush_Buff_Paranoia/Play_SpikeRush_Buff_Paranoia_Loop_Victim",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "245346287"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Clay_CharacterSelect/Play_Clay_CharacterSelect_Arrive_Foley",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "488668639"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/UI_Eog_Rank_Major_Increase",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "98406955"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/EoGScreen/Play_UI_EoG_Match_History_Close",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "486524353"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Jam/Volumes/Play_BG_Jam_DefSpwntoBSite_Interior",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "667524837"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/DthMtch/Events_DthMtch/Play_Respawn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "269248337",
+                "42915019"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Loops/Emitter_Aggregates/Play_Emitter_Foxtrot_Foliage_Wind",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "170829077"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/URF_RE/URF_HMG_RE/Play_Wp_HMG_URF_Inspect_Shell_Mvt_F_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "450301766"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Wraith_CharacterSelect/Play_Wraith_CharacterSelect_Idle_RadElement_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "143304866"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Guide_SFX/Movement/Play_Mvt_Guide_S0_Arm_Med_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "154866333",
+                "408454818",
+                "726147767"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_URF/Play_UI_KillBanner_URF",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "121747372"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Sov_RE/Sov_DMR_RE/T3/Play_Wp_DMR_Sovereign_Inspect_Element_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "352231834"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Gumshoe_SFX/Abilities/Q/Play_Gumshoe_AbilQ_Projectile",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "505593477"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SnowGlobe_RE/SnowGlobe_Carb_RE/Play_Wp_Mvt_Carbine_Snowglobe_Inspect_Elem_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "662309127"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Sovereign/Play_UI_KillBanner_Sovereign",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1064796764"
+            ]
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_AK_RE/Play_Wp_AK_Motor_Inspect_Ele_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "132346673"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_AK_RE/Play_Wp_AK_Motor_Inspect_Ele_Gear_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1010627183"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_AK_RE/Play_Wp_AK_Motor_Inspect_Ele_Spark_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "209023697"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Loops/Play_BG_Yard_Water_Babble",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "746120748"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_Burst_RE/Play_Wp_Burst_Antares_Inspect_Mvt_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "29583406"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_BurstRifle_RE/Play_Wp_BurstRifle_Permafrost_Reload_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "673171755"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Cable_CharacterSelect/Play_Cable_CharacterSelect",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "461647659"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_Luger_RE/Play_Wp_Luger_Ashen_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "375234280"
+            ]
+        }
+    }
+]

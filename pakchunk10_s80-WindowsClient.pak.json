@@ -1,0 +1,176 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_AutoShotgun_RE/Play_Wp_AutoShotgun_Dynasty_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "472856871",
+                "517800013",
+                "555649937"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Lunar/Play_Wp_Melee_Lunar_lv2_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "1051948522",
+                "165981060",
+                "179639439",
+                "23938239",
+                "31142475",
+                "347634037",
+                "358977396",
+                "46245546",
+                "561100028",
+                "664987221",
+                "672386963",
+                "913050503",
+                "967104915"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Mythic_RE/Mythic_AK47_RE/Play_Wp_AK47_Mythic_Inspect_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "289473359",
+                "809635707",
+                "810624609"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Haunted_RE/Haunted_Luger_RE/Play_Wp_Luger_Haunted_Inspect_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "325390951",
+                "653728094",
+                "894584251"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Pump_RE/Play_Wp_Shotgun_Pump_Motor_Inspect_Mvt_A_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "638445682",
+                "821891296",
+                "940934118"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_BoltSniper_RE/Play_Wp_BoltSniper_Dynasty_Reload_Mvt_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "465793826",
+                "817185691",
+                "898334057"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Antares_RE/Antares_BoltSniper_RE/Play_Wp_BoltSniper_Antares_Equip_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "227422478",
+                "605568008",
+                "945150565"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_AK47_RE/Play_Wp_AK47_Aquarium_MagIn_End_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1008777223",
+                "396858523",
+                "670488539"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Arcade/Play_Wp_Melee_Arcade_HeavySlash_Lv1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "31017645",
+                "347634037",
+                "358977396",
+                "394217522",
+                "46245546",
+                "543916029",
+                "649940139",
+                "672386963",
+                "73367536",
+                "852609375",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_BoltSniper_RE/Play_Wp_BoltSniper_MonkeyKing_Equip_Ele_B",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1029364442",
+                "312320860",
+                "452720577"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/MonkeyKing_RE/MonkeyKing_BoltSniper_RE/Play_Wp_BoltSniper_MonkeyKing_Mag_Hit_Magwell_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "488239269",
+                "733791834",
+                "87044851"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Reload_Belt_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "101697031",
+                "576212866",
+                "674275649"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Vector_RE/Play_Wp_Vector_Motor_Equip_GrabGrip_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "247605787",
+                "568435836",
+                "827203353"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Aquarium_RE/Aquarium_MP5_RE/Play_Wp_MP5_Aquarium_Equip_Stock_Extend_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "305845439",
+                "429192367",
+                "544336446"
+            ]
+        }
+    }
+]

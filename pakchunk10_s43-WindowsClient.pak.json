@@ -1,0 +1,29 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_AK_RE/Play_Wp_AK_Motor_Inspect_Ele_Spark_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "149979245"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_SoL/Play_UI_KillBanner_SoL",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "117978741"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/Hurm/Events_Hrum_Orbs/Hurm_Orb_Healing/Play_Hurm_Orb_Healing_RegenEffect",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1015688252"
+            ]
+        }
+    }
+]

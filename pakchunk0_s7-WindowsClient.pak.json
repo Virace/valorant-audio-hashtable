@@ -1,0 +1,397 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Thorne_VO/Play_VO_Thorne_LastKill_Hawk",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "2141029415"
+            ],
+            "de-DE": [
+                "1855967262"
+            ],
+            "en-US": [
+                "633075017"
+            ],
+            "es-ES": [
+                "183233472"
+            ],
+            "es-MX": [
+                "78284543"
+            ],
+            "fr-FR": [
+                "797458087"
+            ],
+            "it-IT": [
+                "1601811062"
+            ],
+            "ja-JP": [
+                "1991595560"
+            ],
+            "ko-KR": [
+                "1673828820"
+            ],
+            "pl-PL": [
+                "319176061"
+            ],
+            "pt-BR": [
+                "1462618093"
+            ],
+            "ru-RU": [
+                "1083200289"
+            ],
+            "tr-TR": [
+                "1065817487"
+            ],
+            "Zh-CN": [
+                "406152574"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HMG_RE/Play_Wp_HMG_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "445960410"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HMG_RE/Play_Wp_HMG_Reload_Shift_Mvt_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "137916188"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HMG_RE/Play_Wp_HMG_Reload_Top_Open_Start_TP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "112133133"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Killjoy_SFX/Abilities/Alarmbot/Play_Killjoy_Abil_Alarmbot_Destroyed",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "376656443"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Global_Buff_Base/Buff_RevealLocation_Base/Play_Buff_RevealLocation_Base_Start",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "119316015"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/BombMode/Events_Spike/Radianite/Play_Rad_Trans_Stage",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "454787569"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/LMG_RE/Play_Wp_LMG_Reload_Chg_Hndl_Grab_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "601320597"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/BasePistol_RE/Play_Wp_BasePistol_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "48120408"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Aggrobot_SFX/Aggrobot_E/E/Play_Aggrobot_E_Zamboni_Proj_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "441547505",
+                "65470944"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Revolver_RE/Play_Wp_Revolver_Inspect_Mvt_D_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "988334466"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Killjoy_SFX/Abilities/LockDown/Play_Killjoy_AbilX_Lockdown_OutsideDome_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "341840176"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Grenadier_VO/Play_VO_Grenadier_E02_BubbleDown_Ally_Breach",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "519332990"
+            ],
+            "de-DE": [
+                "955899658"
+            ],
+            "en-US": [
+                "92555951"
+            ],
+            "es-ES": [
+                "318712046"
+            ],
+            "es-MX": [
+                "752533458"
+            ],
+            "fr-FR": [
+                "240429136"
+            ],
+            "it-IT": [
+                "864019425"
+            ],
+            "ja-JP": [
+                "845796456"
+            ],
+            "ko-KR": [
+                "508260433"
+            ],
+            "pl-PL": [
+                "818717838"
+            ],
+            "pt-BR": [
+                "208744367"
+            ],
+            "ru-RU": [
+                "184214697"
+            ],
+            "tr-TR": [
+                "404252857"
+            ],
+            "Zh-CN": [
+                "215254606"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Grenadier_VO/Play_VO_Grenadier_E02_Emote_RushThem",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1038203733",
+                "630291867"
+            ],
+            "de-DE": [
+                "287143452",
+                "688324361"
+            ],
+            "en-US": [
+                "132397742",
+                "784623731"
+            ],
+            "es-ES": [
+                "421048323",
+                "734135461"
+            ],
+            "es-MX": [
+                "385584147",
+                "891284905"
+            ],
+            "fr-FR": [
+                "767536191",
+                "97162558"
+            ],
+            "it-IT": [
+                "1004214958",
+                "111702336"
+            ],
+            "ja-JP": [
+                "273192050",
+                "327491921"
+            ],
+            "ko-KR": [
+                "59090045",
+                "945475807"
+            ],
+            "pl-PL": [
+                "559510851",
+                "723843459"
+            ],
+            "pt-BR": [
+                "203418847",
+                "667832570"
+            ],
+            "ru-RU": [
+                "52452646",
+                "788448510"
+            ],
+            "tr-TR": [
+                "472266031",
+                "79934676"
+            ],
+            "Zh-CN": [
+                "869882636",
+                "992533023"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Killjoy_VO/E02/Play_VO_Killjoy_E02_MatchSrt_Chat_KJSarge",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "864896596"
+            ],
+            "de-DE": [
+                "665326758"
+            ],
+            "en-US": [
+                "1005293923"
+            ],
+            "es-ES": [
+                "405997336"
+            ],
+            "es-MX": [
+                "365214181"
+            ],
+            "fr-FR": [
+                "461989782"
+            ],
+            "it-IT": [
+                "966140016"
+            ],
+            "ja-JP": [
+                "676906732"
+            ],
+            "ko-KR": [
+                "101218040"
+            ],
+            "pl-PL": [
+                "826748517"
+            ],
+            "pt-BR": [
+                "472947624"
+            ],
+            "ru-RU": [
+                "415625800"
+            ],
+            "tr-TR": [
+                "694630604"
+            ],
+            "Zh-CN": [
+                "459047850"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/MainMenu/Play_UI_MainLobby_CreateLobbyCancelClick",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "286240043"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Thorne_SFX/4/Play_Thorne_Abil4_GroundLoop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "718951795"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Vector_RE/Play_Wp_Vector_Reload_Hndl_Fwd_TP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "152505772"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SawedOff_RE/Play_Wp_Sawed_Off_Inspect_Mvt_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1061434381"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Vector/Play_Wp_Vector_Last_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1051832376",
+                "105197218",
+                "122966472",
+                "123827623",
+                "125102142",
+                "129583089",
+                "170794941",
+                "195911706",
+                "255690116",
+                "31332291",
+                "313925157",
+                "350192872",
+                "378377128",
+                "401785630",
+                "406092097",
+                "449359728",
+                "480650361",
+                "507601480",
+                "571500721",
+                "572323391",
+                "573557373",
+                "590053743",
+                "599707000",
+                "600101030",
+                "637674627",
+                "638877886",
+                "665247946",
+                "677666481",
+                "689597615",
+                "71383848",
+                "714368663",
+                "731151985",
+                "750739964",
+                "786785496",
+                "793570642",
+                "813331685",
+                "838502976",
+                "843242407",
+                "850502620",
+                "851889794",
+                "919883992",
+                "920223212",
+                "93528501",
+                "944673056",
+                "963452054"
+            ]
+        }
+    }
+]

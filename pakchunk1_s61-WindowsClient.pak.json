@@ -1,0 +1,308 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/Circle/Pump_Circle/Play_Wp_Pump_Circle_Fire_Alt_RemoteBlast",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1008972021",
+                "1023008062",
+                "161093362",
+                "162710675",
+                "186943431",
+                "225375574",
+                "266365031",
+                "294020533",
+                "307674630",
+                "319366408",
+                "329419755",
+                "341377687",
+                "350984512",
+                "386106031",
+                "392577348",
+                "435161528",
+                "450668720",
+                "48897443",
+                "490568402",
+                "500572170",
+                "53447751",
+                "562046485",
+                "618424043",
+                "642131165",
+                "682992564",
+                "747121979",
+                "760173838",
+                "782347675",
+                "823625110",
+                "841745088",
+                "845915691",
+                "89058281",
+                "941535997",
+                "943252607",
+                "948021465",
+                "953020522",
+                "959230206",
+                "96803284"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/Collection/Play_UI_Collection_Buddy_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "799263527"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Int_Obj/Play_Int_Obj_DosEP4A2_Close",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1056443805"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Loops/Individual/Play_BG_Foxtrot_Pipes",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "352253721"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Loops/Individual/Play_BG_Foxtrot_Pipes",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "114359363"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Loops/Individual/Play_BG_Foxtrot_Vents",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "427358625"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Range/Play_BG_Range_Wind_Window_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "931882878"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Range/Play_BG_Range_Office_Lights_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "303249743"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops/Play_BG_Port_Refrigerator",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "149668895"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Pandemic_SFX/E/Play_Pandemic_Abil_Wall_Device_Poof",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "159413302"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/MainMenu/Play_UI_MainLobby_ExitPanel_Open",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "93113214"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_Emote_EnemySpotted_A",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "198364413",
+                "631594345"
+            ],
+            "de-DE": [
+                "759578723",
+                "993699885"
+            ],
+            "en-US": [
+                "305571748",
+                "378860834"
+            ],
+            "es-ES": [
+                "706524822",
+                "863538219"
+            ],
+            "es-MX": [
+                "14135106",
+                "809213168"
+            ],
+            "fr-FR": [
+                "210027235",
+                "654548614"
+            ],
+            "it-IT": [
+                "472533895",
+                "917767853"
+            ],
+            "ja-JP": [
+                "42833024",
+                "939818668"
+            ],
+            "ko-KR": [
+                "309851621",
+                "845472446"
+            ],
+            "pl-PL": [
+                "590352853",
+                "852350845"
+            ],
+            "pt-BR": [
+                "145397578",
+                "435154618"
+            ],
+            "ru-RU": [
+                "1020802859",
+                "452210823"
+            ],
+            "tr-TR": [
+                "1055320524",
+                "406102854"
+            ],
+            "Zh-CN": [
+                "386008397",
+                "971907327"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Duality/BGFX/Play_BGFX_Wind_Palm_Tree_Rustle",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "555918522"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Clay_SFX/Satchel/Play_Clay_Satchel_InAir_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "874080597"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Wushu_VO/E02/Play_VO_Wushu_E02_WonGeneric",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "1168727959",
+                "155400148",
+                "1616167870",
+                "3264967"
+            ],
+            "de-DE": [
+                "1065112704",
+                "1411928329",
+                "817486436",
+                "851103813"
+            ],
+            "en-US": [
+                "1069253270",
+                "548999905",
+                "603507740",
+                "877271356"
+            ],
+            "es-ES": [
+                "1003999772",
+                "1057810691",
+                "469562203",
+                "628419904"
+            ],
+            "es-MX": [
+                "1214067288",
+                "2009282706",
+                "44158720",
+                "508681296"
+            ],
+            "fr-FR": [
+                "1418556485",
+                "1632031173",
+                "674546208",
+                "999798512"
+            ],
+            "it-IT": [
+                "1448686412",
+                "656818659",
+                "834247060",
+                "996755586"
+            ],
+            "ja-JP": [
+                "2059783389",
+                "38183226",
+                "589839263",
+                "619979748"
+            ],
+            "ko-KR": [
+                "1035402556",
+                "1755332100",
+                "2027098112",
+                "636898384"
+            ],
+            "pl-PL": [
+                "1895968624",
+                "589617042",
+                "742527992",
+                "874814361"
+            ],
+            "pt-BR": [
+                "1527459974",
+                "262317791",
+                "317898694",
+                "488459291"
+            ],
+            "ru-RU": [
+                "121845107",
+                "63940012",
+                "769831869",
+                "983989140"
+            ],
+            "tr-TR": [
+                "350030341",
+                "384358284",
+                "806853114",
+                "984955856"
+            ],
+            "Zh-CN": [
+                "144461968",
+                "159781529",
+                "1917369701",
+                "716676164"
+            ]
+        }
+    }
+]

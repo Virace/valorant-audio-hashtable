@@ -1,0 +1,29 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_HURM_Yard/Volumes/Def_Side/Play_BG_Yard_DefSpawn",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "601445626"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/Hurm/Events_Hrum_Orbs/Hurm_Orb_Healing/Play_Hurm_Orb_Healing_Capture",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "656997987"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_AK_RE/Play_Wp_AK47_Ashen_Reload_Elem_C_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "769163410"
+            ]
+        }
+    }
+]

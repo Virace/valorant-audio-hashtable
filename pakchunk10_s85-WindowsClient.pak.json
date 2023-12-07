@@ -1,0 +1,129 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_HMG_RE/Play_Wp_HMG_SOL_Reload_End_Mvt_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "469117132",
+                "681628469",
+                "803947550"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Mythic_RE/Mythic_Revolver_RE/Play_Wp_Revolver_Mythic_Inspect_Ele_D",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "254253073",
+                "736197000",
+                "972735976"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Mythic_RE/Mythic_Revolver_RE/Play_Wp_Revolver_Mythic_Inspect_Ele_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "136898903",
+                "487050569",
+                "935341727"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Motor_RE/Motor_Vector_RE/Play_Wp_Vector_Motor_Reload_Hndl_Fwd_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "133380659",
+                "729944329",
+                "918558468"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Dynasty/Play_Wp_Melee_Dynasty_Lv2_Heavy_Slash",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "101478370",
+                "1016300434",
+                "1027004256",
+                "225003955",
+                "283487202",
+                "332003516",
+                "347634037",
+                "357837606",
+                "358977396",
+                "374535438",
+                "395007726",
+                "396860559",
+                "4004905",
+                "410544842",
+                "46245546",
+                "469243951",
+                "559023712",
+                "672386963",
+                "825881383",
+                "866426271",
+                "913050503",
+                "956427885"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Antares/Play_Wp_Melee_Antares_Heavy_Slash_Lvl1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "1035535076",
+                "347634037",
+                "358977396",
+                "437639168",
+                "45882838",
+                "46245546",
+                "627399930",
+                "672386963",
+                "741309693",
+                "866915226",
+                "913050503"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Mythic_RE/Mythic_AK47_RE/Play_Wp_AK47_Mythic_Inspect_Ele_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "302812263",
+                "332163161",
+                "463989238"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Dynasty_RE/Dynasty_BoltSniper_RE/Play_Wp_BoltSniper_Dynasty_Equip_Mvt_EnergyStream",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "233556023",
+                "670359732",
+                "892457426"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Permafrost_RE/Permafrost_AK_RE/Play_Wp_AK47_PermaFrost_Inspect_Ele_Ice_A_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1036895815",
+                "165785238",
+                "464561879"
+            ]
+        }
+    }
+]

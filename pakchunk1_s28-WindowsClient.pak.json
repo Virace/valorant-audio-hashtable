@@ -1,0 +1,303 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_BountyHunter_SFX/C/Play_BountyHunter_C_Bullet_Hit_Confirm",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "359985824"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Loops/Individual/Play_BG_Foxtrot_RAD_Cave_Wall",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "433640903"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Gumshoe_SFX/Abilities/E/Play_Gumshoe_AbilE_TrapExplosion",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "393746614"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/Q/Play_Cable_AbilQ_Cloak",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "120433963",
+                "707130434"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/Q/Play_Cable_AbilQ_Recall",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "898159202"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/TourDeForce/Play_Wp_TourDeForce_Scope_Pop_Up_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "346918963"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Jam/Loops/Play_Emitter_Jam_BSite_Fountain",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "49087403"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_NPE/Play_npe_drone_idle",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "884821585"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Clay_SFX/Rocket/Play_Clay_Rocket_Equip_Energy_Initialize_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "978346971"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops/Play_BG_Port_EdgeWind_Howl_Muffled",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "258956494"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Ascent/Volumes/Play_BG_Ascent_Exterior",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "561459305"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/WinterMode/WinterMode/Play_WinterMode_SnowballLauncher_Equip_C",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "293576926"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/VO/Characters/Events_Char_Sequoia_VO/Core/Play_VO_Sequoia_Emote_DefuseOutOfTime",
+        "no_lang": false,
+        "data": {
+            "ar-AE": [
+                "681226288",
+                "880098055"
+            ],
+            "de-DE": [
+                "336210387",
+                "465666418"
+            ],
+            "en-US": [
+                "1053728814",
+                "172172876"
+            ],
+            "es-ES": [
+                "454526321",
+                "967107075"
+            ],
+            "es-MX": [
+                "439775428",
+                "832331249"
+            ],
+            "fr-FR": [
+                "176877415",
+                "686271094"
+            ],
+            "it-IT": [
+                "187249689",
+                "229788782"
+            ],
+            "ja-JP": [
+                "609293949",
+                "722024298"
+            ],
+            "ko-KR": [
+                "1007729184",
+                "326402511"
+            ],
+            "pl-PL": [
+                "1059862887",
+                "579028015"
+            ],
+            "pt-BR": [
+                "254595637",
+                "57350313"
+            ],
+            "ru-RU": [
+                "1004893690",
+                "845158889"
+            ],
+            "tr-TR": [
+                "40953341",
+                "692305081"
+            ],
+            "Zh-CN": [
+                "729527084",
+                "850872973"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Juliett/Juliett_OneShots/OneShots/Play_Juliett_Amb_AtkSpwn_CarBys",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1000303210",
+                "1028070829",
+                "1039351315",
+                "1063885183",
+                "1070361287",
+                "107903530",
+                "21023846",
+                "30147466",
+                "41092743",
+                "449654997",
+                "499802725",
+                "562283839",
+                "599459152",
+                "62690208",
+                "666462870",
+                "699735014",
+                "701420796",
+                "713778464",
+                "719849286",
+                "784219083",
+                "826149745",
+                "834490941",
+                "846048604",
+                "914602325",
+                "921204857",
+                "954176740",
+                "980048708"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_InGame/InGame/Play_UI_Shop_Item_Buy",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "371503345"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HypeB_RE/HypeB_AK47_RE/T1/Play_Wp_AK47_HypeBeast_Tier1_Reload_H",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "946464245"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/URF/URF_Carbine/Play_Wp_URF_Carbine_Sil_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1000257217",
+                "1013606431",
+                "1021065446",
+                "1030957653",
+                "1056517887",
+                "1064609377",
+                "132840485",
+                "146529313",
+                "148435089",
+                "15608121",
+                "171809131",
+                "19817588",
+                "23735593",
+                "247440487",
+                "253231749",
+                "278181300",
+                "287420995",
+                "288919808",
+                "312472633",
+                "346789659",
+                "36526880",
+                "370105150",
+                "373034337",
+                "400529124",
+                "408107537",
+                "413112199",
+                "4257123",
+                "446172999",
+                "450084262",
+                "453867813",
+                "483662764",
+                "550199605",
+                "556087702",
+                "557940199",
+                "574908951",
+                "600815843",
+                "601001861",
+                "605874392",
+                "629270200",
+                "651938489",
+                "661184588",
+                "666867631",
+                "718224809",
+                "726062600",
+                "727572187",
+                "736685324",
+                "739364273",
+                "740800366",
+                "758504569",
+                "790412770",
+                "806687957",
+                "882994572",
+                "896551422",
+                "912923756",
+                "91828322",
+                "921335286",
+                "937276135",
+                "98220303",
+                "987320214",
+                "997344627"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Mage_SFX/Abilities/Grenade_Q/Play_Mage_AbilQ_ShieldActiveBare_Loop",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "517463274"
+            ]
+        }
+    }
+]

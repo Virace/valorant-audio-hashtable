@@ -1,0 +1,186 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Pandemic_SFX/E/Play_pandemic_base_e_valvedeactivate_01",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "180777796",
+                "269352699",
+                "714452475"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_Firing/HypeBeast/MP5_HypeBeast/Play_Wp_MP5SD_HypeBeast_Fire",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "126143677",
+                "153206436",
+                "155984978",
+                "179241012",
+                "190541469",
+                "19962933",
+                "210209048",
+                "214988542",
+                "225731311",
+                "226971774",
+                "341231419",
+                "358309432",
+                "41569635",
+                "586444513",
+                "590654676",
+                "60253798",
+                "603027250",
+                "613350231",
+                "620351496",
+                "624986599",
+                "705369778",
+                "744138905",
+                "768882325",
+                "775424680",
+                "776076796",
+                "795365226",
+                "797919068",
+                "823994708",
+                "846078345",
+                "885859281",
+                "894044693",
+                "898600213",
+                "959595345",
+                "964155440",
+                "994001331",
+                "995435191"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Cable_SFX/AbilE/E/Play_Cable_AbilE_Equip",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "110001389",
+                "761627843"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/Trap/Play_Deadeye_Trap_Charging",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1064305656"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Characters/Events_Char_Deadeye/Abilities/TourDeForce/Play_Wp_TourDeForce_Equip_Catch_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "907450683"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Phoenix_CharacterSelect/Play_Phoenix_CS_Intro_V1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1022095199"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Jam/Volumes/Play_BG_Jam_Main_BSite",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "778603892",
+                "796682408"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_OutofGame/MainMenu/Play_UI_Home_Text_Appear",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "331357351"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Port/Loops_Volumes/Volume_Aggregates/Play_AmbVol_Port_DefSpawn_BeyondMap",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "229419226",
+                "518917805"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Sequoia_CharacterSelect/Sequoia_CharacterSelect_Arrive",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "709143794"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/CharacterSelect/Thorne_CharacterSelect/Play_Thorne_CharacterSelect_Idle",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "280046394"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Modes/SpikeRush/Events_SpikeRush_Buff_Speed_Boost/Play_SpikeRush_Buff_Speed_Boost_Beacon_End",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "459288045"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Duality/Loops_Volumes/Play_AmbVol_Wind_Chicken_Wire_Lite",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "40989906"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Maps/Events_Map_Foxtrot/Loops/Emitter_Aggregates/Play_Emitter_Foxtrot_Foliage_Wind",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "465348616"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/HypeB_RE/HypeB_AK47_RE/Play_Wp_AK47_HypeBeast_Equip_A",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "100387168"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/URF_RE/URF_MP5_RE/Play_Wp_MP5_URF_Inspect_Mvt_B_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "110516741"
+            ]
+        }
+    }
+]

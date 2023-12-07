@@ -1,0 +1,67 @@
+[
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Aquarium/Play_UI_KillBanner_Aquarium",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "410754231"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_Ashen/Play_Wp_Melee_Ashen_Inspect_Mvt_B_1P",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "696404849"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/UI/Events_UI_KillBanner/UI_KillBanner_Antares/Play_UI_Antares_Killbanner",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "8469700"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/SOL_RE/SOL_Sawed_Off_RE/Play_Wp_Sawed_Off_SOL_Reload_Close_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "832598914"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Guns_RE/Ashen_RE/Ashen_LMG_RE/Play_Wp_LMG_Ashen_Inspect_Mvt_F_FP",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "161498"
+            ]
+        }
+    },
+    {
+        "file": "Game/WwiseAudio/Events/SFX/Weapons/Events_Melee/Events_Melee_MotorBike/Play_Wp_Melee_MotorBike_Slash_Lvl1",
+        "no_lang": true,
+        "data": {
+            "comm": [
+                "1016300434",
+                "347634037",
+                "358977396",
+                "380732754",
+                "46245546",
+                "497278907",
+                "651181624",
+                "672386963",
+                "836983096",
+                "864107293",
+                "913050503",
+                "99426554"
+            ]
+        }
+    }
+]
