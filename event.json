@@ -134,6 +134,13 @@
                 ]
             }
         },
+        "Hunter": {
+            "BotMatch": {
+                "PickUpSpike01": [
+                    "273524269"
+                ]
+            }
+        },
         "NPE": {
             "M4": {
                 "Mission1_IntroMovement": [
@@ -202,6 +209,20 @@
                 ],
                 "Mission6_Ultimate": [
                     "833086980"
+                ]
+            }
+        },
+        "Sarge": {
+            "BotMatch": {
+                "PickUpSpike": [
+                    "268695937"
+                ]
+            }
+        },
+        "Thorne": {
+            "BotMatch": {
+                "PickUpSpike01": [
+                    "836796307"
                 ]
             }
         },
@@ -650,8 +671,15 @@
                     "867983076"
                 ]
             }
+        },
+        "Wushu": {
+            "BotMatch": {
+                "PickUpSpike01": [
+                    "9680933"
+                ]
+            }
         }
     },
-    "version": "07.12.00.2164217",
+    "version": "08.00.00.2191955",
     "type": "event_hash"
 }
