@@ -489,12 +489,10 @@
         "Brimstone": {
             "Voicemail": {
                 "": [
+                    "457019137",
                     "481366720",
                     "481366720",
-                    "481366720",
-                    "558167189",
-                    "593708847",
-                    "803852948"
+                    "694122469"
                 ]
             }
         },
@@ -1553,6 +1551,29 @@
             }
         },
         "Hunter": {
+            "BotMatch": {
+                "PickUpSpike01": [
+                    "273524269"
+                ],
+                "RoundStart_ASplit": [
+                    "149118042"
+                ],
+                "RoundStart_AStack": [
+                    "928240680"
+                ],
+                "RoundStart_BStack": [
+                    "832542528"
+                ],
+                "RoundStart_CSplit": [
+                    "1003317851"
+                ],
+                "RoundStart_CStack": [
+                    "1023962497"
+                ],
+                "SiteHit01": [
+                    "1072690335"
+                ]
+            },
             "Emote": {
                 "Encourage01": [
                     "47356279",
@@ -2608,6 +2629,29 @@
             }
         },
         "Sarge": {
+            "BotMatch": {
+                "PickUpSpike": [
+                    "268695937"
+                ],
+                "RoundStart_ASplit": [
+                    "585775542"
+                ],
+                "RoundStart_AStack": [
+                    "878007604"
+                ],
+                "RoundStart_BStack": [
+                    "766350430"
+                ],
+                "RoundStart_CSplit": [
+                    "420369678"
+                ],
+                "RoundStart_CStack": [
+                    "604680117"
+                ],
+                "SiteHit01": [
+                    "79334468"
+                ]
+            },
             "Emote": {
                 "Encourage01": [
                     "106410",
@@ -3386,6 +3430,29 @@
             }
         },
         "Thorne": {
+            "BotMatch": {
+                "PickUpSpike01": [
+                    "836796307"
+                ],
+                "RoundStart_ASplit": [
+                    "912749059"
+                ],
+                "RoundStart_AStack": [
+                    "475427484"
+                ],
+                "RoundStart_BStack": [
+                    "901762080"
+                ],
+                "RoundStart_CSplit": [
+                    "446123193"
+                ],
+                "RoundStart_CStack": [
+                    "664653506"
+                ],
+                "SiteHit02": [
+                    "324809039"
+                ]
+            },
             "Emote": {
                 "Encourage01": [
                     "625709925",
@@ -4438,6 +4505,29 @@
             }
         },
         "Wushu": {
+            "BotMatch": {
+                "PickUpSpike01": [
+                    "9680933"
+                ],
+                "RoundStart_ASplit": [
+                    "64939409"
+                ],
+                "RoundStart_AStack": [
+                    "40785927"
+                ],
+                "RoundStart_BStack": [
+                    "991765124"
+                ],
+                "RoundStart_CSplit": [
+                    "515498193"
+                ],
+                "RoundStart_CStack": [
+                    "651454583"
+                ],
+                "SiteHit01": [
+                    "440889661"
+                ]
+            },
             "Emote": {
                 "Encourage01": [
                     "580014532",
@@ -4588,6 +4678,6 @@
             }
         }
     },
-    "version": "09.00.00.2628993",
+    "version": "09.01.00.2669223",
     "type": "event_hash"
 }
